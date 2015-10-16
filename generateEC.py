@@ -1,7 +1,7 @@
 import timeit
 from array import array
 from function import Function
-from utils import create_had, increment, print_map, heartbeat, hdot, vec_to_i
+from utils import create_had, print_map, heartbeat, hdot, vec_to_i
 
 num_args = 4
 dim = 2 ** num_args
