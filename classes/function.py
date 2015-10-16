@@ -1,7 +1,6 @@
 from array import array
-from utils import i_to_b, num_ones_in_int, sparsity, mult_m_v, hdot
 
-__author__ = 'rkant'
+from utils.utils import i_to_b, num_ones_in_int, sparsity, mult_m_v, hdot, square, entropy, dot
 
 
 class Function(object):
@@ -20,7 +19,15 @@ class Function(object):
         self.ssignature = ''
         self.__to_func(name, vec_dim)
 
+    def compute_entropy_influence(self, wt_vec):
+        hatsq = array('f', [])
+        for i in xrange(self.dimension):
+            hatsq.append(square(float(self.hat[i])/self.dimension))
+        self.fEntropy = entropy(hatsq)
+        self.tInf = dot(wt_vec, hatsq)
+
     def __to_func(self, name, vec_dim):
+
         f_bin = array('i', [])
         i_to_b(name, f_bin, vec_dim)
         for i in xrange(len(f_bin)):

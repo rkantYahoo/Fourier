@@ -1,9 +1,12 @@
 import timeit
 from array import array
-from function import Function
-from utils import create_had, print_map, heartbeat, hdot, vec_to_i
 
-num_args = 4
+from classes.function import Function
+
+from utils.utils import create_had, print_map, heartbeat, hdot, vec_to_i
+
+
+num_args = 3
 dim = 2 ** num_args
 
 lo = 0
@@ -12,12 +15,13 @@ hi = 2 ** (dim - 1)
 had = []
 create_had(had, num_args, dim)
 
-start_time = timeit.default_timer()
 fo_map = open("map_" + str(num_args) + "_" + str(hi), "w")
 fo_rep = open("rep_" + str(num_args) + "_" + str(hi), "w")
+
 ec_map = {}
 ec_rep = {}
 
+start_time = timeit.default_timer()
 for fI in xrange(lo, hi):
     heartbeat(fI, start_time, 1000000)
     f = Function(fI, num_args, dim)

@@ -1,8 +1,9 @@
 import sys
 import timeit
 
-from function import Function
-from utils import create_had, increment, print_map, heartbeat
+from classes.function import Function
+from utils.utils import create_had, increment, print_map, heartbeat
+
 
 num_args = 3
 dim = 2 ** num_args
