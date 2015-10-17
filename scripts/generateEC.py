@@ -2,18 +2,21 @@ import timeit
 from array import array
 
 from classes.function import Function
+from utils.utils import *
 
-from utils.utils import create_had, print_map, heartbeat, hdot, vec_to_i
-
-
-num_args = 3
+num_args = 4
 dim = 2 ** num_args
 
 lo = 0
-hi = 2 ** (dim - 1)
+hi = 2 ** dim
 
 had = []
 create_had(had, num_args, dim)
+
+curr_dir = os.path.dirname(__file__)
+parent_dir = os.path.split(curr_dir)[0]
+data_dir = os.path.join(parent_dir, 'data')
+fo = open(os.path.join(data_dir, "fourierFull" + str(num_args)), "w")
 
 fo_map = open("map_" + str(num_args) + "_" + str(hi), "w")
 fo_rep = open("rep_" + str(num_args) + "_" + str(hi), "w")
@@ -24,8 +27,8 @@ ec_rep = {}
 start_time = timeit.default_timer()
 for fI in xrange(lo, hi):
     heartbeat(fI, start_time, 1000000)
-    f = Function(fI, num_args, dim)
-    if f.name not in ec_map:
+    if fI not in ec_map:
+        f = Function(fI, num_args, dim)
         ec_rep[f.name] = 1
         for i in xrange(dim):
             curr_vec = array('i', [])

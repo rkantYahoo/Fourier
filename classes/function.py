@@ -57,12 +57,14 @@ class Function(object):
         return sparsity(inf_arr)
 
     def print_info(self, fo):
+        fo.write(str(self.tInf) + "\t")
         fo.write("[" + ','.join(str(x) for x in self.vec) + "]\t")
-        fo.write("[" + ','.join(str(x) for x in self.hat) + "]\t")
         fo.write(str(self.deg) + "\t")
-        fo.write(str(self.signature) + "\t")
-        fo.write(str(self.ssignature) + "\t")
-        fo.write(str(self.nInfVar) + "\n")
+        fo.write(str(self.nInfVar) + "\t")
+        fo.write("[" + ','.join(str(x) for x in self.hat) + "]\t")
+        fo.write(str(self.fEntropy) + "\n")
+#        fo.write(str(self.signature) + "\t")
+#        fo.write(str(self.ssignature) + "\n")
 
     def transform(self, mat):
         mult_m_v(mat, self.vec, self.hat)
