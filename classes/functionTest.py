@@ -2,7 +2,7 @@ import unittest
 from classes.function import Function
 from utils.utils import *
 
-__author__ = 'Ravi'
+__author__ = 'rkant'
 
 
 class FunctionTestCase(unittest.TestCase):
