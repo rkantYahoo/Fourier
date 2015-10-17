@@ -110,8 +110,10 @@ def sparsity(arr):
             n += 1
     return n
 
+
 def square(num):
     return num * num
+
 
 def entropy(arr):
     """ Assumes arr is a valid prob distribution
@@ -166,8 +168,8 @@ def print_map(hash_map, out_fo):
 
 def heartbeat(count, start, interval):
     if (count % interval) == 0:
-        currTime = timeit.default_timer() - start
-        print("Finished " + str(count) + ". Time Taken: " + str(currTime) + " seconds")
+        curr_time = timeit.default_timer() - start
+        print("Finished " + str(count) + ". Time Taken: " + str(curr_time) + " seconds")
 
 
 if __name__ == '__main__':

@@ -33,4 +33,3 @@ print_map(ecCounts, fo_counts)
 fo_counts.write("\n\nsigned counts:\n")
 print_map(secCounts, fo_counts)
 print(sys.maxint)
-

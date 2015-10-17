@@ -29,7 +29,6 @@ class FunctionTestCase(unittest.TestCase):
         self.func2.transform(self.had2)
         self.func2.compute_entropy_influence(self.wt_vec2)
 
-
     def tearDown(self):
         self.func1 = None
         self.func2 = None
@@ -77,4 +76,3 @@ suite = unittest.TestLoader().loadTestsFromTestCase(FunctionTestCase)
 
 if __name__ == '__main__':
     unittest.main()
-

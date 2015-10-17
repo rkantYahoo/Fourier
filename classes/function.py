@@ -1,6 +1,5 @@
 from array import array
-
-from utils.utils import i_to_b, num_ones_in_int, sparsity, mult_m_v, hdot, square, entropy, dot
+from utils.utils import *
 
 
 class Function(object):
@@ -8,9 +7,9 @@ class Function(object):
         self.name = name
         self.order = order
         self.dimension = vec_dim
-        self.vec = array('i', [])
-        self.hat = array('i', [])
-        self.inf = array('i', [])
+        self.vec = array("i", [])
+        self.hat = array("i", [])
+        self.inf = array("i", [])
         self.deg = 0
         self.nInfVar = 0
         self.fEntropy = 0
@@ -27,7 +26,6 @@ class Function(object):
         self.tInf = dot(wt_vec, hatsq)
 
     def __to_func(self, name, vec_dim):
-
         f_bin = array('i', [])
         i_to_b(name, f_bin, vec_dim)
         for i in xrange(len(f_bin)):
@@ -48,16 +46,15 @@ class Function(object):
         return deg
 
     def __num_inf_var(self):
-        n = self.dimension
-        infArr = [0] * self.order
+        inf_arr = [0] * self.order
         for i in xrange(self.dimension):
             if self.hat[i] == 0:
                 continue
             curr_input = array('i', [])
             i_to_b(i, curr_input, self.order)
             for j in xrange(self.order):
-                infArr[j] += curr_input[j]
-        return sparsity(infArr)
+                inf_arr[j] += curr_input[j]
+        return sparsity(inf_arr)
 
     def print_info(self, fo):
         fo.write("[" + ','.join(str(x) for x in self.vec) + "]\t")
@@ -78,9 +75,3 @@ class Function(object):
         sorted_hat_signed_str = map(str, sorted_hat_signed)
         self.signature = ','.join(sorted_hat_str)
         self.ssignature = ','.join(sorted_hat_signed_str)
-
-    def min_rep(self, mat):
-        min = self.name
-        for i in xrange(len(mat)):
-            curr_func = array('i', [])
-            hdot(self.vec, mat[i], curr_func)
