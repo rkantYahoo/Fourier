@@ -165,6 +165,9 @@ def print_map(hash_map, out_fo):
     for key in hash_map:
         out_fo.write(str(key) + "  -->  " + str(hash_map[key]) + "\n")
 
+def arr_to_line(arr, out_fo, delim):
+#    out_fo.write(delim.join(arr) + "\t" + str(len(arr)) + "\n")
+    out_fo.write(delim.join(arr) + "\n")
 
 def heartbeat(count, start, interval):
     if (count % interval) == 0:

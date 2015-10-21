@@ -7,7 +7,9 @@ class Function(object):
         self.name = name
         self.order = order
         self.dimension = vec_dim
+        self.wt = 0
         self.vec = array("i", [])
+        self.tvec = array("i", [])
         self.hat = array("i", [])
         self.inf = array("i", [])
         self.deg = 0
@@ -17,6 +19,41 @@ class Function(object):
         self.signature = ''
         self.ssignature = ''
         self.__to_func(name, vec_dim)
+
+    def hdist(self, f):
+        dist = 0;
+        for i in xrange(self.dimension):
+            if self.vec[i] != f.vec[i]:
+                dist += 1
+        return dist
+
+    def min_hdist(self, f_set):
+        min = self.dimension
+        for f in f_set:
+            curr_hdist = self.hdist(f)
+            if curr_hdist < min:
+                min = curr_hdist
+        return min
+
+    def is_eig(self):
+        ev = 0.0
+        for i in xrange(self.dimension):
+            if (self.vec[i] == 0) and (self.hat[i] != 0):
+                return 0
+            r = float(self.hat[i]/self.vec[i])
+            if r == 0.0:
+                return 0
+            if (ev != 0) and (ev != r):
+                return 0
+            else:
+                ev = r
+        return 1
+
+    def is_character(self):
+        if self.fEntropy == 0.0:
+            return 1
+        else:
+            return 0
 
     def compute_entropy_influence(self, wt_vec):
         hatsq = array('f', [])
@@ -33,6 +70,8 @@ class Function(object):
                 self.vec.append(1)
             else:
                 self.vec.append(-1)
+                self.tvec.append(i)
+                self.wt += 1
 
     def __degree(self):
         n = self.dimension
@@ -57,12 +96,24 @@ class Function(object):
         return sparsity(inf_arr)
 
     def print_info(self, fo):
-        fo.write(str(self.tInf) + "\t")
-        fo.write("[" + ','.join(str(x) for x in self.vec) + "]\t")
-        fo.write(str(self.deg) + "\t")
-        fo.write(str(self.nInfVar) + "\t")
-        fo.write("[" + ','.join(str(x) for x in self.hat) + "]\t")
-        fo.write(str(self.fEntropy) + "\n")
+ #       fo.write(str(self.tInf) + "\t")
+        fo.write("[" + ','.join(str(x) for x in self.tvec) + "]\t")
+ #       fo.write(str(self.deg) + "\t")
+ #       fo.write(str(self.nInfVar) + "\t")
+        fo.write("[" + ','.join(str(x) for x in self.hat) + "]\n")
+ #       fo.write(str(self.wt) + "\t")
+ #       fo.write(str(self.fEntropy) + "\n")
+#        fo.write(str(self.signature) + "\t")
+#        fo.write(str(self.ssignature) + "\n")
+
+    def display_info(self):
+ #       fo.write(str(self.tInf) + "\t")
+ #       print("[" + ','.join(str(x) for x in self.tvec) + "]\t")
+ #       fo.write(str(self.deg) + "\t")
+ #       fo.write(str(self.nInfVar) + "\t")
+        print("[" + ','.join(str(x) for x in self.hat) + "]")
+ #       fo.write(str(self.wt) + "\t")
+ #       fo.write(str(self.fEntropy) + "\n")
 #        fo.write(str(self.signature) + "\t")
 #        fo.write(str(self.ssignature) + "\n")
 
