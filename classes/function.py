@@ -16,6 +16,7 @@ class Function(object):
         self.nInfVar = 0
         self.fEntropy = 0
         self.tInf = 0
+        self.ei_ratio = 0
         self.signature = ''
         self.ssignature = ''
         self.__to_func(name, vec_dim)
@@ -49,6 +50,12 @@ class Function(object):
                 ev = r
         return 1
 
+    def is_bent(self):
+        for i in xrange(self.dimension):
+            if self.hat[i]*self.hat[i]/self.dimension != 1:
+                return 0
+        return 1
+
     def is_character(self):
         if self.fEntropy == 0.0:
             return 1
@@ -61,6 +68,8 @@ class Function(object):
             hatsq.append(square(float(self.hat[i])/self.dimension))
         self.fEntropy = entropy(hatsq)
         self.tInf = dot(wt_vec, hatsq)
+        if self.tInf != 0:
+            self.ei_ratio = (self.fEntropy)/(self.tInf)
 
     def __to_func(self, name, vec_dim):
         f_bin = array('i', [])
@@ -96,22 +105,23 @@ class Function(object):
         return sparsity(inf_arr)
 
     def print_info(self, fo):
- #       fo.write(str(self.tInf) + "\t")
-        fo.write("[" + ','.join(str(x) for x in self.tvec) + "]\t")
- #       fo.write(str(self.deg) + "\t")
- #       fo.write(str(self.nInfVar) + "\t")
-        fo.write("[" + ','.join(str(x) for x in self.hat) + "]\n")
- #       fo.write(str(self.wt) + "\t")
- #       fo.write(str(self.fEntropy) + "\n")
-#        fo.write(str(self.signature) + "\t")
+        fo.write(str(self.tInf) + "\t")
+#        fo.write("[" + ','.join(str(x) for x in self.tvec) + "]\t")
+#        fo.write(str(self.deg) + "\t")
+#        fo.write(str(self.nInfVar) + "\t")
+        fo.write("[" + ','.join(str(x) for x in self.hat) + "]\t")
+        fo.write(str(self.wt) + "\t")
+        fo.write(str(self.fEntropy) + "\t")
+        fo.write(str(self.ei_ratio) + "\t")
+        fo.write(str(self.signature) + "\n")
 #        fo.write(str(self.ssignature) + "\n")
 
     def display_info(self):
  #       fo.write(str(self.tInf) + "\t")
- #       print("[" + ','.join(str(x) for x in self.tvec) + "]\t")
+        print("[" + ','.join(str(x) for x in self.vec) + "]\t")
  #       fo.write(str(self.deg) + "\t")
  #       fo.write(str(self.nInfVar) + "\t")
-        print("[" + ','.join(str(x) for x in self.hat) + "]")
+#        print("[" + ','.join(str(x) for x in self.hat) + "]")
  #       fo.write(str(self.wt) + "\t")
  #       fo.write(str(self.fEntropy) + "\n")
 #        fo.write(str(self.signature) + "\t")
