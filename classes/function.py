@@ -96,7 +96,7 @@ class Function(object):
 
     def __compute_bands(self):
         n = self.dimension
-        for i in xrange(self.order)
+        for i in xrange(self.order):
             self.bands[i] = 0
 
         for i in xrange(n):
