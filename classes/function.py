@@ -12,6 +12,7 @@ class Function(object):
         self.tvec = array("i", [])
         self.hat = array("i", [])
         self.inf = array("i", [])
+        self.bands = array("i", [])
         self.deg = 0
         self.nInfVar = 0
         self.fEntropy = 0
@@ -93,6 +94,15 @@ class Function(object):
                 deg = curr_deg
         return deg
 
+    def __compute_bands(self):
+        n = self.dimension
+        for i in xrange(self.order)
+            self.bands[i] = 0
+
+        for i in xrange(n):
+            curr_deg = num_ones_in_int(i)
+            self.bands[curr_deg] += self.hat[i] * self.hat[i] / self.dimension
+
     def __num_inf_var(self):
         inf_arr = [0] * self.order
         for i in xrange(self.dimension):
@@ -106,14 +116,15 @@ class Function(object):
 
     def print_info(self, fo):
         fo.write(str(self.tInf) + "\t")
-#        fo.write("[" + ','.join(str(x) for x in self.tvec) + "]\t")
-#        fo.write(str(self.deg) + "\t")
-#        fo.write(str(self.nInfVar) + "\t")
+        fo.write("[" + ','.join(str(x) for x in self.tvec) + "]\t")
+        fo.write(str(self.deg) + "\t")
+        fo.write(str(self.nInfVar) + "\t")
         fo.write("[" + ','.join(str(x) for x in self.hat) + "]\t")
+        fo.write("[" + ','.join(str(x) for x in self.bands) + "]\t")
         fo.write(str(self.wt) + "\t")
-        fo.write(str(self.fEntropy) + "\t")
-        fo.write(str(self.ei_ratio) + "\t")
-        fo.write(str(self.signature) + "\n")
+        fo.write(str(self.fEntropy) + "\n")
+#        fo.write(str(self.ei_ratio) + "\t")
+#        fo.write(str(self.signature) + "\n")
 #        fo.write(str(self.ssignature) + "\n")
 
     def display_info(self):
@@ -131,6 +142,7 @@ class Function(object):
         mult_m_v(mat, self.vec, self.hat)
         self.deg = self.__degree()
         self.nInfVar = self.__num_inf_var()
+        self.__compute_bands()
         abs_hat = map(abs, self.hat)
         sorted_hat = sorted(abs_hat)
         sorted_hat_signed = sorted(self.hat)
