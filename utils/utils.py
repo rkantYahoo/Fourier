@@ -4,6 +4,18 @@ from math import log
 
 __author__ = 'rkant'
 
+def eq(vec1, vec2):
+    """ Assumes dimensions match
+    :return: 1 if equal, 0 otherwise
+    >>> eq([1, 0, 1], [1, 0, 1])
+    1
+    >>> eq([1, 0, 1], [1, 0, 0])
+    0
+    """
+    for i in xrange(len(vec1)):
+        if vec1[i] != vec2[i]:
+            return 0
+    return 1
 
 def dot(vec1, vec2):
     """ Assumes dimensions match
@@ -15,6 +27,36 @@ def dot(vec1, vec2):
         s += vec1[i] * vec2[i]
     return s
 
+def hdist(vec1, vec2):
+    """
+    >>> hdist([1, -1, -1], [-1, -1, 1])
+    2
+    """
+    d = 0
+    for i in xrange(len(vec1)):
+        if vec1[i] != vec2[i]:
+            d += 1
+    return d
+
+def dist_to_set(vec, set):
+    """
+    >>> dist_to_set([1, -1, -1], [[-1, -1, 1], [1, -1, 1]])
+    1
+    """
+    min = len(vec)
+    for i in xrange(len(set)):
+        curr_dist = hdist(vec, set[i])
+        if min > curr_dist:
+            min = curr_dist
+    return min
+
+def dist_to_fset(vec, set):
+    min = len(vec)
+    for i in xrange(len(set)):
+        curr_dist = hdist(vec, set[i].vec)
+        if min > curr_dist:
+            min = curr_dist
+    return min
 
 def hdot(vec1, vec2, result):
     """ Assumes dimensions match
@@ -37,6 +79,10 @@ def i_to_b(num, b_arr, n_args):
     :param num: int
     :param b_arr: binary array
     :param n_args: dimension of b_arr
+    >>> result = array('i', [])
+    >>> i_to_b(5, result, 4)
+    >>> result
+    array('i', [0, 1, 0, 1])
     """
     curr_v = num
     for i in xrange(n_args):
@@ -44,6 +90,95 @@ def i_to_b(num, b_arr, n_args):
         curr_v /= 2
     b_arr.reverse()
 
+def i_to_bstr(num, b_arr, n_args):
+    """
+    :param num: int
+    :param b_arr: binary array
+    :param n_args: dimension of b_arr
+    >>> result = array('i', [])
+    >>> i_to_b(5, result, 4)
+    >>> result
+    array('i', [0, 1, 0, 1])
+    """
+    curr_v = num
+    for i in xrange(n_args):
+        b_arr.append(str(curr_v % 2))
+        curr_v /= 2
+    b_arr.reverse()
+
+def print_poly(num, num_var, dim):
+    """
+    :param num: integer encoding of poly
+    :param dim: dimension of polyvec
+    >>> print_poly(5, 3, 8)
+    [101] + [111]
+    """
+    polyvec = array('i', [])
+    i_to_b(num, polyvec, dim)
+    monomials = []
+    for i in xrange(dim):
+        if polyvec[i] == 1:
+            monovec = []
+            i_to_bstr(i, monovec, num_var)
+            monomial = '[' + ''.join(monovec) + ']'
+            monomials.append(monomial)
+    print " + ".join(monomials)
+
+def i_to_poly(num, f_arr, n_var, dim_f):
+    """
+    :param num: int encoding of poly
+    :param f_arr: polynomial function in {-1, 1}
+    :param dim_f: dimension of f_arr
+    >>> f_arr = array('i', [])
+    >>> i_to_poly(1, f_arr, 4, 16)
+    >>> f_arr
+    array('i', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, -1])
+    """
+    polyvec = array('i', [])
+    i_to_b(num, polyvec, dim_f)
+    for i in xrange(dim_f):
+        x = array('i', [])
+        i_to_b(i, x, n_var)
+        val = polyfunc(polyvec, x, n_var, dim_f)
+        if (val % 2) == 0:
+            f_arr.append(1)
+        else:
+            f_arr.append(-1)
+
+def polyfunc(polyvec, x, n_var, dim):
+    """
+    :param polyvec: vec encoding of polyfunc
+    :param x: input vector
+    :param dim: dimension of polyvec
+    >>> polyfunc([0, 1, 0, 1, 0, 0, 0, 1], [0, 1, 1], 3, 8)
+    2
+    """
+#    assert(len(x) == n_var)
+#    assert(2**n_var == dim)
+
+    sum = 0
+    for i in xrange(dim):
+        if polyvec[i] == 0:
+            continue
+        sum += monofunc(i, x, n_var)
+    return sum
+
+def monofunc(num, x, n_var):
+    """
+    :param num: int encoding of monomial
+    :param x: input vector
+    :param n_var: dimension of x
+    :return: monomial evaluated on x
+    >>> monofunc(5, [0, 1, 1, 1], 4)
+    1
+    """
+    val = 1
+    num_arr = array('i', [])
+    i_to_b(num, num_arr, n_var)
+    for i in xrange(n_var):
+        if num_arr[i] == 1:
+            val *= x[i]
+    return val
 
 def b_to_i(b_arr):
     """
