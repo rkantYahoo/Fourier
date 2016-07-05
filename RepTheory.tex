@@ -1,0 +1,48 @@
+\documentclass{sig-alternate}
+\usepackage{epigraph}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{array} 
+\newcolumntype{C}{>{$}c<{$}} % math-mode version of "l" column type
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{remark}[theorem]{Remark}
+
+\newenvironment{definition}[1][Definition]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}]}{\end{trivlist}}
+\newenvironment{example}[1][Example]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}]}{\end{trivlist}}
+\newenvironment{problem}[1][Problem]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}]}{\end{trivlist}}
+
+\begin{document}
+\title{Notes on the Representations of Symmetric Groups}
+\maketitle
+\section{The Standard Representation}
+Let $M_{\sigma}$ be the permutation matrix corresponding to $\sigma \in S_n$ and let $M_{S_n}$ be the span of the $M_{\sigma}$.
+\begin{lemma}
+The Standard Representation of $S_n$ is irreducible. Equivalently, $dim(M_{S_n}) = n^2 -2n + 2$
+\end{lemma}
+\begin{proof}
+Let $M_{\sigma}$ be the permutation matrix corresponding to $\sigma \in S_n$.
+\begin{enumerate}
+\item $dim(M_{S_n}) \leq n^2 - 2n + 2$
+\begin{proof}
+The permutations block decompose into $\left[ \begin{array}{cc} 1 & 0 \\ 0 & M'_{\sigma} \end{array} \right]$ in a suitable basis. Alternate argument see next item.
+\end{proof}
+\item $dim(M_{S_n}) \geq n^2 - 2n + 2$
+\begin{proof}
+Define Generalized Stochastic matrices, $\mathbb{S}^{n\times n}$, as $\mathbb{R}^{n\times n}$ matrices whose row and column sums are all equal (but not necessarily 1)
+\begin{enumerate}
+\item $span(\{M_{\sigma}\}) \subseteq \mathbb{S}^{n\times n}$ 
+\item Positive matrices in $\mathbb{S}^{n\times n} \subseteq span(\{M_{\sigma}\})$ via Birkhoff-Von Neumann. They span $\mathbb{S}^{n\times n}$. Hence, \[\mathbb{S}^{n\times n} \subseteq span(\{M_{\sigma}\})\]
+\item $dim(\mathbb{S}^{n\times n}) = (n-1)^2 + 1$. Easy isomorphism $R^{(n-1)^2 + 1} \leftrightarrow \mathbb{S}^{n\times n}$
+\end{enumerate}
+\end{proof}
+\end{enumerate}
+\end{proof}
+\end{document}
