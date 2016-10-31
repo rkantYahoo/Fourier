@@ -1,0 +1,1376 @@
+Num positions = 64864800
+time taken to build vertices = 570
+Error in HandleMove: DVER1 58  9  -1
+Error in HandleMove: DVER1 136  9  -1
+Error in HandleMove: DVER1 146  9  -1
+Error in HandleMove: DVER1 220  11  1
+Error in HandleMove: DVER1 248  11  1
+Error in HandleMove: DVER1 262  9  -1
+Error in HandleMove: DVER1 271  9  -1
+Error in HandleMove: DVER1 298  11  1
+Error in HandleMove: DVER1 319  11  1
+Error in HandleMove: DVER1 331  9  -1
+Error in HandleMove: DVER1 340  9  -1
+Error in HandleMove: DVER1 524  10  -1
+Error in HandleMove: DVER1 551  10  -1
+Error in HandleMove: DVER1 601  10  -1
+Error in HandleMove: DVER1 621  10  -1
+Error in HandleMove: DVER1 2460  10  -1
+Error in HandleMove: DVER1 2468  10  -1
+Error in HandleMove: DVER1 2594  10  -1
+Error in HandleMove: DVER1 2595  10  -1
+Error in HandleMove: DVER1 2720  10  -1
+Error in HandleMove: DVER1 2721  10  -1
+Error in HandleMove: DVER1 2757  10  -1
+Error in HandleMove: DVER1 3354  7  1
+Error in HandleMove: DVER1 3355  7  1
+Error in HandleMove: DVER1 3356  7  1
+Error in HandleMove: DVER1 3422  7  1
+Error in HandleMove: DVER1 3423  7  1
+Error in HandleMove: DVER1 3424  7  1
+Error in HandleMove: DVER1 3473  7  1
+Error in HandleMove: DVER1 3474  7  1
+Error in HandleMove: DVER1 3475  7  1
+Error in HandleMove: DVER1 3544  7  1
+Error in HandleMove: DVER1 3545  7  1
+Error in HandleMove: DVER1 3546  7  1
+Error in HandleMove: DVER1 3547  7  1
+Error in HandleMove: DVER1 3579  7  1
+Error in HandleMove: DVER1 3580  7  1
+Error in HandleMove: DVER1 4317  11  1
+Error in HandleMove: DVER1 4325  11  1
+Error in HandleMove: DVER1 4427  11  1
+Error in HandleMove: DVER1 4466  9  -1
+Error in HandleMove: DVER1 4521  11  1
+Error in HandleMove: DVER1 4580  9  -1
+Error in HandleMove: DVER1 4593  9  -1
+Error in HandleMove: DVER1 5158  6  -1
+Error in HandleMove: DVER1 5159  6  -1
+Error in HandleMove: DVER1 5160  6  -1
+Error in HandleMove: DVER1 5223  6  -1
+Error in HandleMove: DVER1 5224  6  -1
+Error in HandleMove: DVER1 5225  6  -1
+Error in HandleMove: DVER1 5262  6  -1
+Error in HandleMove: DVER1 5263  6  -1
+Error in HandleMove: DVER1 5338  6  -1
+Error in HandleMove: DVER1 5339  6  -1
+Error in HandleMove: DVER1 5340  6  -1
+Error in HandleMove: DVER1 5362  6  -1
+Error in HandleMove: DVER1 5594  9  -1
+Error in HandleMove: DVER1 5631  9  -1
+Error in HandleMove: DVER1 5683  11  1
+Error in HandleMove: DVER1 5703  11  1
+Error in HandleMove: DVER1 5714  9  -1
+Error in HandleMove: DVER1 5715  9  -1
+Error in HandleMove: DVER1 5817  10  -1
+Error in HandleMove: DVER1 5847  10  -1
+Error in HandleMove: DVER1 5848  10  -1
+Error in HandleMove: DVER1 5869  10  -1
+Error in HandleMove: DVER1 9240  10  -1
+Error in HandleMove: DVER1 9248  10  -1
+Error in HandleMove: DVER1 9374  10  -1
+Error in HandleMove: DVER1 9375  10  -1
+Error in HandleMove: DVER1 9500  10  -1
+Error in HandleMove: DVER1 9501  10  -1
+Error in HandleMove: DVER1 9537  10  -1
+Error in HandleMove: DVER1 11443  9  1
+Error in HandleMove: DVER1 11444  9  1
+Error in HandleMove: DVER1 11480  9  1
+Error in HandleMove: DVER1 11481  9  1
+Error in HandleMove: DVER1 11507  9  1
+Error in HandleMove: DVER1 11508  9  1
+Error in HandleMove: DVER1 11524  9  1
+Error in HandleMove: DVER1 12350  10  -1
+Error in HandleMove: DVER1 12351  10  -1
+Error in HandleMove: DVER1 12387  10  -1
+Error in HandleMove: DVER1 12398  9  1
+Error in HandleMove: DVER1 12399  9  1
+Error in HandleMove: DVER1 12418  9  1
+Error in HandleMove: DVER1 12508  9  1
+Error in HandleMove: DVER1 12513  9  1
+Error in HandleMove: DVER1 12514  9  1
+Error in HandleMove: DVER1 12518  9  1
+Error in HandleMove: DVER1 12635  10  -1
+Error in HandleMove: DVER1 12665  10  -1
+Error in HandleMove: DVER1 12666  10  -1
+Error in HandleMove: DVER1 12687  10  -1
+Error in HandleMove: DVER1 14768  10  1
+Error in HandleMove: DVER1 14778  10  1
+Error in HandleMove: DVER1 14792  10  1
+Error in HandleMove: DVER1 14960  9  1
+Error in HandleMove: DVER1 14970  9  1
+Error in HandleMove: DVER1 14982  9  1
+Error in HandleMove: DVER1 14991  9  1
+Error in HandleMove: DVER1 15168  10  1
+Error in HandleMove: DVER1 15178  10  1
+Error in HandleMove: DVER1 15238  10  1
+Error in HandleMove: DVER1 15248  10  1
+Error in HandleMove: DVER1 15264  8  -1
+Error in HandleMove: DVER1 15273  8  -1
+Error in HandleMove: DVER1 15285  8  -1
+Error in HandleMove: DVER1 15293  8  -1
+Error in HandleMove: DVER1 17139  10  1
+Error in HandleMove: DVER1 17300  10  1
+Error in HandleMove: DVER1 17312  10  1
+Error in HandleMove: DVER1 17344  8  -1
+Error in HandleMove: DVER1 17345  8  -1
+Error in HandleMove: DVER1 17378  8  -1
+Error in HandleMove: DVER1 17403  8  -1
+Error in HandleMove: DVER1 18015  5  1
+Error in HandleMove: DVER1 18016  5  1
+Error in HandleMove: DVER1 18017  5  1
+Error in HandleMove: DVER1 18018  5  1
+Error in HandleMove: DVER1 18019  5  1
+Error in HandleMove: DVER1 18020  5  1
+Error in HandleMove: DVER1 18021  5  1
+Error in HandleMove: DVER1 18022  5  1
+Error in HandleMove: DVER1 18023  5  1
+Error in HandleMove: DVER1 18024  5  1
+Error in HandleMove: DVER1 18025  5  1
+Error in HandleMove: DVER1 18026  5  1
+Error in HandleMove: DVER1 19153  9  1
+Error in HandleMove: DVER1 19154  9  1
+Error in HandleMove: DVER1 19190  9  1
+Error in HandleMove: DVER1 19191  9  1
+Error in HandleMove: DVER1 19217  9  1
+Error in HandleMove: DVER1 19218  9  1
+Error in HandleMove: DVER1 19234  9  1
+Error in HandleMove: DVER1 19950  4  -1
+Error in HandleMove: DVER1 19951  4  -1
+Error in HandleMove: DVER1 19952  4  -1
+Error in HandleMove: DVER1 19953  4  -1
+Error in HandleMove: DVER1 19954  4  -1
+Error in HandleMove: DVER1 19955  4  -1
+Error in HandleMove: DVER1 19956  4  -1
+Error in HandleMove: DVER1 19957  4  -1
+Error in HandleMove: DVER1 19958  4  -1
+Error in HandleMove: DVER1 19959  4  -1
+Error in HandleMove: DVER1 19960  4  -1
+Error in HandleMove: DVER1 19961  4  -1
+Error in HandleMove: DVER1 19962  4  -1
+Error in HandleMove: DVER1 19963  4  -1
+Error in HandleMove: DVER1 19964  4  -1
+Error in HandleMove: DVER1 20216  10  1
+Error in HandleMove: DVER1 20228  10  1
+Error in HandleMove: DVER1 20320  9  1
+Error in HandleMove: DVER1 20325  9  1
+Error in HandleMove: DVER1 20326  9  1
+Error in HandleMove: DVER1 20330  9  1
+Error in HandleMove: DVER1 20462  10  1
+Error in HandleMove: DVER1 20476  10  1
+Error in HandleMove: DVER1 20484  8  -1
+Error in HandleMove: DVER1 20490  8  -1
+Error in HandleMove: DVER1 22695  10  -1
+Error in HandleMove: DVER1 22703  10  -1
+Error in HandleMove: DVER1 22799  7  1
+Error in HandleMove: DVER1 22800  7  1
+Error in HandleMove: DVER1 22801  7  1
+Error in HandleMove: DVER1 23007  11  1
+Error in HandleMove: DVER1 23015  11  1
+Error in HandleMove: DVER1 23138  6  -1
+Error in HandleMove: DVER1 23139  6  -1
+Error in HandleMove: DVER1 23140  6  -1
+Error in HandleMove: DVER1 23195  11  1
+Error in HandleMove: DVER1 23239  10  -1
+Error in HandleMove: DVER1 23682  11  1
+Error in HandleMove: DVER1 23690  11  1
+Error in HandleMove: DVER1 23813  6  -1
+Error in HandleMove: DVER1 23814  6  -1
+Error in HandleMove: DVER1 23815  6  -1
+Error in HandleMove: DVER1 23870  11  1
+Error in HandleMove: DVER1 23914  10  -1
+Error in HandleMove: DVER1 24110  11  1
+Error in HandleMove: DVER1 24154  10  -1
+Error in HandleMove: DVER1 24404  10  -1
+Error in HandleMove: DVER1 24434  7  1
+Error in HandleMove: DVER1 24435  7  1
+Error in HandleMove: DVER1 24569  6  -1
+Error in HandleMove: DVER1 29469  9  1
+Error in HandleMove: DVER1 29513  8  -1
+Error in HandleMove: DVER1 29862  8  -1
+Error in HandleMove: DVER1 29863  8  -1
+Error in HandleMove: DVER1 29954  5  1
+Error in HandleMove: DVER1 29955  5  1
+Error in HandleMove: DVER1 29956  5  1
+Error in HandleMove: DVER1 30792  8  -1
+Error in HandleMove: DVER1 30793  8  -1
+Error in HandleMove: DVER1 30884  5  1
+Error in HandleMove: DVER1 30885  5  1
+Error in HandleMove: DVER1 30886  5  1
+Error in HandleMove: DVER1 30976  5  1
+Error in HandleMove: DVER1 31404  9  1
+Error in HandleMove: DVER1 31448  8  -1
+Error in HandleMove: DVER1 31666  9  1
+Error in HandleMove: DVER1 31667  9  1
+Error in HandleMove: DVER1 31793  4  -1
+Error in HandleMove: DVER1 31794  4  -1
+Error in HandleMove: DVER1 31795  4  -1
+Error in HandleMove: DVER1 31833  9  1
+Error in HandleMove: DVER1 31864  4  -1
+Error in HandleMove: DVER1 31865  4  -1
+Error in HandleMove: DVER1 32074  9  1
+Error in HandleMove: DVER1 32118  8  -1
+Error in HandleMove: DVER1 33100  11  1
+Error in HandleMove: DVER1 33143  6  -1
+Error in HandleMove: DVER1 33310  11  1
+Error in HandleMove: DVER1 33359  10  -1
+Error in HandleMove: DVER1 33633  7  1
+Error in HandleMove: DVER1 33634  7  1
+Error in HandleMove: DVER1 33635  7  1
+Error in HandleMove: DVER1 33879  6  -1
+Error in HandleMove: DVER1 33880  6  -1
+Error in HandleMove: DVER1 33881  6  -1
+Error in HandleMove: DVER1 33946  11  1
+Error in HandleMove: DVER1 33985  10  -1
+Error in HandleMove: DVER1 33986  10  -1
+Error in HandleMove: DVER1 34566  10  -1
+Error in HandleMove: DVER1 34567  10  -1
+Error in HandleMove: DVER1 34586  7  1
+Error in HandleMove: DVER1 34587  7  1
+Error in HandleMove: DVER1 34727  11  1
+Error in HandleMove: DVER1 34754  6  -1
+Error in HandleMove: DVER1 35481  10  -1
+Error in HandleMove: DVER1 35482  10  -1
+Error in HandleMove: DVER1 35501  7  1
+Error in HandleMove: DVER1 35502  7  1
+Error in HandleMove: DVER1 35618  11  1
+Error in HandleMove: DVER1 35645  6  -1
+Error in HandleMove: DVER1 39970  9  1
+Error in HandleMove: DVER1 40019  8  -1
+Error in HandleMove: DVER1 40319  8  -1
+Error in HandleMove: DVER1 40382  5  1
+Error in HandleMove: DVER1 41213  5  1
+Error in HandleMove: DVER1 41214  5  1
+Error in HandleMove: DVER1 41215  5  1
+Error in HandleMove: DVER1 41257  8  -1
+Error in HandleMove: DVER1 41309  5  1
+Error in HandleMove: DVER1 41421  8  -1
+Error in HandleMove: DVER1 41473  5  1
+Error in HandleMove: DVER1 42099  4  -1
+Error in HandleMove: DVER1 42100  4  -1
+Error in HandleMove: DVER1 42101  4  -1
+Error in HandleMove: DVER1 42119  9  1
+Error in HandleMove: DVER1 42120  9  1
+Error in HandleMove: DVER1 42178  4  -1
+Error in HandleMove: DVER1 42179  4  -1
+Error in HandleMove: DVER1 42259  9  1
+Error in HandleMove: DVER1 42260  9  1
+Error in HandleMove: DVER1 42318  4  -1
+Error in HandleMove: DVER1 42319  4  -1
+Error in HandleMove: DVER1 42503  9  1
+Error in HandleMove: DVER1 42504  9  1
+Error in HandleMove: DVER1 42542  8  -1
+Error in HandleMove: DVER1 43526  5  -1
+Error in HandleMove: DVER1 43602  5  -1
+Error in HandleMove: DVER1 43603  5  -1
+Error in HandleMove: DVER1 43687  7  1
+Error in HandleMove: DVER1 43708  10  -1
+Error in HandleMove: DVER1 43733  7  1
+Error in HandleMove: DVER1 43751  5  -1
+Error in HandleMove: DVER1 43762  5  -1
+Error in HandleMove: DVER1 43763  5  -1
+Error in HandleMove: DVER1 43778  10  -1
+Error in HandleMove: DVER1 43803  7  1
+Error in HandleMove: DVER1 43820  5  -1
+Error in HandleMove: DVER1 44012  6  -1
+Error in HandleMove: DVER1 44021  11  1
+Error in HandleMove: DVER1 44051  6  -1
+Error in HandleMove: DVER1 44091  11  1
+Error in HandleMove: DVER1 44121  6  -1
+Error in HandleMove: DVER1 44187  11  1
+Error in HandleMove: DVER1 44207  10  -1
+Error in HandleMove: DVER1 44708  6  -1
+Error in HandleMove: DVER1 44721  11  1
+Error in HandleMove: DVER1 44775  6  -1
+Error in HandleMove: DVER1 44836  11  1
+Error in HandleMove: DVER1 44868  10  -1
+Error in HandleMove: DVER1 45096  11  1
+Error in HandleMove: DVER1 45143  10  -1
+Error in HandleMove: DVER1 45424  7  1
+Error in HandleMove: DVER1 45451  7  1
+Error in HandleMove: DVER1 45649  6  -1
+Error in HandleMove: DVER1 45668  6  -1
+Error in HandleMove: DVER1 45728  11  1
+Error in HandleMove: DVER1 45754  10  -1
+Error in HandleMove: DVER1 46141  11  1
+Error in HandleMove: DVER1 46173  10  -1
+Error in HandleMove: DVER1 46426  5  -1
+Error in HandleMove: DVER1 46464  7  1
+Error in HandleMove: DVER1 46479  10  -1
+Error in HandleMove: DVER1 46500  7  1
+Error in HandleMove: DVER1 46527  5  -1
+Error in HandleMove: DVER1 46542  5  -1
+Error in HandleMove: DVER1 46690  6  -1
+Error in HandleMove: DVER1 46701  11  1
+Error in HandleMove: DVER1 46721  6  -1
+Error in HandleMove: DVER1 47552  6  -1
+Error in HandleMove: DVER1 47561  11  1
+Error in HandleMove: DVER1 47591  6  -1
+Error in HandleMove: DVER1 47631  11  1
+Error in HandleMove: DVER1 47661  6  -1
+Error in HandleMove: DVER1 47727  11  1
+Error in HandleMove: DVER1 47747  10  -1
+Error in HandleMove: DVER1 47971  11  1
+Error in HandleMove: DVER1 48003  10  -1
+Error in HandleMove: DVER1 48328  7  1
+Error in HandleMove: DVER1 48343  10  -1
+Error in HandleMove: DVER1 48364  7  1
+Error in HandleMove: DVER1 48564  6  -1
+Error in HandleMove: DVER1 48575  11  1
+Error in HandleMove: DVER1 48595  6  -1
+Error in HandleMove: DVER1 48947  11  1
+Error in HandleMove: DVER1 48967  10  -1
+Error in HandleMove: DVER1 49161  5  -1
+Error in HandleMove: DVER1 49194  5  -1
+Error in HandleMove: DVER1 49256  7  1
+Error in HandleMove: DVER1 49271  5  -1
+Error in HandleMove: DVER1 49275  5  -1
+Error in HandleMove: DVER1 49396  6  -1
+Error in HandleMove: DVER1 51742  6  -1
+Error in HandleMove: DVER1 51771  6  -1
+Error in HandleMove: DVER1 51835  6  -1
+Error in HandleMove: DVER1 51839  6  -1
+Error in HandleMove: DVER1 52449  6  -1
+Error in HandleMove: DVER1 52523  6  -1
+Error in HandleMove: DVER1 52529  6  -1
+Error in HandleMove: DVER1 52539  5  1
+Error in HandleMove: DVER1 52561  5  1
+Error in HandleMove: DVER1 52562  5  1
+Error in HandleMove: DVER1 52752  5  1
+Error in HandleMove: DVER1 52765  5  1
+Error in HandleMove: DVER1 52766  5  1
+Error in HandleMove: DVER1 52779  5  1
+Error in HandleMove: DVER1 53374  6  -1
+Error in HandleMove: DVER1 53952  5  1
+Error in HandleMove: DVER1 53965  5  1
+Error in HandleMove: DVER1 53966  5  1
+Error in HandleMove: DVER1 53979  5  1
+Error in HandleMove: DVER1 54074  5  1
+Error in HandleMove: DVER1 54176  5  1
+Error in HandleMove: DVER1 54316  6  -1
+Error in HandleMove: DVER1 54348  5  1
+Error in HandleMove: DVER1 55027  6  -1
+Error in HandleMove: DVER1 55056  6  -1
+Error in HandleMove: DVER1 55120  6  -1
+Error in HandleMove: DVER1 55124  6  -1
+Error in HandleMove: DVER1 55969  6  -1
+Error in HandleMove: DVER1 58103  9  1
+Error in HandleMove: DVER1 58150  8  -1
+Error in HandleMove: DVER1 58273  9  1
+Error in HandleMove: DVER1 58325  8  -1
+Error in HandleMove: DVER1 58528  9  1
+Error in HandleMove: DVER1 58580  8  -1
+Error in HandleMove: DVER1 58697  9  1
+Error in HandleMove: DVER1 58741  8  -1
+Error in HandleMove: DVER1 59140  8  -1
+Error in HandleMove: DVER1 59244  5  1
+Error in HandleMove: DVER1 59267  5  1
+Error in HandleMove: DVER1 59305  8  -1
+Error in HandleMove: DVER1 59335  8  -1
+Error in HandleMove: DVER1 59445  5  1
+Error in HandleMove: DVER1 59463  5  1
+Error in HandleMove: DVER1 59479  5  1
+Error in HandleMove: DVER1 59758  6  1
+Error in HandleMove: DVER1 59773  6  1
+Error in HandleMove: DVER1 59780  6  1
+Error in HandleMove: DVER1 60217  6  1
+Error in HandleMove: DVER1 60358  6  1
+Error in HandleMove: DVER1 60369  6  1
+Error in HandleMove: DVER1 60715  8  -1
+Error in HandleMove: DVER1 60745  8  -1
+Error in HandleMove: DVER1 60855  5  1
+Error in HandleMove: DVER1 60873  5  1
+Error in HandleMove: DVER1 60889  5  1
+Error in HandleMove: DVER1 61014  5  1
+Error in HandleMove: DVER1 61015  5  1
+Error in HandleMove: DVER1 61063  8  -1
+Error in HandleMove: DVER1 61132  5  1
+Error in HandleMove: DVER1 61151  5  1
+Error in HandleMove: DVER1 61297  8  -1
+Error in HandleMove: DVER1 61354  5  1
+Error in HandleMove: DVER1 61367  5  1
+Error in HandleMove: DVER1 61433  5  1
+Error in HandleMove: DVER1 62233  9  1
+Error in HandleMove: DVER1 62285  8  -1
+Error in HandleMove: DVER1 62402  9  1
+Error in HandleMove: DVER1 62446  8  -1
+Error in HandleMove: DVER1 62623  9  1
+Error in HandleMove: DVER1 62653  9  1
+Error in HandleMove: DVER1 62673  6  1
+Error in HandleMove: DVER1 62684  6  1
+Error in HandleMove: DVER1 62752  6  1
+Error in HandleMove: DVER1 62757  6  1
+Error in HandleMove: DVER1 62775  4  -1
+Error in HandleMove: DVER1 62788  4  -1
+Error in HandleMove: DVER1 62804  4  -1
+Error in HandleMove: DVER1 62956  4  -1
+Error in HandleMove: DVER1 62957  4  -1
+Error in HandleMove: DVER1 62993  9  1
+Error in HandleMove: DVER1 63079  4  -1
+Error in HandleMove: DVER1 63094  4  -1
+Error in HandleMove: DVER1 63227  9  1
+Error in HandleMove: DVER1 63241  6  1
+Error in HandleMove: DVER1 63275  6  1
+Error in HandleMove: DVER1 63295  4  -1
+Error in HandleMove: DVER1 63310  4  -1
+Error in HandleMove: DVER1 63346  6  1
+Error in HandleMove: DVER1 63361  6  1
+Error in HandleMove: DVER1 63370  4  -1
+Error in HandleMove: DVER1 63652  9  1
+Error in HandleMove: DVER1 63696  8  -1
+Error in HandleMove: DVER1 63811  9  1
+Error in HandleMove: DVER1 63843  8  -1
+time taken to build graph = 571
+Size of Graph = 65880
+Original Vertex
+
+3322
+3222
+4211
+4200
+3200
+-1208946700
+63877 63879 63842 63839 
+Adj list: 
+
+3322
+4222
+3211
+4200
+3200
+-1208946700
+65517 63843 63879 63876 
+
+3322
+4222
+4211
+3200
+3200
+-1208946700
+63831 65519 65547 63877 63843 
+
+3322
+3222
+4211
+3200
+4200
+-1208946700
+63876 63839 63843 
+
+3322
+3222
+3211
+4200
+4200
+-1208946700
+63838 63842 63843 
+Length of shortest path = 67
+52505:
+
+2112
+2332
+2442
+2002
+3003
+68
+52559 52561 36707 52525 52523 
+52505:
+
+2112
+2332
+2002
+2002
+3443
+67
+36709 36710 52505 36706 36705 
+52505:
+
+2112
+2332
+2002
+2002
+3344
+67
+36706 36707 36714 
+52505:
+
+2112
+2332
+2002
+2002
+3434
+66
+36708 36705 36707 36715 
+52505:
+
+2112
+2332
+2002
+2002
+4334
+65
+36706 36723 36709 36716 
+52505:
+
+2112
+2332
+2004
+2002
+4332
+64
+36787 36708 36715 36728 
+52505:
+
+2112
+2332
+4004
+2002
+2332
+63
+39370 36716 36790 36723 
+52505:
+
+2114
+2332
+4002
+2002
+2332
+62
+38020 36728 39379 36787 
+52505:
+
+2411
+2332
+4002
+2002
+2332
+61
+36790 37592 39891 38017 
+52505:
+
+4411
+2332
+2002
+2002
+2332
+60
+38020 39379 36704 39738 39212 
+52505:
+
+4311
+2432
+2002
+2002
+2332
+60
+39212 37592 39737 39891 
+52505:
+
+3411
+2432
+2002
+2002
+2332
+59
+39738 39891 38264 39211 38980 
+52505:
+
+3411
+2342
+2002
+2002
+2332
+59
+39737 38263 38980 39212 
+52505:
+
+3311
+2442
+2002
+2002
+2332
+58
+39211 39212 28487 
+52505:
+
+3311
+2002
+2002
+2442
+2332
+57
+38980 28481 28486 28485 28480 
+52505:
+
+3311
+2002
+2002
+2342
+2432
+57
+28486 28479 28480 28487 
+52505:
+
+3311
+2002
+2002
+2432
+2432
+56
+28501 28481 28487 28485 28479 
+52505:
+
+3311
+2002
+2002
+4232
+4232
+55
+28486 28585 28599 
+52505:
+
+4311
+3002
+4002
+2232
+2232
+55
+28828 28599 29264 29231 
+52505:
+
+3311
+4002
+4002
+2232
+2232
+54
+24189 29245 29264 28585 28501 
+52505:
+
+3311
+0042
+0042
+2232
+2232
+53
+28599 24135 24183 24154 
+52505:
+
+3311
+0042
+0032
+2242
+2232
+53
+24154 24189 24182 
+52505:
+
+3311
+0032
+0042
+2242
+2232
+52
+24183 24189 24153 24148 
+52505:
+
+3311
+0032
+0032
+2422
+2422
+52
+24150 24148 
+52505:
+
+3311
+0032
+0032
+2242
+2242
+51
+24149 24147 24153 24154 
+52505:
+
+3311
+0032
+0032
+2224
+2224
+50
+24148 24167 24168 
+52505:
+
+3311
+0034
+0032
+2222
+2224
+50
+24196 24147 24168 
+52505:
+
+3311
+0034
+0034
+2222
+2222
+49
+24197 24203 24170 24162 24167 24147 
+52505:
+
+3311
+0034
+0043
+2222
+2222
+49
+24199 24162 24168 24203 24165 
+52505:
+
+3311
+0044
+0033
+2222
+2222
+48
+24714 24170 24199 24197 24168 
+52505:
+
+3344
+0011
+0033
+2222
+2222
+47
+25121 25158 24203 
+52505:
+
+3434
+0011
+0033
+2222
+2222
+47
+25790 24714 25158 
+52505:
+
+3443
+0011
+0033
+2222
+2222
+46
+25827 25938 25121 24714 
+52505:
+
+4343
+0011
+0033
+2222
+2222
+46
+25158 25938 25790 
+52505:
+
+4433
+0011
+0033
+2222
+2222
+45
+5500 25827 25158 
+52505:
+
+0033
+0011
+4433
+2222
+2222
+44
+25938 5449 5496 5476 5485 
+52505:
+
+0033
+0011
+4343
+2222
+2222
+44
+5476 5439 5500 5494 5491 
+52505:
+
+0033
+0011
+3443
+2222
+2222
+43
+5496 5500 5463 5474 5468 5471 
+52505:
+
+0033
+0011
+3434
+2222
+2222
+43
+5494 5468 5460 5476 5473 
+52505:
+
+0033
+0011
+3344
+2222
+2222
+42
+5474 5476 6135 5466 5467 
+52505:
+
+0043
+0034
+3311
+2222
+2222
+42
+6567 6135 7691 7813 
+52505:
+
+0033
+0044
+3311
+2222
+2222
+41
+7635 7691 5468 6623 6567 
+52505:
+
+0033
+0034
+4311
+2222
+2222
+40
+6111 6135 6543 6567 5959 5919 5949 
+52505:
+
+0033
+0034
+3411
+2222
+2222
+39
+6103 6535 5967 5954 5955 
+52505:
+
+0033
+0034
+3114
+2222
+2222
+38
+6098 6130 6530 6562 5959 5953 5861 
+52505:
+
+0033
+0044
+3113
+2222
+2222
+38
+7630 7686 6618 6562 6098 5954 
+52505:
+
+0033
+0034
+4113
+2222
+2222
+37
+6106 6130 6538 6562 5914 5954 5928 5931 
+52505:
+
+0034
+0033
+1143
+2222
+2222
+37
+7572 5928 6538 6502 6604 6499 
+52505:
+
+0033
+0034
+1143
+2222
+2222
+36
+6072 6504 5900 5962 5926 6116 5923 
+52505:
+
+0033
+0043
+1143
+2222
+2222
+35
+5928 6116 7572 7672 6106 6070 5900 6067 5679 
+52505:
+
+0033
+0023
+1123
+2422
+2422
+35
+5681 5679 
+52505:
+
+0033
+0023
+1123
+2242
+2242
+34
+5680 5678 6067 6072 
+52505:
+
+0033
+0023
+1123
+2224
+2224
+33
+5679 5682 5683 
+52505:
+
+0033
+0023
+1124
+2223
+2224
+33
+5744 5678 5683 
+52505:
+
+0033
+0023
+1124
+2224
+2223
+32
+5745 5752 5682 5678 
+52505:
+
+0033
+0042
+1142
+2223
+2223
+32
+5752 7486 7640 6053 5970 5505 
+52505:
+
+0033
+0024
+1124
+2223
+2223
+31
+5986 6330 6382 5745 5683 
+52505:
+
+0034
+0023
+1124
+2223
+2223
+30
+7398 5752 6382 6323 
+52505:
+
+0043
+0023
+1124
+2223
+2223
+29
+6330 2973 7450 7391 
+52505:
+
+0023
+0023
+1144
+2223
+2223
+28
+3258 3327 7398 2927 3381 3374 2966 2949 
+52505:
+
+4423
+0023
+0011
+2223
+2223
+28
+3327 
+52505:
+
+0023
+0023
+4411
+2223
+2223
+27
+25903 3110 3258 2973 3263 
+52505:
+
+0023
+0023
+4211
+2223
+2423
+26
+3009 3327 
+52505:
+
+0023
+0023
+2211
+2223
+4423
+25
+3263 3110 
+52505:
+
+0023
+0023
+2211
+2224
+3324
+25
+3016 
+52505:
+
+0023
+0023
+2211
+2224
+4323
+24
+3008 3010 3011 3009 3264 
+52505:
+
+0023
+0023
+2211
+2223
+3424
+24
+3008 3109 3011 
+52505:
+
+0023
+0023
+2211
+2224
+3423
+23
+3007 3012 3111 
+52505:
+
+0023
+0023
+2411
+2224
+3223
+22
+3000 3011 3109 
+52505:
+
+0023
+0023
+2114
+2224
+3223
+21
+3111 3395 3402 2998 2990 
+52505:
+
+0023
+0024
+2411
+2223
+3223
+21
+4033 3402 3406 
+52505:
+
+0023
+0024
+2114
+2223
+3223
+20
+3950 4187 3485 3395 3000 
+52505:
+
+0024
+0023
+2114
+2223
+3223
+20
+3402 4033 4187 3943 
+52505:
+
+0024
+0024
+2113
+2223
+3223
+19
+7147 3950 3402 
+52505:
+
+0042
+0042
+2113
+2223
+3223
+18
+13977 4187 
+52505:
+
+4002
+4002
+2113
+2223
+3223
+17
+7147 13451 8941 
+52505:
+
+2002
+2002
+1143
+4223
+3223
+17
+8941 7962 7853 7993 
+52505:
+
+2002
+2002
+4113
+4223
+3223
+16
+8001 13451 13977 8933 8443 
+52505:
+
+2004
+2002
+3112
+4223
+3223
+16
+8472 10641 10543 
+52505:
+
+2002
+2002
+3114
+4223
+3223
+15
+8814 10551 8444 8465 8947 8941 8464 8443 
+52505:
+
+2002
+2002
+3411
+4223
+3223
+14
+9046 8472 8498 9140 8806 
+52505:
+
+2002
+2002
+4311
+4223
+3223
+13
+8814 9140 13556 13991 9038 8653 
+52505:
+
+2002
+2002
+4311
+3223
+4223
+13
+8806 13548 8653 9046 
+52505:
+
+2002
+2002
+3311
+4223
+4223
+12
+8638 9038 9046 
+52505:
+
+2002
+2002
+3311
+2423
+2423
+11
+8653 8629 8798 8803 
+52505:
+
+2002
+2002
+3114
+2423
+2323
+11
+8803 10540 8429 8456 
+52505:
+
+2002
+2002
+3411
+2423
+2323
+10
+9035 9138 8461 8798 8638 
+52505:
+
+4002
+2002
+2411
+2323
+2323
+10
+9138 13455 13545 
+52505:
+
+2002
+2002
+4411
+2323
+2323
+9
+13648 8312 8945 8005 9035 8803 
+52505:
+
+2002
+2002
+4114
+2323
+2323
+9
+8005 13455 8062 9138 10639 8926 
+52505:
+
+2002
+2002
+1144
+2323
+2323
+8
+8945 9138 7861 10445 7986 7947 
+52505:
+
+2002
+2002
+1124
+2323
+2433
+8
+10407 7835 7861 7864 
+52505:
+
+2002
+2002
+1124
+2323
+2343
+7
+10406 7834 7862 7860 8005 
+52505:
+
+2002
+2002
+1124
+2323
+2334
+6
+10405 7833 7861 7863 
+52505:
+
+2004
+2002
+1122
+2324
+2333
+6
+7863 10953 10405 
+52505:
+
+2002
+2002
+1124
+2324
+2333
+5
+7968 10408 10953 7860 7833 
+52505:
+
+2002
+2002
+1142
+2342
+2333
+4
+8908 7863 7969 7884 7966 7879 
+52505:
+
+2002
+2002
+1132
+2342
+2343
+4
+7882 7884 7966 7968 7880 7877 7878 7875 
+52505:
+
+2002
+2002
+1142
+2332
+2343
+3
+8906 7879 7967 7965 7968 
+52505:
+
+2002
+2002
+4112
+2332
+2343
+2
+7966 13416 8014 8907 8905 8908 
+52505:
+
+2002
+2002
+2112
+2332
+4343
+1
+8012 8906 8015 8013 8019 

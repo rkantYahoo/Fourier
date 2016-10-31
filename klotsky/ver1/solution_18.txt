@@ -1,0 +1,497 @@
+Num positions = 1440
+time taken to build vertices = 0
+Error in HandleMove Singleton: 9  15  1
+Error in HandleMove Singleton: 9  15  4
+Error in HandleMove Singleton: 9  15  -4
+Error in HandleMove Singleton: 9  16  -1
+Error in HandleMove Singleton: 9  16  4
+Error in HandleMove Singleton: 35  11  1
+Error in HandleMove Singleton: 35  11  4
+Error in HandleMove Singleton: 35  11  -4
+Error in HandleMove Singleton: 35  12  -1
+Error in HandleMove Singleton: 35  12  4
+Error in HandleMove Singleton: 35  12  -4
+Error in HandleMove Singleton: 77  7  1
+Error in HandleMove Singleton: 77  7  4
+Error in HandleMove Singleton: 77  7  -4
+Error in HandleMove Singleton: 77  8  -1
+Error in HandleMove Singleton: 77  8  -4
+Error in HandleMove Singleton: 129  15  1
+Error in HandleMove Singleton: 129  15  4
+Error in HandleMove Singleton: 129  15  -4
+Error in HandleMove Singleton: 129  16  -1
+Error in HandleMove Singleton: 129  16  4
+Error in HandleMove Singleton: 155  11  1
+Error in HandleMove Singleton: 155  11  4
+Error in HandleMove Singleton: 155  11  -4
+Error in HandleMove Singleton: 155  12  -1
+Error in HandleMove Singleton: 155  12  4
+Error in HandleMove Singleton: 155  12  -4
+Error in HandleMove Singleton: 197  7  4
+Error in HandleMove Singleton: 197  7  -4
+Error in HandleMove Singleton: 197  8  -1
+Error in HandleMove Singleton: 197  8  4
+Error in HandleMove Singleton: 197  8  -4
+Error in HandleMove Singleton: 224  3  -4
+Error in HandleMove Singleton: 224  4  4
+Error in HandleMove Singleton: 224  4  -4
+Error in HandleMove Singleton: 249  15  1
+Error in HandleMove Singleton: 249  15  4
+Error in HandleMove Singleton: 249  15  -4
+Error in HandleMove Singleton: 249  16  -1
+Error in HandleMove Singleton: 249  16  4
+Error in HandleMove Singleton: 275  11  1
+Error in HandleMove Singleton: 275  11  -4
+Error in HandleMove Singleton: 275  12  -1
+Error in HandleMove Singleton: 275  12  4
+Error in HandleMove Singleton: 275  12  -4
+Error in HandleMove Singleton: 369  15  1
+Error in HandleMove Singleton: 369  15  4
+Error in HandleMove Singleton: 369  15  -4
+Error in HandleMove Singleton: 369  16  -1
+Error in HandleMove Singleton: 369  16  4
+Error in HandleMove Singleton: 395  11  1
+Error in HandleMove Singleton: 395  11  4
+Error in HandleMove Singleton: 395  11  -4
+Error in HandleMove Singleton: 395  12  -1
+Error in HandleMove Singleton: 395  12  -4
+Error in HandleMove Singleton: 489  15  1
+Error in HandleMove Singleton: 489  15  4
+Error in HandleMove Singleton: 489  15  -4
+Error in HandleMove Singleton: 489  16  -1
+Error in HandleMove Singleton: 489  16  4
+Error in HandleMove Singleton: 515  11  4
+Error in HandleMove Singleton: 515  11  -4
+Error in HandleMove Singleton: 515  12  -1
+Error in HandleMove Singleton: 515  12  4
+Error in HandleMove Singleton: 515  12  -4
+Error in HandleMove Singleton: 534  7  4
+Error in HandleMove Singleton: 534  7  -4
+Error in HandleMove Singleton: 534  8  4
+Error in HandleMove Singleton: 534  8  -4
+Error in HandleMove Singleton: 557  3  1
+Error in HandleMove Singleton: 557  3  -4
+Error in HandleMove Singleton: 557  4  4
+Error in HandleMove Singleton: 557  4  -4
+Error in HandleMove Singleton: 609  15  1
+Error in HandleMove Singleton: 609  15  -4
+Error in HandleMove Singleton: 609  16  -1
+Error in HandleMove Singleton: 609  16  4
+Error in HandleMove Singleton: 677  3  1
+Error in HandleMove Singleton: 677  4  -1
+Error in HandleMove Singleton: 677  4  4
+Error in HandleMove Singleton: 677  4  -4
+Error in HandleMove Singleton: 729  15  1
+Error in HandleMove Singleton: 729  15  4
+Error in HandleMove Singleton: 729  15  -4
+Error in HandleMove Singleton: 729  16  -1
+Error in HandleMove Singleton: 797  3  1
+Error in HandleMove Singleton: 797  3  -4
+Error in HandleMove Singleton: 797  4  -1
+Error in HandleMove Singleton: 797  4  4
+Error in HandleMove Singleton: 849  15  4
+Error in HandleMove Singleton: 849  15  -4
+Error in HandleMove Singleton: 849  16  -1
+Error in HandleMove Singleton: 849  16  4
+Error in HandleMove Singleton: 860  11  4
+Error in HandleMove Singleton: 860  11  -4
+Error in HandleMove Singleton: 860  12  4
+Error in HandleMove Singleton: 860  12  -4
+Error in HandleMove Singleton: 875  7  1
+Error in HandleMove Singleton: 875  7  4
+Error in HandleMove Singleton: 875  7  -4
+Error in HandleMove Singleton: 875  8  4
+Error in HandleMove Singleton: 875  8  -4
+Error in HandleMove Singleton: 917  3  1
+Error in HandleMove Singleton: 917  3  -4
+Error in HandleMove Singleton: 917  4  -1
+Error in HandleMove Singleton: 917  4  4
+Error in HandleMove Singleton: 917  4  -4
+Error in HandleMove Singleton: 995  7  1
+Error in HandleMove Singleton: 995  7  4
+Error in HandleMove Singleton: 995  8  -1
+Error in HandleMove Singleton: 995  8  4
+Error in HandleMove Singleton: 995  8  -4
+Error in HandleMove Singleton: 1037  3  1
+Error in HandleMove Singleton: 1037  3  -4
+Error in HandleMove Singleton: 1037  4  -1
+Error in HandleMove Singleton: 1037  4  4
+Error in HandleMove Singleton: 1037  4  -4
+Error in HandleMove Singleton: 1115  7  1
+Error in HandleMove Singleton: 1115  7  4
+Error in HandleMove Singleton: 1115  7  -4
+Error in HandleMove Singleton: 1115  8  -1
+Error in HandleMove Singleton: 1115  8  4
+Error in HandleMove Singleton: 1157  3  1
+Error in HandleMove Singleton: 1157  3  -4
+Error in HandleMove Singleton: 1157  4  -1
+Error in HandleMove Singleton: 1157  4  4
+Error in HandleMove Singleton: 1157  4  -4
+Error in HandleMove Singleton: 1202  15  4
+Error in HandleMove Singleton: 1202  15  -4
+Error in HandleMove Singleton: 1202  16  4
+Error in HandleMove Singleton: 1209  11  1
+Error in HandleMove Singleton: 1209  11  4
+Error in HandleMove Singleton: 1209  11  -4
+Error in HandleMove Singleton: 1209  12  4
+Error in HandleMove Singleton: 1209  12  -4
+Error in HandleMove Singleton: 1235  7  1
+Error in HandleMove Singleton: 1235  7  4
+Error in HandleMove Singleton: 1235  7  -4
+Error in HandleMove Singleton: 1235  8  -1
+Error in HandleMove Singleton: 1235  8  4
+Error in HandleMove Singleton: 1235  8  -4
+Error in HandleMove Singleton: 1277  3  1
+Error in HandleMove Singleton: 1277  3  -4
+Error in HandleMove Singleton: 1277  4  -1
+Error in HandleMove Singleton: 1277  4  4
+Error in HandleMove Singleton: 1277  4  -4
+Error in HandleMove Singleton: 1329  11  1
+Error in HandleMove Singleton: 1329  11  4
+Error in HandleMove Singleton: 1329  12  -1
+Error in HandleMove Singleton: 1329  12  4
+Error in HandleMove Singleton: 1329  12  -4
+Error in HandleMove Singleton: 1355  7  1
+Error in HandleMove Singleton: 1355  7  4
+Error in HandleMove Singleton: 1355  7  -4
+Error in HandleMove Singleton: 1355  8  -1
+Error in HandleMove Singleton: 1355  8  4
+Error in HandleMove Singleton: 1355  8  -4
+Error in HandleMove Singleton: 1397  3  1
+Error in HandleMove Singleton: 1397  3  -4
+Error in HandleMove Singleton: 1397  4  -1
+Error in HandleMove Singleton: 1397  4  4
+Error in HandleMove Singleton: 1397  4  -4
+time taken to build graph = 0
+Size of Graph = 1440
+Length of shortest path = 17
+
+1220:
+3333
+3333
+3443
+3003
+3003
+Weight = 18
+1226 1227 1250 1251 842 1219 1214 1242 1241 
+Prev Vertex = 842
+
+842:
+3333
+3333
+3003
+3003
+3443
+Weight = 17
+844 845 1220 841 840 
+Prev Vertex = 844
+
+844:
+3333
+3333
+3003
+3003
+4343
+Weight = 17
+842 851 845 843 
+Prev Vertex = 845
+
+845:
+3333
+3333
+3003
+3003
+4433
+Weight = 16
+852 853 844 842 
+Prev Vertex = 852
+
+852:
+3333
+3333
+3003
+4003
+3433
+Weight = 16
+863 845 853 851 
+Prev Vertex = 853
+
+853:
+3333
+3333
+3003
+4003
+4333
+Weight = 15
+864 866 852 845 
+Prev Vertex = 864
+
+864:
+3333
+3333
+4003
+3003
+4333
+Weight = 15
+898 853 863 866 
+Prev Vertex = 866
+
+866:
+3333
+3333
+4003
+4003
+3333
+Weight = 14
+746 900 902 864 853 
+Prev Vertex = 900
+
+900:
+3333
+4333
+3003
+4003
+3333
+Weight = 14
+890 950 866 902 898 
+Prev Vertex = 902
+
+902:
+3333
+4333
+4003
+3003
+3333
+Weight = 13
+892 905 952 956 900 866 
+Prev Vertex = 955
+
+955:
+4333
+3433
+3003
+3003
+3333
+Weight = 13
+941 905 956 954 959 
+Prev Vertex = 905
+
+905:
+3333
+4433
+3003
+3003
+3333
+Weight = 12
+955 956 892 902 904 894 942 941 
+Prev Vertex = 904
+
+904:
+3333
+4343
+3003
+3003
+3333
+Weight = 12
+894 954 883 905 903 929 
+Prev Vertex = 894
+
+894:
+3333
+3443
+3003
+3003
+3333
+Weight = 11
+904 905 940 941 500 893 884 928 927 
+Prev Vertex = 500
+
+500:
+3333
+3003
+3003
+3443
+3333
+Weight = 10
+506 507 894 492 497 499 494 496 491 
+Prev Vertex = 498
+
+498:
+3333
+3003
+3003
+3433
+4333
+Weight = 10
+504 493 485 497 507 
+Prev Vertex = 507
+
+507:
+3333
+3003
+3003
+4433
+3333
+Weight = 9
+522 523 498 504 506 500 503 497 
+Prev Vertex = 522
+
+522:
+3333
+3003
+4003
+3433
+3333
+Weight = 9
+541 507 523 521 518 
+Prev Vertex = 523
+
+523:
+3333
+3003
+4003
+4333
+3333
+Weight = 8
+542 544 522 507 519 504 
+Prev Vertex = 424
+
+424:
+3333
+0043
+0043
+3333
+3333
+Weight = 8
+544 414 425 447 449 423 404 420 401 
+Prev Vertex = 544
+
+544:
+3333
+4003
+4003
+3333
+3333
+Weight = 7
+424 594 596 542 523 
+Prev Vertex = 594
+
+594:
+4333
+3003
+4003
+3333
+3333
+Weight = 7
+580 544 596 592 
+Prev Vertex = 596
+
+596:
+4333
+4003
+3003
+3333
+3333
+Weight = 6
+582 599 594 544 
+Prev Vertex = 582
+
+582:
+3433
+4003
+3003
+3333
+3333
+Weight = 6
+596 569 599 580 
+Prev Vertex = 599
+
+599:
+4433
+3003
+3003
+3333
+3333
+Weight = 5
+582 596 598 584 
+Prev Vertex = 598
+
+598:
+4343
+3003
+3003
+3333
+3333
+Weight = 5
+584 569 599 597 
+Prev Vertex = 584
+
+584:
+3443
+3003
+3003
+3333
+3333
+Weight = 4
+598 599 174 583 570 
+Prev Vertex = 174
+
+174:
+3003
+3003
+3443
+3333
+3333
+Weight = 3
+184 185 584 162 171 173 164 170 161 
+Prev Vertex = 185
+
+185:
+3003
+3003
+4433
+3333
+3333
+Weight = 3
+208 209 172 182 184 174 181 171 
+Prev Vertex = 171
+
+171:
+3003
+3003
+3433
+3433
+3333
+Weight = 2
+181 185 162 174 172 147 170 140 167 137 
+Prev Vertex = 147
+
+147:
+3003
+3003
+3333
+4433
+3333
+Weight = 2
+181 182 138 144 146 140 172 171 143 137 
+Prev Vertex = 137
+
+137:
+3003
+3003
+3333
+3433
+3433
+Weight = 1
+143 147 132 140 167 171 138 125 136 122 
+Prev Vertex = 124
+
+124:
+3003
+3003
+3333
+3333
+4343
+Weight = 1
+122 142 125 123 133 
+Prev Vertex = 122

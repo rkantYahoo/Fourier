@@ -1,0 +1,22 @@
+void Kgraph::HandleNeighbour(const int vindex, const int bindex, 
+			     const Direction D) {
+  const Vertex& Vcurr = vertices_[vindex];
+  int offset = 1;
+  if ((D == LEFT) || (D == RIGHT)) {
+    offset = COLS;
+  }
+
+  if ((Vcurr.PieceAt(bindex - D) == KING) &&
+      (Vcurr.PieceAt(bindex - D + COLS) == KING) &&
+      (Vcurr.PieceAt(bindex + offset) == BLANK)) {
+    vertices_[vindex].AddNeighbour(IndexAfterMove(Vcurr, ));
+
+  }
+}
+const int Kgraph::Doffset(const Direction D) {
+  if (D > 0 ) {
+    return -2*D;
+  } else {
+    return -D;
+  }
+}

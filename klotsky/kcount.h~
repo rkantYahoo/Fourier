@@ -1,0 +1,15 @@
+#ifndef KCOUNT_H
+#define KCOUNT_H
+
+using namespace std;
+
+class Board {
+ public:
+  Board(int config[]);
+  const Board& NextBoard();
+  bool IsValidBoard();
+  bool IsLastBoard();
+
+ private:
+  int config[20];
+};

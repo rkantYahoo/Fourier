@@ -1,0 +1,4452 @@
+Num positions = 64864800
+time taken to build vertices = 810
+Error in HandleMove Singleton: 9  15  1
+Error in HandleMove Singleton: 9  15  -4
+Error in HandleMove Singleton: 9  16  -1
+Error in HandleMove Singleton: 20  15  1
+Error in HandleMove Singleton: 20  15  -4
+Error in HandleMove Singleton: 30  15  -4
+Error in HandleMove Singleton: 30  16  -1
+Error in HandleMove: DVER1 58  9  -1
+Error in HandleMove Singleton: 75  15  -4
+Error in HandleMove Singleton: 75  16  -1
+Error in HandleMove Singleton: 75  16  4
+Error in HandleMove Singleton: 110  15  -4
+Error in HandleMove Singleton: 110  16  4
+Error in HandleMove: DVER1 136  9  -1
+Error in HandleMove: DVER1 146  9  -1
+Error in HandleMove Singleton: 210  15  4
+Error in HandleMove Singleton: 210  15  -4
+Error in HandleMove Singleton: 210  16  -1
+Error in HandleMove: DVER1 220  11  1
+Error in HandleMove Singleton: 239  15  4
+Error in HandleMove Singleton: 239  15  -4
+Error in HandleMove: DVER1 248  11  1
+Error in HandleMove: DVER1 262  9  -1
+Error in HandleMove: DVER1 271  9  -1
+Error in HandleMove: DVER1 298  11  1
+Error in HandleMove Singleton: 304  11  4
+Error in HandleMove Singleton: 304  12  4
+Error in HandleMove Singleton: 304  12  -4
+Error in HandleMove: DVER1 319  11  1
+Error in HandleMove Singleton: 325  11  4
+Error in HandleMove Singleton: 325  12  4
+Error in HandleMove Singleton: 325  12  -4
+Error in HandleMove: DVER1 331  9  -1
+Error in HandleMove: DVER1 340  9  -1
+Error in HandleMove Singleton: 484  8  -4
+Error in HandleMove Singleton: 485  7  -4
+Error in HandleMove Singleton: 486  7  -4
+Error in HandleMove Singleton: 487  7  -4
+Error in HandleMove Singleton: 487  8  -4
+Error in HandleMove Singleton: 488  8  -1
+Error in HandleMove Singleton: 489  8  -1
+Error in HandleMove Singleton: 490  8  -1
+Error in HandleMove Singleton: 490  8  -4
+Error in HandleMove Singleton: 491  7  -4
+Error in HandleMove Singleton: 491  8  -1
+Error in HandleMove Singleton: 492  7  -4
+Error in HandleMove Singleton: 492  8  -1
+Error in HandleMove Singleton: 493  7  -4
+Error in HandleMove Singleton: 493  8  -1
+Error in HandleMove Singleton: 494  7  -4
+Error in HandleMove Singleton: 494  8  -1
+Error in HandleMove Singleton: 494  8  -4
+Error in HandleMove Singleton: 504  15  -4
+Error in HandleMove Singleton: 504  16  -1
+Error in HandleMove Singleton: 510  15  -4
+Error in HandleMove Singleton: 510  16  -1
+Error in HandleMove: DVER1 524  10  -1
+Error in HandleMove Singleton: 530  15  -4
+Error in HandleMove Singleton: 539  15  -4
+Error in HandleMove: DVER1 551  10  -1
+Error in HandleMove: DVER1 601  10  -1
+Error in HandleMove: DVER1 621  10  -1
+Error in HandleMove Singleton: 847  7  1
+Error in HandleMove Singleton: 848  7  1
+Error in HandleMove Singleton: 848  7  -4
+Error in HandleMove Singleton: 849  7  1
+Error in HandleMove Singleton: 850  7  1
+Error in HandleMove Singleton: 850  7  -4
+Error in HandleMove Singleton: 851  7  1
+Error in HandleMove Singleton: 851  8  -1
+Error in HandleMove Singleton: 852  7  1
+Error in HandleMove Singleton: 852  7  -4
+Error in HandleMove Singleton: 852  8  -1
+Error in HandleMove Singleton: 853  7  1
+Error in HandleMove Singleton: 853  8  -1
+Error in HandleMove Singleton: 854  7  1
+Error in HandleMove Singleton: 854  7  -4
+Error in HandleMove Singleton: 854  8  -1
+Error in HandleMove Singleton: 1065  15  4
+Error in HandleMove Singleton: 1065  15  -4
+Error in HandleMove Singleton: 1065  16  4
+Error in HandleMove Singleton: 1093  11  -4
+Error in HandleMove Singleton: 1093  12  -4
+Error in HandleMove Singleton: 1094  12  -1
+Error in HandleMove Singleton: 1094  12  -4
+Error in HandleMove Singleton: 1145  15  4
+Error in HandleMove Singleton: 1145  15  -4
+Error in HandleMove Singleton: 1145  16  4
+Error in HandleMove Singleton: 1182  11  1
+Error in HandleMove Singleton: 1182  11  -4
+Error in HandleMove Singleton: 1182  12  -4
+Error in HandleMove Singleton: 1183  11  1
+Error in HandleMove Singleton: 1183  12  -4
+Error in HandleMove Singleton: 1184  11  1
+Error in HandleMove Singleton: 1184  12  -1
+Error in HandleMove Singleton: 1184  12  -4
+Error in HandleMove Singleton: 1250  15  1
+Error in HandleMove Singleton: 1250  15  4
+Error in HandleMove Singleton: 1250  15  -4
+Error in HandleMove Singleton: 1260  15  4
+Error in HandleMove Singleton: 1260  15  -4
+Error in HandleMove Singleton: 1260  16  -1
+Error in HandleMove Singleton: 1299  15  1
+Error in HandleMove Singleton: 1299  15  -4
+Error in HandleMove Singleton: 1299  16  -1
+Error in HandleMove Singleton: 1318  15  1
+Error in HandleMove Singleton: 1318  15  4
+Error in HandleMove Singleton: 1318  15  -4
+Error in HandleMove Singleton: 1319  15  1
+Error in HandleMove Singleton: 1319  15  4
+Error in HandleMove Singleton: 1319  16  -1
+Error in HandleMove Singleton: 1370  15  1
+Error in HandleMove Singleton: 1370  15  -4
+Error in HandleMove Singleton: 1380  15  -4
+Error in HandleMove Singleton: 1380  16  -1
+Error in HandleMove Singleton: 1402  15  4
+Error in HandleMove Singleton: 1402  15  -4
+Error in HandleMove Singleton: 1403  15  4
+Error in HandleMove Singleton: 1403  16  -1
+Error in HandleMove Singleton: 1455  15  1
+Error in HandleMove Singleton: 1455  15  4
+Error in HandleMove Singleton: 1655  15  4
+Error in HandleMove Singleton: 1655  15  -4
+Error in HandleMove Singleton: 1655  16  4
+Error in HandleMove Singleton: 1692  11  -4
+Error in HandleMove Singleton: 1692  12  4
+Error in HandleMove Singleton: 1692  12  -4
+Error in HandleMove Singleton: 1693  12  4
+Error in HandleMove Singleton: 1693  12  -4
+Error in HandleMove Singleton: 1694  12  -1
+Error in HandleMove Singleton: 1694  12  4
+Error in HandleMove Singleton: 1694  12  -4
+Error in HandleMove Singleton: 1710  15  -4
+Error in HandleMove Singleton: 1710  16  -1
+Error in HandleMove Singleton: 1710  16  4
+Error in HandleMove Singleton: 1732  15  4
+Error in HandleMove Singleton: 1732  15  -4
+Error in HandleMove Singleton: 1732  16  4
+Error in HandleMove Singleton: 1733  15  4
+Error in HandleMove Singleton: 1733  16  -1
+Error in HandleMove Singleton: 1733  16  4
+Error in HandleMove Singleton: 1752  11  -4
+Error in HandleMove Singleton: 1752  12  4
+Error in HandleMove Singleton: 1753  11  -4
+Error in HandleMove Singleton: 1753  12  4
+Error in HandleMove Singleton: 1753  12  -4
+Error in HandleMove Singleton: 1754  11  -4
+Error in HandleMove Singleton: 1754  12  4
+Error in HandleMove Singleton: 1754  12  -4
+Error in HandleMove Singleton: 1806  11  1
+Error in HandleMove Singleton: 1806  11  -4
+Error in HandleMove Singleton: 1806  12  4
+Error in HandleMove Singleton: 1807  11  1
+Error in HandleMove Singleton: 1807  12  4
+Error in HandleMove Singleton: 1808  11  1
+Error in HandleMove Singleton: 1808  12  4
+Error in HandleMove Singleton: 1808  12  -4
+Error in HandleMove Singleton: 1865  15  -4
+Error in HandleMove Singleton: 1865  16  4
+Error in HandleMove Singleton: 1914  15  4
+Error in HandleMove Singleton: 1914  16  4
+Error in HandleMove Singleton: 1938  11  -4
+Error in HandleMove Singleton: 1938  12  4
+Error in HandleMove Singleton: 1938  12  -4
+Error in HandleMove Singleton: 1939  12  -1
+Error in HandleMove Singleton: 1939  12  4
+Error in HandleMove Singleton: 1940  12  -1
+Error in HandleMove Singleton: 1940  12  4
+Error in HandleMove Singleton: 1940  12  -4
+Error in HandleMove Singleton: 1976  11  1
+Error in HandleMove Singleton: 1976  12  -1
+Error in HandleMove Singleton: 1976  12  4
+Error in HandleMove Singleton: 2400  15  -4
+Error in HandleMove Singleton: 2400  16  4
+Error in HandleMove Singleton: 2435  15  -4
+Error in HandleMove Singleton: 2435  16  4
+Error in HandleMove: DVER1 2460  10  -1
+Error in HandleMove: DVER1 2468  10  -1
+Error in HandleMove Singleton: 2480  15  1
+Error in HandleMove Singleton: 2480  15  -4
+Error in HandleMove Singleton: 2490  15  -4
+Error in HandleMove Singleton: 2490  16  -1
+Error in HandleMove Singleton: 2518  15  1
+Error in HandleMove Singleton: 2518  15  -4
+Error in HandleMove Singleton: 2519  15  1
+Error in HandleMove Singleton: 2519  16  -1
+Error in HandleMove Singleton: 2552  15  -4
+Error in HandleMove Singleton: 2553  16  -1
+Error in HandleMove Singleton: 2569  15  1
+Error in HandleMove: DVER1 2594  10  -1
+Error in HandleMove: DVER1 2595  10  -1
+Error in HandleMove Singleton: 2655  15  -4
+Error in HandleMove Singleton: 2655  16  4
+Error in HandleMove Singleton: 2678  15  -4
+Error in HandleMove Singleton: 2678  16  4
+Error in HandleMove Singleton: 2679  16  -1
+Error in HandleMove Singleton: 2679  16  4
+Error in HandleMove: DVER1 2720  10  -1
+Error in HandleMove: DVER1 2721  10  -1
+Error in HandleMove Singleton: 2734  16  4
+Error in HandleMove: DVER1 2757  10  -1
+Error in HandleMove Singleton: 2934  11  4
+Error in HandleMove Singleton: 2934  12  -4
+Error in HandleMove Singleton: 2955  11  1
+Error in HandleMove Singleton: 2955  11  4
+Error in HandleMove Singleton: 2955  12  -4
+Error in HandleMove Singleton: 2991  15  4
+Error in HandleMove Singleton: 2991  15  -4
+Error in HandleMove Singleton: 3012  15  -4
+Error in HandleMove Singleton: 3012  16  -1
+Error in HandleMove Singleton: 3026  15  4
+Error in HandleMove Singleton: 3026  15  -4
+Error in HandleMove Singleton: 3027  15  4
+Error in HandleMove Singleton: 3027  16  -1
+Error in HandleMove Singleton: 3075  15  -4
+Error in HandleMove Singleton: 3091  15  4
+Error in HandleMove Singleton: 3165  11  4
+Error in HandleMove Singleton: 3165  12  4
+Error in HandleMove Singleton: 3165  12  -4
+Error in HandleMove Singleton: 3194  11  4
+Error in HandleMove Singleton: 3194  12  4
+Error in HandleMove Singleton: 3195  11  4
+Error in HandleMove Singleton: 3195  12  4
+Error in HandleMove Singleton: 3195  12  -4
+Error in HandleMove Singleton: 3200  11  1
+Error in HandleMove Singleton: 3200  11  4
+Error in HandleMove Singleton: 3200  12  4
+Error in HandleMove: DVER1 3354  7  1
+Error in HandleMove: DVER1 3355  7  1
+Error in HandleMove: DVER1 3356  7  1
+Error in HandleMove: DVER1 3422  7  1
+Error in HandleMove: DVER1 3423  7  1
+Error in HandleMove: DVER1 3424  7  1
+Error in HandleMove: DVER1 3473  7  1
+Error in HandleMove: DVER1 3474  7  1
+Error in HandleMove: DVER1 3475  7  1
+Error in HandleMove: DVER1 3544  7  1
+Error in HandleMove: DVER1 3545  7  1
+Error in HandleMove: DVER1 3546  7  1
+Error in HandleMove: DVER1 3547  7  1
+Error in HandleMove: DVER1 3579  7  1
+Error in HandleMove: DVER1 3580  7  1
+Error in HandleMove Singleton: 3593  7  4
+Error in HandleMove Singleton: 3594  7  4
+Error in HandleMove Singleton: 3595  7  4
+Error in HandleMove Singleton: 3595  8  -4
+Error in HandleMove Singleton: 3596  7  4
+Error in HandleMove Singleton: 3596  7  -4
+Error in HandleMove Singleton: 3597  7  4
+Error in HandleMove Singleton: 3597  7  -4
+Error in HandleMove Singleton: 3598  7  4
+Error in HandleMove Singleton: 3598  7  -4
+Error in HandleMove Singleton: 3599  7  4
+Error in HandleMove Singleton: 3599  7  -4
+Error in HandleMove Singleton: 3599  8  -4
+Error in HandleMove Singleton: 3600  7  4
+Error in HandleMove Singleton: 3601  7  4
+Error in HandleMove Singleton: 3602  7  4
+Error in HandleMove Singleton: 3602  8  -4
+Error in HandleMove Singleton: 3603  7  4
+Error in HandleMove Singleton: 3603  8  -4
+Error in HandleMove Singleton: 3604  7  4
+Error in HandleMove Singleton: 3604  8  -4
+Error in HandleMove Singleton: 3605  7  4
+Error in HandleMove Singleton: 3605  8  -4
+Error in HandleMove Singleton: 3606  7  4
+Error in HandleMove Singleton: 3606  7  -4
+Error in HandleMove Singleton: 3607  7  4
+Error in HandleMove Singleton: 3607  7  -4
+Error in HandleMove Singleton: 3608  7  4
+Error in HandleMove Singleton: 3608  7  -4
+Error in HandleMove Singleton: 3608  8  -4
+Error in HandleMove Singleton: 3609  7  4
+Error in HandleMove Singleton: 3609  7  -4
+Error in HandleMove Singleton: 3609  8  -4
+Error in HandleMove Singleton: 3610  7  4
+Error in HandleMove Singleton: 3611  7  4
+Error in HandleMove Singleton: 3612  7  4
+Error in HandleMove Singleton: 3612  8  -4
+Error in HandleMove Singleton: 3613  7  4
+Error in HandleMove Singleton: 3613  7  -4
+Error in HandleMove Singleton: 3614  7  4
+Error in HandleMove Singleton: 3614  7  -4
+Error in HandleMove Singleton: 3614  8  -4
+Error in HandleMove Singleton: 3615  7  4
+Error in HandleMove Singleton: 3615  8  -1
+Error in HandleMove Singleton: 3616  7  4
+Error in HandleMove Singleton: 3616  8  -1
+Error in HandleMove Singleton: 3617  7  4
+Error in HandleMove Singleton: 3617  8  -1
+Error in HandleMove Singleton: 3618  7  4
+Error in HandleMove Singleton: 3618  8  -1
+Error in HandleMove Singleton: 3618  8  -4
+Error in HandleMove Singleton: 3619  7  4
+Error in HandleMove Singleton: 3619  8  -1
+Error in HandleMove Singleton: 3620  7  4
+Error in HandleMove Singleton: 3620  8  -1
+Error in HandleMove Singleton: 3621  7  4
+Error in HandleMove Singleton: 3621  8  -1
+Error in HandleMove Singleton: 3621  8  -4
+Error in HandleMove Singleton: 3622  7  4
+Error in HandleMove Singleton: 3622  7  -4
+Error in HandleMove Singleton: 3622  8  -1
+Error in HandleMove Singleton: 3623  7  4
+Error in HandleMove Singleton: 3623  7  -4
+Error in HandleMove Singleton: 3623  8  -1
+Error in HandleMove Singleton: 3624  7  4
+Error in HandleMove Singleton: 3624  8  -1
+Error in HandleMove Singleton: 4295  15  4
+Error in HandleMove Singleton: 4295  15  -4
+Error in HandleMove Singleton: 4295  16  4
+Error in HandleMove: DVER1 4317  11  1
+Error in HandleMove: DVER1 4325  11  1
+Error in HandleMove Singleton: 4332  11  -4
+Error in HandleMove Singleton: 4332  12  -4
+Error in HandleMove Singleton: 4333  12  -4
+Error in HandleMove Singleton: 4334  12  -1
+Error in HandleMove Singleton: 4334  12  -4
+Error in HandleMove Singleton: 4348  15  1
+Error in HandleMove Singleton: 4348  15  4
+Error in HandleMove Singleton: 4348  15  -4
+Error in HandleMove Singleton: 4349  15  1
+Error in HandleMove Singleton: 4349  15  4
+Error in HandleMove Singleton: 4349  16  -1
+Error in HandleMove Singleton: 4405  15  1
+Error in HandleMove Singleton: 4405  15  4
+Error in HandleMove: DVER1 4427  11  1
+Error in HandleMove: DVER1 4466  9  -1
+Error in HandleMove: DVER1 4521  11  1
+Error in HandleMove Singleton: 4526  11  -4
+Error in HandleMove Singleton: 4526  12  4
+Error in HandleMove Singleton: 4527  12  4
+Error in HandleMove Singleton: 4528  12  4
+Error in HandleMove Singleton: 4528  12  -4
+Error in HandleMove Singleton: 4564  12  -1
+Error in HandleMove Singleton: 4564  12  4
+Error in HandleMove: DVER1 4580  9  -1
+Error in HandleMove: DVER1 4593  9  -1
+Error in HandleMove Singleton: 4714  12  -4
+Error in HandleMove Singleton: 4735  11  1
+Error in HandleMove Singleton: 4735  12  -4
+Error in HandleMove Singleton: 4771  15  4
+Error in HandleMove Singleton: 4771  15  -4
+Error in HandleMove Singleton: 4792  15  -4
+Error in HandleMove Singleton: 4792  16  -1
+Error in HandleMove Singleton: 4806  15  4
+Error in HandleMove Singleton: 4806  15  -4
+Error in HandleMove Singleton: 4807  15  4
+Error in HandleMove Singleton: 4807  16  -1
+Error in HandleMove Singleton: 4855  15  -4
+Error in HandleMove Singleton: 4871  15  4
+Error in HandleMove Singleton: 4945  12  4
+Error in HandleMove Singleton: 4945  12  -4
+Error in HandleMove Singleton: 4974  12  4
+Error in HandleMove Singleton: 4975  12  4
+Error in HandleMove Singleton: 4975  12  -4
+Error in HandleMove Singleton: 4980  11  1
+Error in HandleMove Singleton: 4980  12  4
+Error in HandleMove: DVER1 5158  6  -1
+Error in HandleMove: DVER1 5159  6  -1
+Error in HandleMove: DVER1 5160  6  -1
+Error in HandleMove: DVER1 5223  6  -1
+Error in HandleMove: DVER1 5224  6  -1
+Error in HandleMove: DVER1 5225  6  -1
+Error in HandleMove: DVER1 5262  6  -1
+Error in HandleMove: DVER1 5263  6  -1
+Error in HandleMove: DVER1 5338  6  -1
+Error in HandleMove: DVER1 5339  6  -1
+Error in HandleMove: DVER1 5340  6  -1
+Error in HandleMove: DVER1 5362  6  -1
+Error in HandleMove Singleton: 5521  15  -4
+Error in HandleMove Singleton: 5521  16  4
+Error in HandleMove Singleton: 5550  15  1
+Error in HandleMove Singleton: 5550  15  -4
+Error in HandleMove Singleton: 5551  15  1
+Error in HandleMove Singleton: 5551  16  -1
+Error in HandleMove Singleton: 5567  15  1
+Error in HandleMove: DVER1 5594  9  -1
+Error in HandleMove: DVER1 5631  9  -1
+Error in HandleMove: DVER1 5683  11  1
+Error in HandleMove Singleton: 5689  11  4
+Error in HandleMove Singleton: 5689  12  -4
+Error in HandleMove: DVER1 5703  11  1
+Error in HandleMove: DVER1 5714  9  -1
+Error in HandleMove: DVER1 5715  9  -1
+Error in HandleMove Singleton: 5721  11  4
+Error in HandleMove Singleton: 5721  12  4
+Error in HandleMove Singleton: 5795  7  4
+Error in HandleMove Singleton: 5796  7  4
+Error in HandleMove Singleton: 5797  7  4
+Error in HandleMove Singleton: 5797  8  -4
+Error in HandleMove Singleton: 5798  7  4
+Error in HandleMove Singleton: 5798  7  -4
+Error in HandleMove Singleton: 5799  7  4
+Error in HandleMove Singleton: 5799  7  -4
+Error in HandleMove Singleton: 5799  8  -4
+Error in HandleMove Singleton: 5800  7  4
+Error in HandleMove Singleton: 5800  8  -1
+Error in HandleMove: DVER1 5817  10  -1
+Error in HandleMove Singleton: 5824  15  -4
+Error in HandleMove Singleton: 5838  15  -4
+Error in HandleMove Singleton: 5839  16  -1
+Error in HandleMove: DVER1 5847  10  -1
+Error in HandleMove: DVER1 5848  10  -1
+Error in HandleMove: DVER1 5869  10  -1
+Error in HandleMove Singleton: 5961  7  1
+Error in HandleMove Singleton: 5961  7  4
+Error in HandleMove Singleton: 5962  7  1
+Error in HandleMove Singleton: 5962  7  4
+Error in HandleMove Singleton: 5962  7  -4
+Error in HandleMove Singleton: 5963  7  1
+Error in HandleMove Singleton: 5963  7  4
+Error in HandleMove Singleton: 5964  7  1
+Error in HandleMove Singleton: 5964  7  4
+Error in HandleMove Singleton: 5965  7  1
+Error in HandleMove Singleton: 5965  7  4
+Error in HandleMove Singleton: 5966  7  1
+Error in HandleMove Singleton: 5966  7  4
+Error in HandleMove Singleton: 5966  7  -4
+Error in HandleMove Singleton: 5967  7  1
+Error in HandleMove Singleton: 5967  7  4
+Error in HandleMove Singleton: 5967  8  -1
+Error in HandleMove Singleton: 5968  7  1
+Error in HandleMove Singleton: 5968  7  4
+Error in HandleMove Singleton: 5968  8  -1
+Error in HandleMove Singleton: 7845  15  4
+Error in HandleMove Singleton: 7845  15  -4
+Error in HandleMove Singleton: 7845  16  4
+Error in HandleMove Singleton: 7873  11  -4
+Error in HandleMove Singleton: 7873  12  -4
+Error in HandleMove Singleton: 7874  12  -1
+Error in HandleMove Singleton: 7874  12  -4
+Error in HandleMove Singleton: 7925  15  4
+Error in HandleMove Singleton: 7925  15  -4
+Error in HandleMove Singleton: 7925  16  4
+Error in HandleMove Singleton: 7962  11  1
+Error in HandleMove Singleton: 7962  11  -4
+Error in HandleMove Singleton: 7962  12  -4
+Error in HandleMove Singleton: 7963  11  1
+Error in HandleMove Singleton: 7963  12  -4
+Error in HandleMove Singleton: 7964  11  1
+Error in HandleMove Singleton: 7964  12  -1
+Error in HandleMove Singleton: 7964  12  -4
+Error in HandleMove Singleton: 8030  15  1
+Error in HandleMove Singleton: 8030  15  4
+Error in HandleMove Singleton: 8030  15  -4
+Error in HandleMove Singleton: 8040  15  4
+Error in HandleMove Singleton: 8040  15  -4
+Error in HandleMove Singleton: 8040  16  -1
+Error in HandleMove Singleton: 8079  15  1
+Error in HandleMove Singleton: 8079  15  -4
+Error in HandleMove Singleton: 8079  16  -1
+Error in HandleMove Singleton: 8098  15  1
+Error in HandleMove Singleton: 8098  15  4
+Error in HandleMove Singleton: 8098  15  -4
+Error in HandleMove Singleton: 8099  15  1
+Error in HandleMove Singleton: 8099  15  4
+Error in HandleMove Singleton: 8099  16  -1
+Error in HandleMove Singleton: 8150  15  1
+Error in HandleMove Singleton: 8150  15  -4
+Error in HandleMove Singleton: 8160  15  -4
+Error in HandleMove Singleton: 8160  16  -1
+Error in HandleMove Singleton: 8182  15  4
+Error in HandleMove Singleton: 8182  15  -4
+Error in HandleMove Singleton: 8183  15  4
+Error in HandleMove Singleton: 8183  16  -1
+Error in HandleMove Singleton: 8235  15  1
+Error in HandleMove Singleton: 8235  15  4
+Error in HandleMove Singleton: 8435  15  4
+Error in HandleMove Singleton: 8435  15  -4
+Error in HandleMove Singleton: 8435  16  4
+Error in HandleMove Singleton: 8472  11  -4
+Error in HandleMove Singleton: 8472  12  4
+Error in HandleMove Singleton: 8472  12  -4
+Error in HandleMove Singleton: 8473  12  4
+Error in HandleMove Singleton: 8473  12  -4
+Error in HandleMove Singleton: 8474  12  -1
+Error in HandleMove Singleton: 8474  12  4
+Error in HandleMove Singleton: 8474  12  -4
+Error in HandleMove Singleton: 8490  15  -4
+Error in HandleMove Singleton: 8490  16  -1
+Error in HandleMove Singleton: 8490  16  4
+Error in HandleMove Singleton: 8512  15  4
+Error in HandleMove Singleton: 8512  15  -4
+Error in HandleMove Singleton: 8512  16  4
+Error in HandleMove Singleton: 8513  15  4
+Error in HandleMove Singleton: 8513  16  -1
+Error in HandleMove Singleton: 8513  16  4
+Error in HandleMove Singleton: 8532  11  -4
+Error in HandleMove Singleton: 8532  12  4
+Error in HandleMove Singleton: 8533  11  -4
+Error in HandleMove Singleton: 8533  12  4
+Error in HandleMove Singleton: 8533  12  -4
+Error in HandleMove Singleton: 8534  11  -4
+Error in HandleMove Singleton: 8534  12  4
+Error in HandleMove Singleton: 8534  12  -4
+Error in HandleMove Singleton: 8586  11  1
+Error in HandleMove Singleton: 8586  11  -4
+Error in HandleMove Singleton: 8586  12  4
+Error in HandleMove Singleton: 8587  11  1
+Error in HandleMove Singleton: 8587  12  4
+Error in HandleMove Singleton: 8588  11  1
+Error in HandleMove Singleton: 8588  12  4
+Error in HandleMove Singleton: 8588  12  -4
+Error in HandleMove Singleton: 8645  15  -4
+Error in HandleMove Singleton: 8645  16  4
+Error in HandleMove Singleton: 8694  15  4
+Error in HandleMove Singleton: 8694  16  4
+Error in HandleMove Singleton: 8718  11  -4
+Error in HandleMove Singleton: 8718  12  4
+Error in HandleMove Singleton: 8718  12  -4
+Error in HandleMove Singleton: 8719  12  -1
+Error in HandleMove Singleton: 8719  12  4
+Error in HandleMove Singleton: 8720  12  -1
+Error in HandleMove Singleton: 8720  12  4
+Error in HandleMove Singleton: 8720  12  -4
+Error in HandleMove Singleton: 8756  11  1
+Error in HandleMove Singleton: 8756  12  -1
+Error in HandleMove Singleton: 8756  12  4
+Error in HandleMove Singleton: 9180  15  -4
+Error in HandleMove Singleton: 9180  16  4
+Error in HandleMove Singleton: 9215  15  -4
+Error in HandleMove Singleton: 9215  16  4
+Error in HandleMove: DVER1 9240  10  -1
+Error in HandleMove: DVER1 9248  10  -1
+Error in HandleMove Singleton: 9260  15  1
+Error in HandleMove Singleton: 9260  15  -4
+Error in HandleMove Singleton: 9270  15  -4
+Error in HandleMove Singleton: 9270  16  -1
+Error in HandleMove Singleton: 9298  15  1
+Error in HandleMove Singleton: 9298  15  -4
+Error in HandleMove Singleton: 9299  15  1
+Error in HandleMove Singleton: 9299  16  -1
+Error in HandleMove Singleton: 9332  15  -4
+Error in HandleMove Singleton: 9333  16  -1
+Error in HandleMove Singleton: 9349  15  1
+Error in HandleMove: DVER1 9374  10  -1
+Error in HandleMove: DVER1 9375  10  -1
+Error in HandleMove Singleton: 9435  15  -4
+Error in HandleMove Singleton: 9435  16  4
+Error in HandleMove Singleton: 9458  15  -4
+Error in HandleMove Singleton: 9458  16  4
+Error in HandleMove Singleton: 9459  16  -1
+Error in HandleMove Singleton: 9459  16  4
+Error in HandleMove: DVER1 9500  10  -1
+Error in HandleMove: DVER1 9501  10  -1
+Error in HandleMove Singleton: 9514  16  4
+Error in HandleMove: DVER1 9537  10  -1
+Error in HandleMove Singleton: 9714  11  4
+Error in HandleMove Singleton: 9714  12  -4
+Error in HandleMove Singleton: 9735  11  1
+Error in HandleMove Singleton: 9735  11  4
+Error in HandleMove Singleton: 9735  12  -4
+Error in HandleMove Singleton: 9771  15  4
+Error in HandleMove Singleton: 9771  15  -4
+Error in HandleMove Singleton: 9792  15  -4
+Error in HandleMove Singleton: 9792  16  -1
+Error in HandleMove Singleton: 9806  15  4
+Error in HandleMove Singleton: 9806  15  -4
+Error in HandleMove Singleton: 9807  15  4
+Error in HandleMove Singleton: 9807  16  -1
+Error in HandleMove Singleton: 9855  15  -4
+Error in HandleMove Singleton: 9871  15  4
+Error in HandleMove Singleton: 9945  11  4
+Error in HandleMove Singleton: 9945  12  4
+Error in HandleMove Singleton: 9945  12  -4
+Error in HandleMove Singleton: 9974  11  4
+Error in HandleMove Singleton: 9974  12  4
+Error in HandleMove Singleton: 9975  11  4
+Error in HandleMove Singleton: 9975  12  4
+Error in HandleMove Singleton: 9975  12  -4
+Error in HandleMove Singleton: 9980  11  1
+Error in HandleMove Singleton: 9980  11  4
+Error in HandleMove Singleton: 9980  12  4
+Error in HandleMove Singleton: 10373  7  4
+Error in HandleMove Singleton: 10374  7  4
+Error in HandleMove Singleton: 10375  7  4
+Error in HandleMove Singleton: 10375  8  -4
+Error in HandleMove Singleton: 10376  7  4
+Error in HandleMove Singleton: 10376  7  -4
+Error in HandleMove Singleton: 10377  7  4
+Error in HandleMove Singleton: 10377  7  -4
+Error in HandleMove Singleton: 10378  7  4
+Error in HandleMove Singleton: 10378  7  -4
+Error in HandleMove Singleton: 10379  7  4
+Error in HandleMove Singleton: 10379  7  -4
+Error in HandleMove Singleton: 10379  8  -4
+Error in HandleMove Singleton: 10380  7  4
+Error in HandleMove Singleton: 10381  7  4
+Error in HandleMove Singleton: 10382  7  4
+Error in HandleMove Singleton: 10382  8  -4
+Error in HandleMove Singleton: 10383  7  4
+Error in HandleMove Singleton: 10383  8  -4
+Error in HandleMove Singleton: 10384  7  4
+Error in HandleMove Singleton: 10384  8  -4
+Error in HandleMove Singleton: 10385  7  4
+Error in HandleMove Singleton: 10385  8  -4
+Error in HandleMove Singleton: 10386  7  4
+Error in HandleMove Singleton: 10386  7  -4
+Error in HandleMove Singleton: 10387  7  4
+Error in HandleMove Singleton: 10387  7  -4
+Error in HandleMove Singleton: 10388  7  4
+Error in HandleMove Singleton: 10388  7  -4
+Error in HandleMove Singleton: 10388  8  -4
+Error in HandleMove Singleton: 10389  7  4
+Error in HandleMove Singleton: 10389  7  -4
+Error in HandleMove Singleton: 10389  8  -4
+Error in HandleMove Singleton: 10390  7  4
+Error in HandleMove Singleton: 10391  7  4
+Error in HandleMove Singleton: 10392  7  4
+Error in HandleMove Singleton: 10392  8  -4
+Error in HandleMove Singleton: 10393  7  4
+Error in HandleMove Singleton: 10393  7  -4
+Error in HandleMove Singleton: 10394  7  4
+Error in HandleMove Singleton: 10394  7  -4
+Error in HandleMove Singleton: 10394  8  -4
+Error in HandleMove Singleton: 10395  7  4
+Error in HandleMove Singleton: 10395  8  -1
+Error in HandleMove Singleton: 10396  7  4
+Error in HandleMove Singleton: 10396  8  -1
+Error in HandleMove Singleton: 10397  7  4
+Error in HandleMove Singleton: 10397  8  -1
+Error in HandleMove Singleton: 10398  7  4
+Error in HandleMove Singleton: 10398  8  -1
+Error in HandleMove Singleton: 10398  8  -4
+Error in HandleMove Singleton: 10399  7  4
+Error in HandleMove Singleton: 10399  8  -1
+Error in HandleMove Singleton: 10400  7  4
+Error in HandleMove Singleton: 10400  8  -1
+Error in HandleMove Singleton: 10401  7  4
+Error in HandleMove Singleton: 10401  8  -1
+Error in HandleMove Singleton: 10401  8  -4
+Error in HandleMove Singleton: 10402  7  4
+Error in HandleMove Singleton: 10402  7  -4
+Error in HandleMove Singleton: 10402  8  -1
+Error in HandleMove Singleton: 10403  7  4
+Error in HandleMove Singleton: 10403  7  -4
+Error in HandleMove Singleton: 10403  8  -1
+Error in HandleMove Singleton: 10404  7  4
+Error in HandleMove Singleton: 10404  8  -1
+Error in HandleMove Singleton: 11075  15  4
+Error in HandleMove Singleton: 11075  15  -4
+Error in HandleMove Singleton: 11075  16  4
+Error in HandleMove Singleton: 11112  11  -4
+Error in HandleMove Singleton: 11112  12  -4
+Error in HandleMove Singleton: 11113  12  -4
+Error in HandleMove Singleton: 11114  12  -1
+Error in HandleMove Singleton: 11114  12  -4
+Error in HandleMove Singleton: 11130  15  -4
+Error in HandleMove Singleton: 11130  16  -1
+Error in HandleMove Singleton: 11130  16  4
+Error in HandleMove Singleton: 11152  15  4
+Error in HandleMove Singleton: 11152  15  -4
+Error in HandleMove Singleton: 11152  16  4
+Error in HandleMove Singleton: 11153  15  4
+Error in HandleMove Singleton: 11153  16  -1
+Error in HandleMove Singleton: 11153  16  4
+Error in HandleMove Singleton: 11172  11  -4
+Error in HandleMove Singleton: 11173  11  -4
+Error in HandleMove Singleton: 11173  12  -4
+Error in HandleMove Singleton: 11174  11  -4
+Error in HandleMove Singleton: 11174  12  -4
+Error in HandleMove Singleton: 11226  11  1
+Error in HandleMove Singleton: 11226  11  -4
+Error in HandleMove Singleton: 11227  11  1
+Error in HandleMove Singleton: 11228  11  1
+Error in HandleMove Singleton: 11228  12  -4
+Error in HandleMove Singleton: 11285  15  -4
+Error in HandleMove Singleton: 11285  16  4
+Error in HandleMove Singleton: 11334  15  4
+Error in HandleMove Singleton: 11334  16  4
+Error in HandleMove Singleton: 11358  11  -4
+Error in HandleMove Singleton: 11358  12  -4
+Error in HandleMove Singleton: 11359  12  -1
+Error in HandleMove Singleton: 11360  12  -1
+Error in HandleMove Singleton: 11360  12  -4
+Error in HandleMove Singleton: 11396  11  1
+Error in HandleMove Singleton: 11396  12  -1
+Error in HandleMove: DVER1 11443  9  1
+Error in HandleMove: DVER1 11444  9  1
+Error in HandleMove: DVER1 11480  9  1
+Error in HandleMove: DVER1 11481  9  1
+Error in HandleMove: DVER1 11507  9  1
+Error in HandleMove: DVER1 11508  9  1
+Error in HandleMove: DVER1 11524  9  1
+Error in HandleMove Singleton: 11574  12  -4
+Error in HandleMove Singleton: 11595  11  1
+Error in HandleMove Singleton: 11595  12  -4
+Error in HandleMove Singleton: 11631  15  4
+Error in HandleMove Singleton: 11631  15  -4
+Error in HandleMove Singleton: 11652  15  -4
+Error in HandleMove Singleton: 11652  16  -1
+Error in HandleMove Singleton: 11666  15  4
+Error in HandleMove Singleton: 11666  15  -4
+Error in HandleMove Singleton: 11667  15  4
+Error in HandleMove Singleton: 11667  16  -1
+Error in HandleMove Singleton: 11715  15  -4
+Error in HandleMove Singleton: 11731  15  4
+Error in HandleMove Singleton: 11805  12  4
+Error in HandleMove Singleton: 11805  12  -4
+Error in HandleMove Singleton: 11834  12  4
+Error in HandleMove Singleton: 11835  12  4
+Error in HandleMove Singleton: 11835  12  -4
+Error in HandleMove Singleton: 11840  11  1
+Error in HandleMove Singleton: 11840  12  4
+Error in HandleMove Singleton: 12285  15  -4
+Error in HandleMove Singleton: 12285  16  4
+Error in HandleMove Singleton: 12308  15  -4
+Error in HandleMove Singleton: 12308  16  4
+Error in HandleMove Singleton: 12309  16  -1
+Error in HandleMove Singleton: 12309  16  4
+Error in HandleMove: DVER1 12350  10  -1
+Error in HandleMove: DVER1 12351  10  -1
+Error in HandleMove Singleton: 12364  16  4
+Error in HandleMove: DVER1 12387  10  -1
+Error in HandleMove: DVER1 12398  9  1
+Error in HandleMove: DVER1 12399  9  1
+Error in HandleMove: DVER1 12418  9  1
+Error in HandleMove Singleton: 12447  11  4
+Error in HandleMove Singleton: 12447  12  -4
+Error in HandleMove Singleton: 12476  11  4
+Error in HandleMove Singleton: 12477  11  4
+Error in HandleMove Singleton: 12477  12  -4
+Error in HandleMove Singleton: 12482  11  1
+Error in HandleMove Singleton: 12482  11  4
+Error in HandleMove: DVER1 12508  9  1
+Error in HandleMove: DVER1 12513  9  1
+Error in HandleMove: DVER1 12514  9  1
+Error in HandleMove: DVER1 12518  9  1
+Error in HandleMove: DVER1 12635  10  -1
+Error in HandleMove Singleton: 12642  15  -4
+Error in HandleMove Singleton: 12656  15  -4
+Error in HandleMove Singleton: 12657  16  -1
+Error in HandleMove: DVER1 12665  10  -1
+Error in HandleMove: DVER1 12666  10  -1
+Error in HandleMove: DVER1 12687  10  -1
+Error in HandleMove Singleton: 12779  7  4
+Error in HandleMove Singleton: 12779  8  4
+Error in HandleMove Singleton: 12780  7  4
+Error in HandleMove Singleton: 12780  7  -4
+Error in HandleMove Singleton: 12780  8  4
+Error in HandleMove Singleton: 12781  7  4
+Error in HandleMove Singleton: 12781  8  4
+Error in HandleMove Singleton: 12782  7  4
+Error in HandleMove Singleton: 12782  8  4
+Error in HandleMove Singleton: 12783  7  4
+Error in HandleMove Singleton: 12783  8  4
+Error in HandleMove Singleton: 12784  7  4
+Error in HandleMove Singleton: 12784  7  -4
+Error in HandleMove Singleton: 12784  8  4
+Error in HandleMove Singleton: 12785  7  4
+Error in HandleMove Singleton: 12785  8  -1
+Error in HandleMove Singleton: 12785  8  4
+Error in HandleMove Singleton: 12786  7  4
+Error in HandleMove Singleton: 12786  8  -1
+Error in HandleMove Singleton: 12786  8  4
+Error in HandleMove Singleton: 13359  4  4
+Error in HandleMove Singleton: 13360  4  4
+Error in HandleMove Singleton: 13361  4  4
+Error in HandleMove Singleton: 13362  4  4
+Error in HandleMove Singleton: 13363  4  4
+Error in HandleMove Singleton: 13364  4  4
+Error in HandleMove Singleton: 13365  4  4
+Error in HandleMove Singleton: 13366  4  4
+Error in HandleMove Singleton: 13367  4  4
+Error in HandleMove Singleton: 13368  4  4
+Error in HandleMove Singleton: 13369  4  4
+Error in HandleMove Singleton: 13370  4  4
+Error in HandleMove Singleton: 13371  4  4
+Error in HandleMove Singleton: 13372  4  4
+Error in HandleMove Singleton: 13373  4  4
+Error in HandleMove Singleton: 13374  4  4
+Error in HandleMove Singleton: 13375  4  4
+Error in HandleMove Singleton: 13376  4  4
+Error in HandleMove Singleton: 13377  4  4
+Error in HandleMove Singleton: 13378  4  4
+Error in HandleMove Singleton: 13379  4  4
+Error in HandleMove Singleton: 13379  4  -4
+Error in HandleMove Singleton: 13380  4  4
+Error in HandleMove Singleton: 13380  4  -4
+Error in HandleMove Singleton: 13381  4  4
+Error in HandleMove Singleton: 13381  4  -4
+Error in HandleMove Singleton: 13382  4  4
+Error in HandleMove Singleton: 13382  4  -4
+Error in HandleMove Singleton: 13383  4  4
+Error in HandleMove Singleton: 13383  4  -4
+Error in HandleMove Singleton: 13384  4  4
+Error in HandleMove Singleton: 13384  4  -4
+Error in HandleMove Singleton: 13385  4  4
+Error in HandleMove Singleton: 13385  4  -4
+Error in HandleMove Singleton: 13386  4  4
+Error in HandleMove Singleton: 13386  4  -4
+Error in HandleMove Singleton: 13387  4  4
+Error in HandleMove Singleton: 13387  4  -4
+Error in HandleMove Singleton: 13388  4  4
+Error in HandleMove Singleton: 13388  4  -4
+Error in HandleMove Singleton: 13389  4  4
+Error in HandleMove Singleton: 13389  4  -4
+Error in HandleMove Singleton: 13390  4  4
+Error in HandleMove Singleton: 13390  4  -4
+Error in HandleMove Singleton: 13391  3  -4
+Error in HandleMove Singleton: 13391  4  4
+Error in HandleMove Singleton: 13392  3  -4
+Error in HandleMove Singleton: 13392  4  4
+Error in HandleMove Singleton: 13393  3  -4
+Error in HandleMove Singleton: 13393  4  4
+Error in HandleMove Singleton: 13394  3  -4
+Error in HandleMove Singleton: 13394  4  4
+Error in HandleMove Singleton: 13395  3  -4
+Error in HandleMove Singleton: 13395  4  4
+Error in HandleMove Singleton: 13396  3  -4
+Error in HandleMove Singleton: 13396  4  4
+Error in HandleMove Singleton: 13397  3  -4
+Error in HandleMove Singleton: 13397  4  4
+Error in HandleMove Singleton: 13398  3  -4
+Error in HandleMove Singleton: 13398  4  4
+Error in HandleMove Singleton: 13399  3  -4
+Error in HandleMove Singleton: 13399  4  4
+Error in HandleMove Singleton: 13400  3  -4
+Error in HandleMove Singleton: 13400  4  4
+Error in HandleMove Singleton: 13401  3  -4
+Error in HandleMove Singleton: 13401  4  4
+Error in HandleMove Singleton: 13402  3  -4
+Error in HandleMove Singleton: 13402  4  4
+Error in HandleMove Singleton: 13403  3  -4
+Error in HandleMove Singleton: 13403  4  4
+Error in HandleMove Singleton: 13404  3  -4
+Error in HandleMove Singleton: 13404  4  4
+Error in HandleMove Singleton: 13405  3  -4
+Error in HandleMove Singleton: 13405  4  4
+Error in HandleMove Singleton: 13406  3  -4
+Error in HandleMove Singleton: 13406  4  4
+Error in HandleMove Singleton: 13407  3  -4
+Error in HandleMove Singleton: 13407  4  4
+Error in HandleMove Singleton: 13407  4  -4
+Error in HandleMove Singleton: 13408  3  -4
+Error in HandleMove Singleton: 13408  4  4
+Error in HandleMove Singleton: 13408  4  -4
+Error in HandleMove Singleton: 13409  3  -4
+Error in HandleMove Singleton: 13409  4  4
+Error in HandleMove Singleton: 13409  4  -4
+Error in HandleMove Singleton: 13410  3  -4
+Error in HandleMove Singleton: 13410  4  4
+Error in HandleMove Singleton: 13410  4  -4
+Error in HandleMove Singleton: 13411  3  -4
+Error in HandleMove Singleton: 13411  4  4
+Error in HandleMove Singleton: 13411  4  -4
+Error in HandleMove Singleton: 13412  3  -4
+Error in HandleMove Singleton: 13412  4  4
+Error in HandleMove Singleton: 13412  4  -4
+Error in HandleMove Singleton: 13413  3  -4
+Error in HandleMove Singleton: 13413  4  4
+Error in HandleMove Singleton: 13413  4  -4
+Error in HandleMove Singleton: 13414  3  -4
+Error in HandleMove Singleton: 13414  4  4
+Error in HandleMove Singleton: 13414  4  -4
+Error in HandleMove Singleton: 14640  15  4
+Error in HandleMove Singleton: 14640  15  -4
+Error in HandleMove Singleton: 14640  16  4
+Error in HandleMove Singleton: 14668  11  -4
+Error in HandleMove Singleton: 14668  12  -4
+Error in HandleMove Singleton: 14669  12  -1
+Error in HandleMove Singleton: 14669  12  -4
+Error in HandleMove Singleton: 14720  15  4
+Error in HandleMove Singleton: 14720  15  -4
+Error in HandleMove Singleton: 14720  16  4
+Error in HandleMove Singleton: 14757  11  1
+Error in HandleMove Singleton: 14757  11  -4
+Error in HandleMove Singleton: 14757  12  -4
+Error in HandleMove Singleton: 14758  11  1
+Error in HandleMove Singleton: 14758  12  -4
+Error in HandleMove Singleton: 14759  11  1
+Error in HandleMove Singleton: 14759  12  -1
+Error in HandleMove Singleton: 14759  12  -4
+Error in HandleMove: DVER1 14768  10  1
+Error in HandleMove: DVER1 14778  10  1
+Error in HandleMove: DVER1 14792  10  1
+Error in HandleMove Singleton: 14834  12  -4
+Error in HandleMove Singleton: 14864  11  1
+Error in HandleMove Singleton: 14864  12  -4
+Error in HandleMove Singleton: 14914  12  -4
+Error in HandleMove Singleton: 14935  11  1
+Error in HandleMove Singleton: 14935  12  -4
+Error in HandleMove: DVER1 14960  9  1
+Error in HandleMove: DVER1 14970  9  1
+Error in HandleMove: DVER1 14982  9  1
+Error in HandleMove: DVER1 14991  9  1
+Error in HandleMove Singleton: 15120  15  4
+Error in HandleMove Singleton: 15120  15  -4
+Error in HandleMove Singleton: 15149  15  4
+Error in HandleMove Singleton: 15149  15  -4
+Error in HandleMove: DVER1 15168  10  1
+Error in HandleMove: DVER1 15178  10  1
+Error in HandleMove Singleton: 15214  12  4
+Error in HandleMove Singleton: 15214  12  -4
+Error in HandleMove Singleton: 15235  11  1
+Error in HandleMove Singleton: 15235  12  4
+Error in HandleMove Singleton: 15235  12  -4
+Error in HandleMove: DVER1 15238  10  1
+Error in HandleMove: DVER1 15248  10  1
+Error in HandleMove: DVER1 15264  8  -1
+Error in HandleMove: DVER1 15273  8  -1
+Error in HandleMove: DVER1 15285  8  -1
+Error in HandleMove: DVER1 15293  8  -1
+Error in HandleMove Singleton: 15675  15  4
+Error in HandleMove Singleton: 15675  15  -4
+Error in HandleMove Singleton: 15675  16  4
+Error in HandleMove Singleton: 15703  11  -4
+Error in HandleMove Singleton: 15703  12  -4
+Error in HandleMove Singleton: 15704  12  -1
+Error in HandleMove Singleton: 15704  12  -4
+Error in HandleMove Singleton: 15755  15  4
+Error in HandleMove Singleton: 15755  15  -4
+Error in HandleMove Singleton: 15755  16  4
+Error in HandleMove Singleton: 15792  11  1
+Error in HandleMove Singleton: 15792  11  -4
+Error in HandleMove Singleton: 15792  12  -4
+Error in HandleMove Singleton: 15793  11  1
+Error in HandleMove Singleton: 15793  12  -4
+Error in HandleMove Singleton: 15794  11  1
+Error in HandleMove Singleton: 15794  12  -1
+Error in HandleMove Singleton: 15794  12  -4
+Error in HandleMove Singleton: 15860  15  1
+Error in HandleMove Singleton: 15860  15  4
+Error in HandleMove Singleton: 15860  15  -4
+Error in HandleMove Singleton: 15870  15  4
+Error in HandleMove Singleton: 15870  15  -4
+Error in HandleMove Singleton: 15870  16  -1
+Error in HandleMove Singleton: 15909  15  1
+Error in HandleMove Singleton: 15909  15  -4
+Error in HandleMove Singleton: 15909  16  -1
+Error in HandleMove Singleton: 15928  15  1
+Error in HandleMove Singleton: 15928  15  4
+Error in HandleMove Singleton: 15928  15  -4
+Error in HandleMove Singleton: 15929  15  1
+Error in HandleMove Singleton: 15929  15  4
+Error in HandleMove Singleton: 15929  16  -1
+Error in HandleMove Singleton: 15980  15  1
+Error in HandleMove Singleton: 15980  15  -4
+Error in HandleMove Singleton: 15990  15  -4
+Error in HandleMove Singleton: 15990  16  -1
+Error in HandleMove Singleton: 16012  15  4
+Error in HandleMove Singleton: 16012  15  -4
+Error in HandleMove Singleton: 16013  15  4
+Error in HandleMove Singleton: 16013  16  -1
+Error in HandleMove Singleton: 16065  15  1
+Error in HandleMove Singleton: 16065  15  4
+Error in HandleMove Singleton: 16265  15  4
+Error in HandleMove Singleton: 16265  15  -4
+Error in HandleMove Singleton: 16265  16  4
+Error in HandleMove Singleton: 16302  11  -4
+Error in HandleMove Singleton: 16302  12  4
+Error in HandleMove Singleton: 16302  12  -4
+Error in HandleMove Singleton: 16303  12  4
+Error in HandleMove Singleton: 16303  12  -4
+Error in HandleMove Singleton: 16304  12  -1
+Error in HandleMove Singleton: 16304  12  4
+Error in HandleMove Singleton: 16304  12  -4
+Error in HandleMove Singleton: 16320  15  -4
+Error in HandleMove Singleton: 16320  16  -1
+Error in HandleMove Singleton: 16320  16  4
+Error in HandleMove Singleton: 16342  15  4
+Error in HandleMove Singleton: 16342  15  -4
+Error in HandleMove Singleton: 16342  16  4
+Error in HandleMove Singleton: 16343  15  4
+Error in HandleMove Singleton: 16343  16  -1
+Error in HandleMove Singleton: 16343  16  4
+Error in HandleMove Singleton: 16362  11  -4
+Error in HandleMove Singleton: 16362  12  4
+Error in HandleMove Singleton: 16363  11  -4
+Error in HandleMove Singleton: 16363  12  4
+Error in HandleMove Singleton: 16363  12  -4
+Error in HandleMove Singleton: 16364  11  -4
+Error in HandleMove Singleton: 16364  12  4
+Error in HandleMove Singleton: 16364  12  -4
+Error in HandleMove Singleton: 16416  11  1
+Error in HandleMove Singleton: 16416  11  -4
+Error in HandleMove Singleton: 16416  12  4
+Error in HandleMove Singleton: 16417  11  1
+Error in HandleMove Singleton: 16417  12  4
+Error in HandleMove Singleton: 16418  11  1
+Error in HandleMove Singleton: 16418  12  4
+Error in HandleMove Singleton: 16418  12  -4
+Error in HandleMove Singleton: 16475  15  -4
+Error in HandleMove Singleton: 16475  16  4
+Error in HandleMove Singleton: 16524  15  4
+Error in HandleMove Singleton: 16524  16  4
+Error in HandleMove Singleton: 16548  11  -4
+Error in HandleMove Singleton: 16548  12  4
+Error in HandleMove Singleton: 16548  12  -4
+Error in HandleMove Singleton: 16549  12  -1
+Error in HandleMove Singleton: 16549  12  4
+Error in HandleMove Singleton: 16550  12  -1
+Error in HandleMove Singleton: 16550  12  4
+Error in HandleMove Singleton: 16550  12  -4
+Error in HandleMove Singleton: 16586  11  1
+Error in HandleMove Singleton: 16586  12  -1
+Error in HandleMove Singleton: 16586  12  4
+Error in HandleMove Singleton: 17000  15  1
+Error in HandleMove Singleton: 17000  15  -4
+Error in HandleMove Singleton: 17010  15  -4
+Error in HandleMove Singleton: 17010  16  -1
+Error in HandleMove Singleton: 17032  15  4
+Error in HandleMove Singleton: 17032  15  -4
+Error in HandleMove Singleton: 17033  15  4
+Error in HandleMove Singleton: 17033  16  -1
+Error in HandleMove Singleton: 17085  15  1
+Error in HandleMove Singleton: 17085  15  4
+Error in HandleMove: DVER1 17139  10  1
+Error in HandleMove Singleton: 17175  15  -4
+Error in HandleMove Singleton: 17175  16  4
+Error in HandleMove Singleton: 17224  15  4
+Error in HandleMove Singleton: 17224  16  4
+Error in HandleMove Singleton: 17248  11  -4
+Error in HandleMove Singleton: 17248  12  4
+Error in HandleMove Singleton: 17248  12  -4
+Error in HandleMove Singleton: 17249  12  -1
+Error in HandleMove Singleton: 17249  12  4
+Error in HandleMove Singleton: 17250  12  -1
+Error in HandleMove Singleton: 17250  12  4
+Error in HandleMove Singleton: 17250  12  -4
+Error in HandleMove Singleton: 17286  11  1
+Error in HandleMove Singleton: 17286  12  -1
+Error in HandleMove Singleton: 17286  12  4
+Error in HandleMove: DVER1 17300  10  1
+Error in HandleMove: DVER1 17312  10  1
+Error in HandleMove: DVER1 17344  8  -1
+Error in HandleMove: DVER1 17345  8  -1
+Error in HandleMove: DVER1 17378  8  -1
+Error in HandleMove: DVER1 17403  8  -1
+Error in HandleMove Singleton: 17464  12  -4
+Error in HandleMove Singleton: 17485  11  1
+Error in HandleMove Singleton: 17485  12  -4
+Error in HandleMove Singleton: 17521  15  4
+Error in HandleMove Singleton: 17521  15  -4
+Error in HandleMove Singleton: 17542  15  -4
+Error in HandleMove Singleton: 17542  16  -1
+Error in HandleMove Singleton: 17556  15  4
+Error in HandleMove Singleton: 17556  15  -4
+Error in HandleMove Singleton: 17557  15  4
+Error in HandleMove Singleton: 17557  16  -1
+Error in HandleMove Singleton: 17605  15  -4
+Error in HandleMove Singleton: 17621  15  4
+Error in HandleMove Singleton: 17695  12  4
+Error in HandleMove Singleton: 17695  12  -4
+Error in HandleMove Singleton: 17724  12  4
+Error in HandleMove Singleton: 17725  12  4
+Error in HandleMove Singleton: 17725  12  -4
+Error in HandleMove Singleton: 17730  11  1
+Error in HandleMove Singleton: 17730  12  4
+Error in HandleMove: DVER1 18015  5  1
+Error in HandleMove: DVER1 18016  5  1
+Error in HandleMove: DVER1 18017  5  1
+Error in HandleMove: DVER1 18018  5  1
+Error in HandleMove: DVER1 18019  5  1
+Error in HandleMove: DVER1 18020  5  1
+Error in HandleMove: DVER1 18021  5  1
+Error in HandleMove: DVER1 18022  5  1
+Error in HandleMove: DVER1 18023  5  1
+Error in HandleMove: DVER1 18024  5  1
+Error in HandleMove: DVER1 18025  5  1
+Error in HandleMove: DVER1 18026  5  1
+Error in HandleMove Singleton: 18785  15  4
+Error in HandleMove Singleton: 18785  15  -4
+Error in HandleMove Singleton: 18785  16  4
+Error in HandleMove Singleton: 18822  11  -4
+Error in HandleMove Singleton: 18822  12  -4
+Error in HandleMove Singleton: 18823  12  -4
+Error in HandleMove Singleton: 18824  12  -1
+Error in HandleMove Singleton: 18824  12  -4
+Error in HandleMove Singleton: 18840  15  -4
+Error in HandleMove Singleton: 18840  16  -1
+Error in HandleMove Singleton: 18840  16  4
+Error in HandleMove Singleton: 18862  15  4
+Error in HandleMove Singleton: 18862  15  -4
+Error in HandleMove Singleton: 18862  16  4
+Error in HandleMove Singleton: 18863  15  4
+Error in HandleMove Singleton: 18863  16  -1
+Error in HandleMove Singleton: 18863  16  4
+Error in HandleMove Singleton: 18882  11  -4
+Error in HandleMove Singleton: 18883  11  -4
+Error in HandleMove Singleton: 18883  12  -4
+Error in HandleMove Singleton: 18884  11  -4
+Error in HandleMove Singleton: 18884  12  -4
+Error in HandleMove Singleton: 18936  11  1
+Error in HandleMove Singleton: 18936  11  -4
+Error in HandleMove Singleton: 18937  11  1
+Error in HandleMove Singleton: 18938  11  1
+Error in HandleMove Singleton: 18938  12  -4
+Error in HandleMove Singleton: 18995  15  -4
+Error in HandleMove Singleton: 18995  16  4
+Error in HandleMove Singleton: 19044  15  4
+Error in HandleMove Singleton: 19044  16  4
+Error in HandleMove Singleton: 19068  11  -4
+Error in HandleMove Singleton: 19068  12  -4
+Error in HandleMove Singleton: 19069  12  -1
+Error in HandleMove Singleton: 19070  12  -1
+Error in HandleMove Singleton: 19070  12  -4
+Error in HandleMove Singleton: 19106  11  1
+Error in HandleMove Singleton: 19106  12  -1
+Error in HandleMove: DVER1 19153  9  1
+Error in HandleMove: DVER1 19154  9  1
+Error in HandleMove: DVER1 19190  9  1
+Error in HandleMove: DVER1 19191  9  1
+Error in HandleMove: DVER1 19217  9  1
+Error in HandleMove: DVER1 19218  9  1
+Error in HandleMove: DVER1 19234  9  1
+Error in HandleMove Singleton: 19284  12  -4
+Error in HandleMove Singleton: 19305  11  1
+Error in HandleMove Singleton: 19305  12  -4
+Error in HandleMove Singleton: 19341  15  4
+Error in HandleMove Singleton: 19341  15  -4
+Error in HandleMove Singleton: 19362  15  -4
+Error in HandleMove Singleton: 19362  16  -1
+Error in HandleMove Singleton: 19376  15  4
+Error in HandleMove Singleton: 19376  15  -4
+Error in HandleMove Singleton: 19377  15  4
+Error in HandleMove Singleton: 19377  16  -1
+Error in HandleMove Singleton: 19425  15  -4
+Error in HandleMove Singleton: 19441  15  4
+Error in HandleMove Singleton: 19515  12  4
+Error in HandleMove Singleton: 19515  12  -4
+Error in HandleMove Singleton: 19544  12  4
+Error in HandleMove Singleton: 19545  12  4
+Error in HandleMove Singleton: 19545  12  -4
+Error in HandleMove Singleton: 19550  11  1
+Error in HandleMove Singleton: 19550  12  4
+Error in HandleMove: DVER1 19950  4  -1
+Error in HandleMove: DVER1 19951  4  -1
+Error in HandleMove: DVER1 19952  4  -1
+Error in HandleMove: DVER1 19953  4  -1
+Error in HandleMove: DVER1 19954  4  -1
+Error in HandleMove: DVER1 19955  4  -1
+Error in HandleMove: DVER1 19956  4  -1
+Error in HandleMove: DVER1 19957  4  -1
+Error in HandleMove: DVER1 19958  4  -1
+Error in HandleMove: DVER1 19959  4  -1
+Error in HandleMove: DVER1 19960  4  -1
+Error in HandleMove: DVER1 19961  4  -1
+Error in HandleMove: DVER1 19962  4  -1
+Error in HandleMove: DVER1 19963  4  -1
+Error in HandleMove: DVER1 19964  4  -1
+Error in HandleMove Singleton: 20091  15  -4
+Error in HandleMove Singleton: 20091  16  4
+Error in HandleMove Singleton: 20140  15  4
+Error in HandleMove Singleton: 20140  16  4
+Error in HandleMove Singleton: 20164  11  -4
+Error in HandleMove Singleton: 20164  12  -4
+Error in HandleMove Singleton: 20165  12  -1
+Error in HandleMove Singleton: 20166  12  -1
+Error in HandleMove Singleton: 20166  12  -4
+Error in HandleMove Singleton: 20202  11  1
+Error in HandleMove Singleton: 20202  12  -1
+Error in HandleMove: DVER1 20216  10  1
+Error in HandleMove: DVER1 20228  10  1
+Error in HandleMove Singleton: 20259  12  -4
+Error in HandleMove Singleton: 20289  12  -4
+Error in HandleMove Singleton: 20294  11  1
+Error in HandleMove: DVER1 20320  9  1
+Error in HandleMove: DVER1 20325  9  1
+Error in HandleMove: DVER1 20326  9  1
+Error in HandleMove: DVER1 20330  9  1
+Error in HandleMove Singleton: 20433  15  -4
+Error in HandleMove Singleton: 20449  15  4
+Error in HandleMove: DVER1 20462  10  1
+Error in HandleMove: DVER1 20476  10  1
+Error in HandleMove: DVER1 20484  8  -1
+Error in HandleMove: DVER1 20490  8  -1
+Error in HandleMove Singleton: 22455  15  4
+Error in HandleMove Singleton: 22455  15  -4
+Error in HandleMove Singleton: 22455  16  4
+Error in HandleMove Singleton: 22483  11  -4
+Error in HandleMove Singleton: 22483  12  -4
+Error in HandleMove Singleton: 22484  12  -1
+Error in HandleMove Singleton: 22484  12  -4
+Error in HandleMove Singleton: 22535  15  4
+Error in HandleMove Singleton: 22535  15  -4
+Error in HandleMove Singleton: 22535  16  4
+Error in HandleMove Singleton: 22572  11  1
+Error in HandleMove Singleton: 22572  11  -4
+Error in HandleMove Singleton: 22572  12  -4
+Error in HandleMove Singleton: 22573  11  1
+Error in HandleMove Singleton: 22573  12  -4
+Error in HandleMove Singleton: 22574  11  1
+Error in HandleMove Singleton: 22574  12  -1
+Error in HandleMove Singleton: 22574  12  -4
+Error in HandleMove Singleton: 22635  15  -4
+Error in HandleMove Singleton: 22635  16  4
+Error in HandleMove Singleton: 22670  15  -4
+Error in HandleMove Singleton: 22670  16  4
+Error in HandleMove: DVER1 22695  10  -1
+Error in HandleMove: DVER1 22703  10  -1
+Error in HandleMove Singleton: 22739  11  4
+Error in HandleMove Singleton: 22739  12  -4
+Error in HandleMove Singleton: 22760  11  1
+Error in HandleMove Singleton: 22760  11  4
+Error in HandleMove Singleton: 22760  12  -4
+Error in HandleMove: DVER1 22799  7  1
+Error in HandleMove: DVER1 22800  7  1
+Error in HandleMove: DVER1 22801  7  1
+Error in HandleMove Singleton: 22985  15  4
+Error in HandleMove Singleton: 22985  15  -4
+Error in HandleMove Singleton: 22985  16  4
+Error in HandleMove: DVER1 23007  11  1
+Error in HandleMove: DVER1 23015  11  1
+Error in HandleMove Singleton: 23022  11  -4
+Error in HandleMove Singleton: 23022  12  -4
+Error in HandleMove Singleton: 23023  12  -4
+Error in HandleMove Singleton: 23024  12  -1
+Error in HandleMove Singleton: 23024  12  -4
+Error in HandleMove Singleton: 23054  12  -4
+Error in HandleMove Singleton: 23075  11  1
+Error in HandleMove Singleton: 23075  12  -4
+Error in HandleMove: DVER1 23138  6  -1
+Error in HandleMove: DVER1 23139  6  -1
+Error in HandleMove: DVER1 23140  6  -1
+Error in HandleMove Singleton: 23165  15  -4
+Error in HandleMove Singleton: 23165  16  4
+Error in HandleMove: DVER1 23195  11  1
+Error in HandleMove Singleton: 23201  11  4
+Error in HandleMove Singleton: 23201  12  -4
+Error in HandleMove: DVER1 23239  10  -1
+Error in HandleMove Singleton: 23660  15  4
+Error in HandleMove Singleton: 23660  15  -4
+Error in HandleMove Singleton: 23660  16  4
+Error in HandleMove: DVER1 23682  11  1
+Error in HandleMove: DVER1 23690  11  1
+Error in HandleMove Singleton: 23697  11  -4
+Error in HandleMove Singleton: 23697  12  -4
+Error in HandleMove Singleton: 23698  12  -4
+Error in HandleMove Singleton: 23699  12  -1
+Error in HandleMove Singleton: 23699  12  -4
+Error in HandleMove Singleton: 23729  12  -4
+Error in HandleMove Singleton: 23750  11  1
+Error in HandleMove Singleton: 23750  12  -4
+Error in HandleMove: DVER1 23813  6  -1
+Error in HandleMove: DVER1 23814  6  -1
+Error in HandleMove: DVER1 23815  6  -1
+Error in HandleMove Singleton: 23840  15  -4
+Error in HandleMove Singleton: 23840  16  4
+Error in HandleMove: DVER1 23870  11  1
+Error in HandleMove Singleton: 23876  11  4
+Error in HandleMove Singleton: 23876  12  -4
+Error in HandleMove: DVER1 23914  10  -1
+Error in HandleMove Singleton: 24080  15  -4
+Error in HandleMove Singleton: 24080  16  4
+Error in HandleMove: DVER1 24110  11  1
+Error in HandleMove Singleton: 24116  11  4
+Error in HandleMove Singleton: 24116  12  -4
+Error in HandleMove: DVER1 24154  10  -1
+Error in HandleMove Singleton: 24224  15  -4
+Error in HandleMove Singleton: 24224  16  4
+Error in HandleMove Singleton: 24273  15  4
+Error in HandleMove Singleton: 24273  16  4
+Error in HandleMove Singleton: 24297  11  -4
+Error in HandleMove Singleton: 24297  12  -4
+Error in HandleMove Singleton: 24298  12  -1
+Error in HandleMove Singleton: 24299  12  -1
+Error in HandleMove Singleton: 24299  12  -4
+Error in HandleMove Singleton: 24335  11  1
+Error in HandleMove Singleton: 24335  12  -1
+Error in HandleMove Singleton: 24381  16  4
+Error in HandleMove: DVER1 24404  10  -1
+Error in HandleMove: DVER1 24434  7  1
+Error in HandleMove: DVER1 24435  7  1
+Error in HandleMove Singleton: 24539  12  -1
+Error in HandleMove: DVER1 24569  6  -1
+Error in HandleMove Singleton: 26000  15  4
+Error in HandleMove Singleton: 26000  15  -4
+Error in HandleMove Singleton: 26000  16  4
+Error in HandleMove Singleton: 26037  11  -4
+Error in HandleMove Singleton: 26037  12  -4
+Error in HandleMove Singleton: 26038  12  -4
+Error in HandleMove Singleton: 26039  12  -1
+Error in HandleMove Singleton: 26039  12  -4
+Error in HandleMove Singleton: 26054  15  4
+Error in HandleMove Singleton: 26054  15  -4
+Error in HandleMove Singleton: 26090  12  4
+Error in HandleMove Singleton: 26090  12  -4
+Error in HandleMove Singleton: 26180  15  -4
+Error in HandleMove Singleton: 26180  16  4
+Error in HandleMove Singleton: 26216  11  4
+Error in HandleMove Singleton: 26216  12  -4
+Error in HandleMove Singleton: 26240  15  -4
+Error in HandleMove Singleton: 26269  7  4
+Error in HandleMove Singleton: 26269  8  4
+Error in HandleMove Singleton: 26270  7  4
+Error in HandleMove Singleton: 26270  7  -4
+Error in HandleMove Singleton: 26270  8  4
+Error in HandleMove Singleton: 26389  3  1
+Error in HandleMove Singleton: 26390  3  1
+Error in HandleMove Singleton: 26391  3  1
+Error in HandleMove Singleton: 26392  3  1
+Error in HandleMove Singleton: 26392  4  -4
+Error in HandleMove Singleton: 26393  3  1
+Error in HandleMove Singleton: 26393  4  -4
+Error in HandleMove Singleton: 26394  3  1
+Error in HandleMove Singleton: 26394  4  -4
+Error in HandleMove Singleton: 26395  3  1
+Error in HandleMove Singleton: 26395  4  -4
+Error in HandleMove Singleton: 26396  3  1
+Error in HandleMove Singleton: 26396  3  -4
+Error in HandleMove Singleton: 26397  3  1
+Error in HandleMove Singleton: 26397  3  -4
+Error in HandleMove Singleton: 26398  3  1
+Error in HandleMove Singleton: 26398  3  -4
+Error in HandleMove Singleton: 26398  4  -4
+Error in HandleMove Singleton: 26399  3  1
+Error in HandleMove Singleton: 26399  3  -4
+Error in HandleMove Singleton: 26399  4  -4
+Error in HandleMove Singleton: 26645  15  1
+Error in HandleMove Singleton: 26645  15  4
+Error in HandleMove Singleton: 26645  15  -4
+Error in HandleMove Singleton: 26655  15  4
+Error in HandleMove Singleton: 26655  15  -4
+Error in HandleMove Singleton: 26655  16  -1
+Error in HandleMove Singleton: 26735  15  4
+Error in HandleMove Singleton: 26735  15  -4
+Error in HandleMove Singleton: 26735  16  4
+Error in HandleMove Singleton: 26772  11  -4
+Error in HandleMove Singleton: 26772  12  4
+Error in HandleMove Singleton: 26772  12  -4
+Error in HandleMove Singleton: 26773  12  4
+Error in HandleMove Singleton: 26773  12  -4
+Error in HandleMove Singleton: 26774  12  -1
+Error in HandleMove Singleton: 26774  12  4
+Error in HandleMove Singleton: 26774  12  -4
+Error in HandleMove Singleton: 26825  15  1
+Error in HandleMove Singleton: 26825  15  -4
+Error in HandleMove Singleton: 26835  15  -4
+Error in HandleMove Singleton: 26835  16  -1
+Error in HandleMove Singleton: 26870  15  -4
+Error in HandleMove Singleton: 26870  16  4
+Error in HandleMove Singleton: 26924  15  4
+Error in HandleMove Singleton: 26924  15  -4
+Error in HandleMove Singleton: 26960  11  4
+Error in HandleMove Singleton: 26960  12  4
+Error in HandleMove Singleton: 26960  12  -4
+Error in HandleMove Singleton: 27023  7  4
+Error in HandleMove Singleton: 27024  7  4
+Error in HandleMove Singleton: 27025  7  4
+Error in HandleMove Singleton: 27025  8  -4
+Error in HandleMove Singleton: 27026  7  4
+Error in HandleMove Singleton: 27026  7  -4
+Error in HandleMove Singleton: 27027  7  4
+Error in HandleMove Singleton: 27027  7  -4
+Error in HandleMove Singleton: 27028  7  4
+Error in HandleMove Singleton: 27028  7  -4
+Error in HandleMove Singleton: 27029  7  4
+Error in HandleMove Singleton: 27029  7  -4
+Error in HandleMove Singleton: 27029  8  -4
+Error in HandleMove Singleton: 27140  15  1
+Error in HandleMove Singleton: 27140  15  -4
+Error in HandleMove Singleton: 27150  15  -4
+Error in HandleMove Singleton: 27150  16  -1
+Error in HandleMove Singleton: 27185  15  -4
+Error in HandleMove Singleton: 27185  16  4
+Error in HandleMove Singleton: 27239  15  4
+Error in HandleMove Singleton: 27239  15  -4
+Error in HandleMove Singleton: 27275  11  4
+Error in HandleMove Singleton: 27275  12  4
+Error in HandleMove Singleton: 27275  12  -4
+Error in HandleMove Singleton: 27340  8  -4
+Error in HandleMove Singleton: 27341  7  -4
+Error in HandleMove Singleton: 27342  7  -4
+Error in HandleMove Singleton: 27343  7  -4
+Error in HandleMove Singleton: 27344  7  -4
+Error in HandleMove Singleton: 27344  8  -4
+Error in HandleMove Singleton: 27375  15  1
+Error in HandleMove Singleton: 27375  15  4
+Error in HandleMove Singleton: 27440  12  -1
+Error in HandleMove Singleton: 27440  12  4
+Error in HandleMove Singleton: 27483  15  1
+Error in HandleMove Singleton: 27524  7  4
+Error in HandleMove Singleton: 28070  15  4
+Error in HandleMove Singleton: 28070  15  -4
+Error in HandleMove Singleton: 28070  16  4
+Error in HandleMove Singleton: 28107  11  -4
+Error in HandleMove Singleton: 28107  12  -4
+Error in HandleMove Singleton: 28108  12  -4
+Error in HandleMove Singleton: 28109  12  -1
+Error in HandleMove Singleton: 28109  12  -4
+Error in HandleMove Singleton: 28124  15  4
+Error in HandleMove Singleton: 28124  15  -4
+Error in HandleMove Singleton: 28160  12  4
+Error in HandleMove Singleton: 28160  12  -4
+Error in HandleMove Singleton: 28250  15  -4
+Error in HandleMove Singleton: 28250  16  4
+Error in HandleMove Singleton: 28286  11  4
+Error in HandleMove Singleton: 28286  12  -4
+Error in HandleMove Singleton: 28310  15  -4
+Error in HandleMove Singleton: 28339  7  4
+Error in HandleMove Singleton: 28339  8  4
+Error in HandleMove Singleton: 28340  7  4
+Error in HandleMove Singleton: 28340  7  -4
+Error in HandleMove Singleton: 28340  8  4
+Error in HandleMove Singleton: 28459  4  4
+Error in HandleMove Singleton: 28460  4  4
+Error in HandleMove Singleton: 28461  4  4
+Error in HandleMove Singleton: 28462  4  4
+Error in HandleMove Singleton: 28462  4  -4
+Error in HandleMove Singleton: 28463  4  4
+Error in HandleMove Singleton: 28463  4  -4
+Error in HandleMove Singleton: 28464  4  4
+Error in HandleMove Singleton: 28464  4  -4
+Error in HandleMove Singleton: 28465  4  4
+Error in HandleMove Singleton: 28465  4  -4
+Error in HandleMove Singleton: 28466  3  -4
+Error in HandleMove Singleton: 28466  4  4
+Error in HandleMove Singleton: 28467  3  -4
+Error in HandleMove Singleton: 28467  4  4
+Error in HandleMove Singleton: 28468  3  -4
+Error in HandleMove Singleton: 28468  4  4
+Error in HandleMove Singleton: 28468  4  -4
+Error in HandleMove Singleton: 28469  3  -4
+Error in HandleMove Singleton: 28469  4  4
+Error in HandleMove Singleton: 28469  4  -4
+Error in HandleMove Singleton: 28490  15  -4
+Error in HandleMove Singleton: 28490  16  4
+Error in HandleMove Singleton: 28526  11  4
+Error in HandleMove Singleton: 28526  12  -4
+Error in HandleMove Singleton: 28550  15  -4
+Error in HandleMove Singleton: 28579  8  4
+Error in HandleMove Singleton: 28580  7  -4
+Error in HandleMove Singleton: 28580  8  4
+Error in HandleMove Singleton: 28649  12  -1
+Error in HandleMove Singleton: 28685  3  1
+Error in HandleMove Singleton: 28685  4  4
+Error in HandleMove Singleton: 29435  15  -4
+Error in HandleMove Singleton: 29435  16  4
+Error in HandleMove: DVER1 29469  9  1
+Error in HandleMove Singleton: 29495  15  -4
+Error in HandleMove: DVER1 29513  8  -1
+Error in HandleMove Singleton: 29644  3  1
+Error in HandleMove Singleton: 29645  3  1
+Error in HandleMove Singleton: 29646  3  1
+Error in HandleMove Singleton: 29647  3  1
+Error in HandleMove Singleton: 29647  4  -4
+Error in HandleMove Singleton: 29648  3  1
+Error in HandleMove Singleton: 29648  4  -4
+Error in HandleMove Singleton: 29649  3  1
+Error in HandleMove Singleton: 29649  4  -4
+Error in HandleMove Singleton: 29650  3  1
+Error in HandleMove Singleton: 29650  4  -4
+Error in HandleMove Singleton: 29651  3  1
+Error in HandleMove Singleton: 29651  4  -1
+Error in HandleMove Singleton: 29652  3  1
+Error in HandleMove Singleton: 29652  4  -1
+Error in HandleMove Singleton: 29653  3  1
+Error in HandleMove Singleton: 29653  4  -1
+Error in HandleMove Singleton: 29653  4  -4
+Error in HandleMove Singleton: 29654  3  1
+Error in HandleMove Singleton: 29654  4  -1
+Error in HandleMove Singleton: 29654  4  -4
+Error in HandleMove Singleton: 29780  15  1
+Error in HandleMove Singleton: 29780  15  -4
+Error in HandleMove Singleton: 29790  15  -4
+Error in HandleMove Singleton: 29790  16  -1
+Error in HandleMove Singleton: 29825  15  -4
+Error in HandleMove Singleton: 29825  16  4
+Error in HandleMove: DVER1 29862  8  -1
+Error in HandleMove: DVER1 29863  8  -1
+Error in HandleMove Singleton: 29870  15  -4
+Error in HandleMove Singleton: 29870  16  -1
+Error in HandleMove Singleton: 29879  15  -4
+Error in HandleMove: DVER1 29954  5  1
+Error in HandleMove: DVER1 29955  5  1
+Error in HandleMove: DVER1 29956  5  1
+Error in HandleMove Singleton: 30099  15  1
+Error in HandleMove Singleton: 30099  15  -4
+Error in HandleMove Singleton: 30099  16  -1
+Error in HandleMove Singleton: 30110  15  1
+Error in HandleMove Singleton: 30110  15  -4
+Error in HandleMove Singleton: 30120  15  -4
+Error in HandleMove Singleton: 30120  16  -1
+Error in HandleMove Singleton: 30165  15  -4
+Error in HandleMove Singleton: 30165  16  -1
+Error in HandleMove Singleton: 30165  16  4
+Error in HandleMove Singleton: 30200  15  -4
+Error in HandleMove Singleton: 30200  16  4
+Error in HandleMove Singleton: 30305  15  -4
+Error in HandleMove Singleton: 30305  16  4
+Error in HandleMove Singleton: 30334  15  1
+Error in HandleMove Singleton: 30334  15  -4
+Error in HandleMove Singleton: 30335  15  1
+Error in HandleMove Singleton: 30335  16  -1
+Error in HandleMove Singleton: 30351  15  1
+Error in HandleMove Singleton: 30710  15  1
+Error in HandleMove Singleton: 30710  15  -4
+Error in HandleMove Singleton: 30720  15  -4
+Error in HandleMove Singleton: 30720  16  -1
+Error in HandleMove Singleton: 30755  15  -4
+Error in HandleMove Singleton: 30755  16  4
+Error in HandleMove: DVER1 30792  8  -1
+Error in HandleMove: DVER1 30793  8  -1
+Error in HandleMove Singleton: 30800  15  -4
+Error in HandleMove Singleton: 30800  16  -1
+Error in HandleMove Singleton: 30809  15  -4
+Error in HandleMove: DVER1 30884  5  1
+Error in HandleMove: DVER1 30885  5  1
+Error in HandleMove: DVER1 30886  5  1
+Error in HandleMove Singleton: 30921  15  1
+Error in HandleMove: DVER1 30976  5  1
+Error in HandleMove Singleton: 31370  15  -4
+Error in HandleMove Singleton: 31370  16  4
+Error in HandleMove: DVER1 31404  9  1
+Error in HandleMove Singleton: 31430  15  -4
+Error in HandleMove: DVER1 31448  8  -1
+Error in HandleMove Singleton: 31579  4  4
+Error in HandleMove Singleton: 31580  4  4
+Error in HandleMove Singleton: 31581  4  4
+Error in HandleMove Singleton: 31582  4  4
+Error in HandleMove Singleton: 31582  4  -4
+Error in HandleMove Singleton: 31583  4  4
+Error in HandleMove Singleton: 31583  4  -4
+Error in HandleMove Singleton: 31584  4  4
+Error in HandleMove Singleton: 31584  4  -4
+Error in HandleMove Singleton: 31585  4  4
+Error in HandleMove Singleton: 31585  4  -4
+Error in HandleMove Singleton: 31586  4  -1
+Error in HandleMove Singleton: 31586  4  4
+Error in HandleMove Singleton: 31587  4  -1
+Error in HandleMove Singleton: 31587  4  4
+Error in HandleMove Singleton: 31588  4  -1
+Error in HandleMove Singleton: 31588  4  4
+Error in HandleMove Singleton: 31588  4  -4
+Error in HandleMove Singleton: 31589  4  -1
+Error in HandleMove Singleton: 31589  4  4
+Error in HandleMove Singleton: 31589  4  -4
+Error in HandleMove Singleton: 31605  15  -4
+Error in HandleMove Singleton: 31605  16  -1
+Error in HandleMove Singleton: 31605  16  4
+Error in HandleMove Singleton: 31640  15  -4
+Error in HandleMove Singleton: 31640  16  4
+Error in HandleMove: DVER1 31666  9  1
+Error in HandleMove: DVER1 31667  9  1
+Error in HandleMove Singleton: 31685  15  -4
+Error in HandleMove Singleton: 31685  16  -1
+Error in HandleMove Singleton: 31694  15  -4
+Error in HandleMove: DVER1 31793  4  -1
+Error in HandleMove: DVER1 31794  4  -1
+Error in HandleMove: DVER1 31795  4  -1
+Error in HandleMove: DVER1 31833  9  1
+Error in HandleMove: DVER1 31864  4  -1
+Error in HandleMove: DVER1 31865  4  -1
+Error in HandleMove Singleton: 31922  3  1
+Error in HandleMove Singleton: 31922  4  4
+Error in HandleMove Singleton: 31923  3  1
+Error in HandleMove Singleton: 31923  4  4
+Error in HandleMove Singleton: 31924  3  1
+Error in HandleMove Singleton: 31924  4  4
+Error in HandleMove Singleton: 31925  3  1
+Error in HandleMove Singleton: 31925  4  4
+Error in HandleMove Singleton: 31926  3  1
+Error in HandleMove Singleton: 31926  4  4
+Error in HandleMove Singleton: 31927  3  1
+Error in HandleMove Singleton: 31927  4  4
+Error in HandleMove Singleton: 31928  3  1
+Error in HandleMove Singleton: 31928  4  4
+Error in HandleMove Singleton: 31929  3  1
+Error in HandleMove Singleton: 31929  4  4
+Error in HandleMove Singleton: 31930  3  1
+Error in HandleMove Singleton: 31930  4  4
+Error in HandleMove Singleton: 31930  4  -4
+Error in HandleMove Singleton: 31931  3  1
+Error in HandleMove Singleton: 31931  4  4
+Error in HandleMove Singleton: 31931  4  -4
+Error in HandleMove Singleton: 32040  15  -4
+Error in HandleMove Singleton: 32040  16  4
+Error in HandleMove: DVER1 32074  9  1
+Error in HandleMove Singleton: 32100  15  -4
+Error in HandleMove: DVER1 32118  8  -1
+Error in HandleMove Singleton: 32206  3  1
+Error in HandleMove Singleton: 32206  4  4
+Error in HandleMove Singleton: 32207  3  1
+Error in HandleMove Singleton: 32207  4  -1
+Error in HandleMove Singleton: 32207  4  4
+Error in HandleMove Singleton: 32208  3  1
+Error in HandleMove Singleton: 32208  4  -1
+Error in HandleMove Singleton: 32208  4  4
+Error in HandleMove Singleton: 33028  4  -1
+Error in HandleMove Singleton: 33029  4  -1
+Error in HandleMove Singleton: 33059  3  1
+Error in HandleMove Singleton: 33059  4  -1
+Error in HandleMove Singleton: 33090  15  4
+Error in HandleMove Singleton: 33090  15  -4
+Error in HandleMove Singleton: 33090  16  -1
+Error in HandleMove: DVER1 33100  11  1
+Error in HandleMove: DVER1 33143  6  -1
+Error in HandleMove Singleton: 33185  15  -4
+Error in HandleMove Singleton: 33185  16  -1
+Error in HandleMove Singleton: 33279  15  1
+Error in HandleMove Singleton: 33279  15  -4
+Error in HandleMove Singleton: 33279  16  -1
+Error in HandleMove Singleton: 33300  15  4
+Error in HandleMove Singleton: 33300  15  -4
+Error in HandleMove Singleton: 33300  16  -1
+Error in HandleMove: DVER1 33310  11  1
+Error in HandleMove Singleton: 33339  15  -4
+Error in HandleMove Singleton: 33339  16  -1
+Error in HandleMove Singleton: 33345  15  -4
+Error in HandleMove Singleton: 33345  16  -1
+Error in HandleMove: DVER1 33359  10  -1
+Error in HandleMove Singleton: 33444  15  1
+Error in HandleMove Singleton: 33444  15  -4
+Error in HandleMove Singleton: 33444  16  -1
+Error in HandleMove Singleton: 33463  15  1
+Error in HandleMove Singleton: 33463  15  4
+Error in HandleMove Singleton: 33463  15  -4
+Error in HandleMove Singleton: 33464  15  1
+Error in HandleMove Singleton: 33464  15  4
+Error in HandleMove Singleton: 33464  16  -1
+Error in HandleMove Singleton: 33523  15  1
+Error in HandleMove Singleton: 33523  15  -4
+Error in HandleMove Singleton: 33524  15  1
+Error in HandleMove Singleton: 33524  16  -1
+Error in HandleMove Singleton: 33555  15  -4
+Error in HandleMove Singleton: 33555  16  -1
+Error in HandleMove Singleton: 33569  15  4
+Error in HandleMove Singleton: 33569  15  -4
+Error in HandleMove Singleton: 33570  15  4
+Error in HandleMove Singleton: 33570  16  -1
+Error in HandleMove: DVER1 33633  7  1
+Error in HandleMove: DVER1 33634  7  1
+Error in HandleMove: DVER1 33635  7  1
+Error in HandleMove Singleton: 33748  15  1
+Error in HandleMove Singleton: 33748  15  4
+Error in HandleMove Singleton: 33748  15  -4
+Error in HandleMove Singleton: 33749  15  1
+Error in HandleMove Singleton: 33749  15  4
+Error in HandleMove Singleton: 33749  16  -1
+Error in HandleMove Singleton: 33780  15  -4
+Error in HandleMove Singleton: 33780  16  -1
+Error in HandleMove Singleton: 33794  15  4
+Error in HandleMove Singleton: 33794  15  -4
+Error in HandleMove Singleton: 33795  15  4
+Error in HandleMove Singleton: 33795  16  -1
+Error in HandleMove: DVER1 33879  6  -1
+Error in HandleMove: DVER1 33880  6  -1
+Error in HandleMove: DVER1 33881  6  -1
+Error in HandleMove Singleton: 33922  15  1
+Error in HandleMove Singleton: 33922  15  -4
+Error in HandleMove Singleton: 33923  15  1
+Error in HandleMove Singleton: 33923  16  -1
+Error in HandleMove: DVER1 33946  11  1
+Error in HandleMove Singleton: 33976  15  -4
+Error in HandleMove Singleton: 33977  16  -1
+Error in HandleMove: DVER1 33985  10  -1
+Error in HandleMove: DVER1 33986  10  -1
+Error in HandleMove Singleton: 34385  15  -4
+Error in HandleMove Singleton: 34385  16  -1
+Error in HandleMove Singleton: 34445  15  -4
+Error in HandleMove Singleton: 34445  16  -1
+Error in HandleMove Singleton: 34459  15  4
+Error in HandleMove Singleton: 34459  15  -4
+Error in HandleMove Singleton: 34460  15  4
+Error in HandleMove Singleton: 34460  16  -1
+Error in HandleMove Singleton: 34557  15  -4
+Error in HandleMove Singleton: 34558  16  -1
+Error in HandleMove: DVER1 34566  10  -1
+Error in HandleMove: DVER1 34567  10  -1
+Error in HandleMove: DVER1 34586  7  1
+Error in HandleMove: DVER1 34587  7  1
+Error in HandleMove: DVER1 34727  11  1
+Error in HandleMove: DVER1 34754  6  -1
+Error in HandleMove Singleton: 35294  4  -1
+Error in HandleMove Singleton: 35294  4  4
+Error in HandleMove Singleton: 35300  15  -4
+Error in HandleMove Singleton: 35300  16  -1
+Error in HandleMove Singleton: 35360  15  -4
+Error in HandleMove Singleton: 35360  16  -1
+Error in HandleMove Singleton: 35374  15  4
+Error in HandleMove Singleton: 35374  15  -4
+Error in HandleMove Singleton: 35375  15  4
+Error in HandleMove Singleton: 35375  16  -1
+Error in HandleMove Singleton: 35472  15  -4
+Error in HandleMove Singleton: 35473  16  -1
+Error in HandleMove: DVER1 35481  10  -1
+Error in HandleMove: DVER1 35482  10  -1
+Error in HandleMove: DVER1 35501  7  1
+Error in HandleMove: DVER1 35502  7  1
+Error in HandleMove Singleton: 35591  4  4
+Error in HandleMove Singleton: 35592  4  4
+Error in HandleMove Singleton: 35593  4  4
+Error in HandleMove Singleton: 35594  4  4
+Error in HandleMove Singleton: 35595  4  4
+Error in HandleMove Singleton: 35596  4  4
+Error in HandleMove Singleton: 35597  3  -4
+Error in HandleMove Singleton: 35597  4  4
+Error in HandleMove Singleton: 35598  3  -4
+Error in HandleMove Singleton: 35598  4  4
+Error in HandleMove Singleton: 35599  3  -4
+Error in HandleMove Singleton: 35599  4  4
+Error in HandleMove Singleton: 35600  3  -4
+Error in HandleMove Singleton: 35600  4  4
+Error in HandleMove Singleton: 35601  3  -4
+Error in HandleMove Singleton: 35601  4  4
+Error in HandleMove Singleton: 35602  3  -4
+Error in HandleMove Singleton: 35602  4  4
+Error in HandleMove Singleton: 35603  3  -4
+Error in HandleMove Singleton: 35603  4  4
+Error in HandleMove Singleton: 35604  3  -4
+Error in HandleMove Singleton: 35604  4  4
+Error in HandleMove: DVER1 35618  11  1
+Error in HandleMove: DVER1 35645  6  -1
+Error in HandleMove Singleton: 35729  3  1
+Error in HandleMove Singleton: 35729  4  4
+Error in HandleMove Singleton: 35730  3  1
+Error in HandleMove Singleton: 35730  4  4
+Error in HandleMove Singleton: 35731  3  1
+Error in HandleMove Singleton: 35731  4  4
+Error in HandleMove Singleton: 35732  3  1
+Error in HandleMove Singleton: 35732  3  -4
+Error in HandleMove Singleton: 35732  4  4
+Error in HandleMove Singleton: 35733  3  1
+Error in HandleMove Singleton: 35733  3  -4
+Error in HandleMove Singleton: 35733  4  4
+Error in HandleMove Singleton: 35734  3  1
+Error in HandleMove Singleton: 35734  4  4
+Error in HandleMove Singleton: 35735  3  1
+Error in HandleMove Singleton: 35735  4  4
+Error in HandleMove Singleton: 35736  3  1
+Error in HandleMove Singleton: 35736  4  4
+Error in HandleMove Singleton: 35930  4  -1
+Error in HandleMove Singleton: 35930  4  4
+Error in HandleMove Singleton: 35931  4  -1
+Error in HandleMove Singleton: 35931  4  4
+Error in HandleMove Singleton: 35932  4  -1
+Error in HandleMove Singleton: 35932  4  4
+Error in HandleMove Singleton: 35950  3  1
+Error in HandleMove Singleton: 35950  4  -1
+Error in HandleMove Singleton: 35950  4  4
+Error in HandleMove Singleton: 36494  12  -4
+Error in HandleMove Singleton: 36658  4  -1
+Error in HandleMove Singleton: 36659  4  -1
+Error in HandleMove Singleton: 36659  4  -4
+Error in HandleMove Singleton: 36804  15  -4
+Error in HandleMove Singleton: 36804  16  -1
+Error in HandleMove Singleton: 36863  7  1
+Error in HandleMove Singleton: 36864  7  1
+Error in HandleMove Singleton: 36864  7  -4
+Error in HandleMove Singleton: 36907  15  4
+Error in HandleMove Singleton: 36907  15  -4
+Error in HandleMove Singleton: 36907  16  4
+Error in HandleMove Singleton: 36908  15  4
+Error in HandleMove Singleton: 36908  16  -1
+Error in HandleMove Singleton: 36908  16  4
+Error in HandleMove Singleton: 36927  11  -4
+Error in HandleMove Singleton: 36927  12  4
+Error in HandleMove Singleton: 36928  11  -4
+Error in HandleMove Singleton: 36928  12  4
+Error in HandleMove Singleton: 36928  12  -4
+Error in HandleMove Singleton: 36929  11  -4
+Error in HandleMove Singleton: 36929  12  4
+Error in HandleMove Singleton: 36929  12  -4
+Error in HandleMove Singleton: 36952  15  -4
+Error in HandleMove Singleton: 36952  16  4
+Error in HandleMove Singleton: 36953  16  -1
+Error in HandleMove Singleton: 36953  16  4
+Error in HandleMove Singleton: 36982  15  4
+Error in HandleMove Singleton: 36982  15  -4
+Error in HandleMove Singleton: 36983  15  4
+Error in HandleMove Singleton: 36983  16  -1
+Error in HandleMove Singleton: 37012  11  4
+Error in HandleMove Singleton: 37012  12  4
+Error in HandleMove Singleton: 37013  11  4
+Error in HandleMove Singleton: 37013  12  4
+Error in HandleMove Singleton: 37013  12  -4
+Error in HandleMove Singleton: 37068  7  4
+Error in HandleMove Singleton: 37068  8  -4
+Error in HandleMove Singleton: 37069  7  4
+Error in HandleMove Singleton: 37069  8  -4
+Error in HandleMove Singleton: 37070  7  4
+Error in HandleMove Singleton: 37070  8  -4
+Error in HandleMove Singleton: 37071  7  4
+Error in HandleMove Singleton: 37071  7  -4
+Error in HandleMove Singleton: 37072  7  4
+Error in HandleMove Singleton: 37072  7  -4
+Error in HandleMove Singleton: 37073  7  4
+Error in HandleMove Singleton: 37073  7  -4
+Error in HandleMove Singleton: 37073  8  -4
+Error in HandleMove Singleton: 37074  7  4
+Error in HandleMove Singleton: 37074  7  -4
+Error in HandleMove Singleton: 37074  8  -4
+Error in HandleMove Singleton: 37147  15  4
+Error in HandleMove Singleton: 37147  15  -4
+Error in HandleMove Singleton: 37148  15  4
+Error in HandleMove Singleton: 37148  16  -1
+Error in HandleMove Singleton: 37177  12  4
+Error in HandleMove Singleton: 37178  12  4
+Error in HandleMove Singleton: 37178  12  -4
+Error in HandleMove Singleton: 37271  15  -4
+Error in HandleMove Singleton: 37272  16  -1
+Error in HandleMove Singleton: 37306  7  1
+Error in HandleMove Singleton: 37306  7  4
+Error in HandleMove Singleton: 37307  7  1
+Error in HandleMove Singleton: 37307  7  4
+Error in HandleMove Singleton: 37308  7  1
+Error in HandleMove Singleton: 37308  7  4
+Error in HandleMove Singleton: 37308  7  -4
+Error in HandleMove Singleton: 37602  15  4
+Error in HandleMove Singleton: 37602  15  -4
+Error in HandleMove Singleton: 37603  15  4
+Error in HandleMove Singleton: 37603  16  -1
+Error in HandleMove Singleton: 37632  12  4
+Error in HandleMove Singleton: 37633  12  4
+Error in HandleMove Singleton: 37633  12  -4
+Error in HandleMove Singleton: 37702  15  -4
+Error in HandleMove Singleton: 37703  16  -1
+Error in HandleMove Singleton: 37737  7  4
+Error in HandleMove Singleton: 37738  7  4
+Error in HandleMove Singleton: 37739  7  4
+Error in HandleMove Singleton: 37739  7  -4
+Error in HandleMove Singleton: 38332  15  4
+Error in HandleMove Singleton: 38332  15  -4
+Error in HandleMove Singleton: 38332  16  4
+Error in HandleMove Singleton: 38333  15  4
+Error in HandleMove Singleton: 38333  16  -1
+Error in HandleMove Singleton: 38333  16  4
+Error in HandleMove Singleton: 38352  11  -4
+Error in HandleMove Singleton: 38353  11  -4
+Error in HandleMove Singleton: 38353  12  -4
+Error in HandleMove Singleton: 38354  11  -4
+Error in HandleMove Singleton: 38354  12  -4
+Error in HandleMove Singleton: 38362  15  4
+Error in HandleMove Singleton: 38362  15  -4
+Error in HandleMove Singleton: 38363  15  4
+Error in HandleMove Singleton: 38363  16  -1
+Error in HandleMove Singleton: 38392  12  4
+Error in HandleMove Singleton: 38393  12  4
+Error in HandleMove Singleton: 38393  12  -4
+Error in HandleMove Singleton: 38462  15  -4
+Error in HandleMove Singleton: 38462  16  4
+Error in HandleMove Singleton: 38463  16  -1
+Error in HandleMove Singleton: 38463  16  4
+Error in HandleMove Singleton: 38492  11  4
+Error in HandleMove Singleton: 38493  11  4
+Error in HandleMove Singleton: 38493  12  -4
+Error in HandleMove Singleton: 38522  15  -4
+Error in HandleMove Singleton: 38523  16  -1
+Error in HandleMove Singleton: 38557  7  4
+Error in HandleMove Singleton: 38557  8  4
+Error in HandleMove Singleton: 38558  7  4
+Error in HandleMove Singleton: 38558  8  4
+Error in HandleMove Singleton: 38559  7  4
+Error in HandleMove Singleton: 38559  7  -4
+Error in HandleMove Singleton: 38559  8  4
+Error in HandleMove Singleton: 38690  4  4
+Error in HandleMove Singleton: 38691  4  4
+Error in HandleMove Singleton: 38692  4  4
+Error in HandleMove Singleton: 38693  4  4
+Error in HandleMove Singleton: 38693  4  -4
+Error in HandleMove Singleton: 38694  4  4
+Error in HandleMove Singleton: 38694  4  -4
+Error in HandleMove Singleton: 38695  4  4
+Error in HandleMove Singleton: 38695  4  -4
+Error in HandleMove Singleton: 38696  4  4
+Error in HandleMove Singleton: 38696  4  -4
+Error in HandleMove Singleton: 38697  3  -4
+Error in HandleMove Singleton: 38697  4  4
+Error in HandleMove Singleton: 38698  3  -4
+Error in HandleMove Singleton: 38698  4  4
+Error in HandleMove Singleton: 38699  3  -4
+Error in HandleMove Singleton: 38699  4  4
+Error in HandleMove Singleton: 38700  3  -4
+Error in HandleMove Singleton: 38700  4  4
+Error in HandleMove Singleton: 38701  3  -4
+Error in HandleMove Singleton: 38701  4  4
+Error in HandleMove Singleton: 38702  3  -4
+Error in HandleMove Singleton: 38702  4  4
+Error in HandleMove Singleton: 38702  4  -4
+Error in HandleMove Singleton: 38703  3  -4
+Error in HandleMove Singleton: 38703  4  4
+Error in HandleMove Singleton: 38703  4  -4
+Error in HandleMove Singleton: 38704  3  -4
+Error in HandleMove Singleton: 38704  4  4
+Error in HandleMove Singleton: 38704  4  -4
+Error in HandleMove Singleton: 38725  12  -4
+Error in HandleMove Singleton: 38864  3  1
+Error in HandleMove Singleton: 38864  4  4
+Error in HandleMove Singleton: 38865  3  1
+Error in HandleMove Singleton: 38865  4  4
+Error in HandleMove Singleton: 38866  3  1
+Error in HandleMove Singleton: 38866  4  4
+Error in HandleMove Singleton: 38866  4  -4
+Error in HandleMove Singleton: 39025  12  -4
+Error in HandleMove Singleton: 39164  4  -1
+Error in HandleMove Singleton: 39164  4  4
+Error in HandleMove Singleton: 39165  4  -1
+Error in HandleMove Singleton: 39165  4  4
+Error in HandleMove Singleton: 39166  4  -1
+Error in HandleMove Singleton: 39166  4  4
+Error in HandleMove Singleton: 39166  4  -4
+Error in HandleMove: DVER1 39970  9  1
+Error in HandleMove: DVER1 40019  8  -1
+Error in HandleMove Singleton: 40146  7  4
+Error in HandleMove Singleton: 40146  8  4
+Error in HandleMove Singleton: 40183  3  -4
+Error in HandleMove Singleton: 40184  3  -4
+Error in HandleMove Singleton: 40184  4  -4
+Error in HandleMove: DVER1 40319  8  -1
+Error in HandleMove: DVER1 40382  5  1
+Error in HandleMove Singleton: 40406  7  1
+Error in HandleMove Singleton: 40406  7  4
+Error in HandleMove Singleton: 40463  7  1
+Error in HandleMove Singleton: 40464  7  1
+Error in HandleMove Singleton: 40464  8  -1
+Error in HandleMove Singleton: 40664  7  4
+Error in HandleMove Singleton: 40664  8  -4
+Error in HandleMove Singleton: 40665  7  4
+Error in HandleMove Singleton: 40665  8  -4
+Error in HandleMove Singleton: 40666  7  4
+Error in HandleMove Singleton: 40666  8  -4
+Error in HandleMove Singleton: 40667  7  4
+Error in HandleMove Singleton: 40667  8  -1
+Error in HandleMove Singleton: 40668  7  4
+Error in HandleMove Singleton: 40668  8  -1
+Error in HandleMove Singleton: 40669  7  4
+Error in HandleMove Singleton: 40669  8  -1
+Error in HandleMove Singleton: 40669  8  -4
+Error in HandleMove Singleton: 40880  7  1
+Error in HandleMove Singleton: 40880  7  4
+Error in HandleMove Singleton: 40881  7  1
+Error in HandleMove Singleton: 40881  7  4
+Error in HandleMove Singleton: 40882  7  1
+Error in HandleMove Singleton: 40882  7  4
+Error in HandleMove Singleton: 40882  8  -1
+Error in HandleMove Singleton: 41081  7  1
+Error in HandleMove: DVER1 41213  5  1
+Error in HandleMove: DVER1 41214  5  1
+Error in HandleMove: DVER1 41215  5  1
+Error in HandleMove: DVER1 41257  8  -1
+Error in HandleMove Singleton: 41273  7  4
+Error in HandleMove Singleton: 41274  7  4
+Error in HandleMove Singleton: 41275  7  4
+Error in HandleMove Singleton: 41275  8  -4
+Error in HandleMove Singleton: 41297  7  4
+Error in HandleMove Singleton: 41298  7  4
+Error in HandleMove Singleton: 41299  7  4
+Error in HandleMove Singleton: 41299  8  -1
+Error in HandleMove: DVER1 41309  5  1
+Error in HandleMove: DVER1 41421  8  -1
+Error in HandleMove: DVER1 41473  5  1
+Error in HandleMove Singleton: 41495  7  1
+Error in HandleMove Singleton: 41495  7  4
+Error in HandleMove: DVER1 42099  4  -1
+Error in HandleMove: DVER1 42100  4  -1
+Error in HandleMove: DVER1 42101  4  -1
+Error in HandleMove: DVER1 42119  9  1
+Error in HandleMove: DVER1 42120  9  1
+Error in HandleMove Singleton: 42162  7  4
+Error in HandleMove Singleton: 42162  8  4
+Error in HandleMove Singleton: 42163  7  4
+Error in HandleMove Singleton: 42163  8  4
+Error in HandleMove Singleton: 42164  7  4
+Error in HandleMove Singleton: 42164  8  -1
+Error in HandleMove Singleton: 42164  8  4
+Error in HandleMove: DVER1 42178  4  -1
+Error in HandleMove: DVER1 42179  4  -1
+Error in HandleMove Singleton: 42237  3  -4
+Error in HandleMove Singleton: 42237  4  4
+Error in HandleMove Singleton: 42238  3  -4
+Error in HandleMove Singleton: 42238  4  4
+Error in HandleMove Singleton: 42239  3  -4
+Error in HandleMove Singleton: 42239  4  4
+Error in HandleMove Singleton: 42240  3  -4
+Error in HandleMove Singleton: 42240  4  4
+Error in HandleMove Singleton: 42241  3  -4
+Error in HandleMove Singleton: 42241  4  4
+Error in HandleMove Singleton: 42242  3  -4
+Error in HandleMove Singleton: 42242  4  4
+Error in HandleMove Singleton: 42242  4  -4
+Error in HandleMove Singleton: 42243  3  -4
+Error in HandleMove Singleton: 42243  4  4
+Error in HandleMove Singleton: 42243  4  -4
+Error in HandleMove Singleton: 42244  3  -4
+Error in HandleMove Singleton: 42244  4  4
+Error in HandleMove Singleton: 42244  4  -4
+Error in HandleMove: DVER1 42259  9  1
+Error in HandleMove: DVER1 42260  9  1
+Error in HandleMove: DVER1 42318  4  -1
+Error in HandleMove: DVER1 42319  4  -1
+Error in HandleMove: DVER1 42503  9  1
+Error in HandleMove: DVER1 42504  9  1
+Error in HandleMove: DVER1 42542  8  -1
+Error in HandleMove Singleton: 42628  7  4
+Error in HandleMove Singleton: 42628  8  4
+Error in HandleMove Singleton: 42655  3  -4
+Error in HandleMove Singleton: 42655  4  4
+Error in HandleMove Singleton: 42656  3  -4
+Error in HandleMove Singleton: 42656  4  4
+Error in HandleMove Singleton: 42656  4  -4
+Error in HandleMove: DVER1 43526  5  -1
+Error in HandleMove: DVER1 43602  5  -1
+Error in HandleMove: DVER1 43603  5  -1
+Error in HandleMove: DVER1 43687  7  1
+Error in HandleMove: DVER1 43708  10  -1
+Error in HandleMove: DVER1 43733  7  1
+Error in HandleMove: DVER1 43751  5  -1
+Error in HandleMove: DVER1 43762  5  -1
+Error in HandleMove: DVER1 43763  5  -1
+Error in HandleMove: DVER1 43778  10  -1
+Error in HandleMove: DVER1 43803  7  1
+Error in HandleMove Singleton: 43808  7  4
+Error in HandleMove Singleton: 43808  8  4
+Error in HandleMove Singleton: 43809  7  4
+Error in HandleMove Singleton: 43809  7  -4
+Error in HandleMove Singleton: 43809  8  4
+Error in HandleMove Singleton: 43810  7  4
+Error in HandleMove Singleton: 43810  8  4
+Error in HandleMove Singleton: 43811  7  4
+Error in HandleMove Singleton: 43811  7  -4
+Error in HandleMove Singleton: 43811  8  4
+Error in HandleMove: DVER1 43820  5  -1
+Error in HandleMove Singleton: 43956  4  -4
+Error in HandleMove Singleton: 43957  4  -4
+Error in HandleMove Singleton: 43958  4  -4
+Error in HandleMove Singleton: 43959  3  -4
+Error in HandleMove Singleton: 43959  4  -4
+Error in HandleMove Singleton: 43960  3  -4
+Error in HandleMove Singleton: 43960  4  -4
+Error in HandleMove Singleton: 43961  3  -4
+Error in HandleMove Singleton: 43961  4  -4
+Error in HandleMove Singleton: 43962  3  -4
+Error in HandleMove Singleton: 43962  4  -4
+Error in HandleMove Singleton: 43963  4  -1
+Error in HandleMove Singleton: 43963  4  -4
+Error in HandleMove Singleton: 43964  4  -1
+Error in HandleMove Singleton: 43964  4  -4
+Error in HandleMove: DVER1 44012  6  -1
+Error in HandleMove: DVER1 44021  11  1
+Error in HandleMove: DVER1 44051  6  -1
+Error in HandleMove: DVER1 44091  11  1
+Error in HandleMove: DVER1 44121  6  -1
+Error in HandleMove: DVER1 44187  11  1
+Error in HandleMove: DVER1 44207  10  -1
+Error in HandleMove Singleton: 44287  7  4
+Error in HandleMove Singleton: 44287  8  4
+Error in HandleMove Singleton: 44288  7  4
+Error in HandleMove Singleton: 44288  7  -4
+Error in HandleMove Singleton: 44288  8  4
+Error in HandleMove Singleton: 44408  3  1
+Error in HandleMove Singleton: 44408  4  -4
+Error in HandleMove Singleton: 44409  3  1
+Error in HandleMove Singleton: 44409  4  -4
+Error in HandleMove Singleton: 44410  3  1
+Error in HandleMove Singleton: 44410  3  -4
+Error in HandleMove Singleton: 44410  4  -4
+Error in HandleMove Singleton: 44411  3  1
+Error in HandleMove Singleton: 44411  3  -4
+Error in HandleMove Singleton: 44411  4  -4
+Error in HandleMove Singleton: 44412  3  1
+Error in HandleMove Singleton: 44412  4  -4
+Error in HandleMove Singleton: 44413  3  1
+Error in HandleMove Singleton: 44413  4  -4
+Error in HandleMove Singleton: 44414  3  1
+Error in HandleMove Singleton: 44414  4  -1
+Error in HandleMove Singleton: 44414  4  -4
+Error in HandleMove: DVER1 44708  6  -1
+Error in HandleMove: DVER1 44721  11  1
+Error in HandleMove: DVER1 44775  6  -1
+Error in HandleMove: DVER1 44836  11  1
+Error in HandleMove Singleton: 44857  7  4
+Error in HandleMove Singleton: 44858  7  4
+Error in HandleMove Singleton: 44858  7  -4
+Error in HandleMove Singleton: 44859  7  4
+Error in HandleMove Singleton: 44859  7  -4
+Error in HandleMove: DVER1 44868  10  -1
+Error in HandleMove Singleton: 44898  7  1
+Error in HandleMove Singleton: 44898  7  4
+Error in HandleMove Singleton: 44899  7  1
+Error in HandleMove Singleton: 44899  7  4
+Error in HandleMove Singleton: 44899  7  -4
+Error in HandleMove Singleton: 44900  7  1
+Error in HandleMove Singleton: 44900  7  4
+Error in HandleMove Singleton: 44901  7  1
+Error in HandleMove Singleton: 44901  7  4
+Error in HandleMove Singleton: 44901  7  -4
+Error in HandleMove Singleton: 44952  7  4
+Error in HandleMove Singleton: 44952  8  -1
+Error in HandleMove Singleton: 44953  7  4
+Error in HandleMove Singleton: 44953  7  -4
+Error in HandleMove Singleton: 44953  8  -1
+Error in HandleMove: DVER1 45096  11  1
+Error in HandleMove Singleton: 45132  8  -1
+Error in HandleMove Singleton: 45133  7  -4
+Error in HandleMove Singleton: 45133  8  -1
+Error in HandleMove Singleton: 45134  7  -4
+Error in HandleMove Singleton: 45134  8  -1
+Error in HandleMove: DVER1 45143  10  -1
+Error in HandleMove Singleton: 45201  7  1
+Error in HandleMove Singleton: 45201  8  -1
+Error in HandleMove Singleton: 45202  7  1
+Error in HandleMove Singleton: 45202  7  -4
+Error in HandleMove Singleton: 45202  8  -1
+Error in HandleMove Singleton: 45203  7  1
+Error in HandleMove Singleton: 45203  8  -1
+Error in HandleMove Singleton: 45204  7  1
+Error in HandleMove Singleton: 45204  7  -4
+Error in HandleMove Singleton: 45204  8  -1
+Error in HandleMove: DVER1 45424  7  1
+Error in HandleMove: DVER1 45451  7  1
+Error in HandleMove Singleton: 45458  7  4
+Error in HandleMove Singleton: 45459  7  4
+Error in HandleMove Singleton: 45459  7  -4
+Error in HandleMove Singleton: 45460  7  4
+Error in HandleMove Singleton: 45460  7  -4
+Error in HandleMove Singleton: 45461  7  4
+Error in HandleMove Singleton: 45461  8  -1
+Error in HandleMove Singleton: 45462  7  4
+Error in HandleMove Singleton: 45462  8  -1
+Error in HandleMove Singleton: 45463  7  4
+Error in HandleMove Singleton: 45463  7  -4
+Error in HandleMove Singleton: 45463  8  -1
+Error in HandleMove Singleton: 45464  7  4
+Error in HandleMove Singleton: 45464  8  -1
+Error in HandleMove: DVER1 45649  6  -1
+Error in HandleMove: DVER1 45668  6  -1
+Error in HandleMove: DVER1 45728  11  1
+Error in HandleMove Singleton: 45745  7  4
+Error in HandleMove Singleton: 45745  8  -1
+Error in HandleMove: DVER1 45754  10  -1
+Error in HandleMove Singleton: 45784  7  1
+Error in HandleMove Singleton: 45784  7  4
+Error in HandleMove Singleton: 45785  7  1
+Error in HandleMove Singleton: 45785  7  4
+Error in HandleMove Singleton: 45785  7  -4
+Error in HandleMove Singleton: 45786  7  1
+Error in HandleMove Singleton: 45786  7  4
+Error in HandleMove Singleton: 45786  8  -1
+Error in HandleMove Singleton: 45787  7  1
+Error in HandleMove Singleton: 45787  7  4
+Error in HandleMove Singleton: 45787  8  -1
+Error in HandleMove: DVER1 46141  11  1
+Error in HandleMove Singleton: 46163  7  -4
+Error in HandleMove Singleton: 46164  7  -4
+Error in HandleMove: DVER1 46173  10  -1
+Error in HandleMove Singleton: 46203  7  1
+Error in HandleMove Singleton: 46204  7  1
+Error in HandleMove Singleton: 46204  7  -4
+Error in HandleMove Singleton: 46205  7  1
+Error in HandleMove Singleton: 46206  7  1
+Error in HandleMove Singleton: 46206  7  -4
+Error in HandleMove Singleton: 46257  8  -1
+Error in HandleMove Singleton: 46258  7  -4
+Error in HandleMove Singleton: 46258  8  -1
+Error in HandleMove: DVER1 46426  5  -1
+Error in HandleMove: DVER1 46464  7  1
+Error in HandleMove Singleton: 46467  7  4
+Error in HandleMove Singleton: 46468  7  4
+Error in HandleMove Singleton: 46469  7  4
+Error in HandleMove Singleton: 46469  7  -4
+Error in HandleMove Singleton: 46470  7  4
+Error in HandleMove: DVER1 46479  10  -1
+Error in HandleMove: DVER1 46500  7  1
+Error in HandleMove Singleton: 46509  7  4
+Error in HandleMove Singleton: 46510  7  4
+Error in HandleMove Singleton: 46510  7  -4
+Error in HandleMove Singleton: 46511  7  4
+Error in HandleMove Singleton: 46511  8  -1
+Error in HandleMove Singleton: 46512  7  4
+Error in HandleMove Singleton: 46512  8  -1
+Error in HandleMove: DVER1 46527  5  -1
+Error in HandleMove: DVER1 46542  5  -1
+Error in HandleMove: DVER1 46690  6  -1
+Error in HandleMove: DVER1 46701  11  1
+Error in HandleMove: DVER1 46721  6  -1
+Error in HandleMove Singleton: 46793  7  4
+Error in HandleMove Singleton: 46795  7  1
+Error in HandleMove Singleton: 46795  7  4
+Error in HandleMove Singleton: 46796  7  1
+Error in HandleMove Singleton: 46796  7  4
+Error in HandleMove: DVER1 47552  6  -1
+Error in HandleMove: DVER1 47561  11  1
+Error in HandleMove: DVER1 47591  6  -1
+Error in HandleMove: DVER1 47631  11  1
+Error in HandleMove: DVER1 47661  6  -1
+Error in HandleMove: DVER1 47727  11  1
+Error in HandleMove: DVER1 47747  10  -1
+Error in HandleMove Singleton: 47827  7  4
+Error in HandleMove Singleton: 47827  8  4
+Error in HandleMove Singleton: 47828  7  4
+Error in HandleMove Singleton: 47828  7  -4
+Error in HandleMove Singleton: 47828  8  4
+Error in HandleMove Singleton: 47948  4  4
+Error in HandleMove Singleton: 47948  4  -4
+Error in HandleMove Singleton: 47949  4  4
+Error in HandleMove Singleton: 47949  4  -4
+Error in HandleMove Singleton: 47950  3  -4
+Error in HandleMove Singleton: 47950  4  4
+Error in HandleMove Singleton: 47950  4  -4
+Error in HandleMove Singleton: 47951  3  -4
+Error in HandleMove Singleton: 47951  4  4
+Error in HandleMove Singleton: 47951  4  -4
+Error in HandleMove Singleton: 47952  4  4
+Error in HandleMove Singleton: 47952  4  -4
+Error in HandleMove Singleton: 47953  4  4
+Error in HandleMove Singleton: 47953  4  -4
+Error in HandleMove Singleton: 47954  4  -1
+Error in HandleMove Singleton: 47954  4  4
+Error in HandleMove Singleton: 47954  4  -4
+Error in HandleMove: DVER1 47971  11  1
+Error in HandleMove: DVER1 48003  10  -1
+Error in HandleMove Singleton: 48087  8  -1
+Error in HandleMove Singleton: 48087  8  4
+Error in HandleMove Singleton: 48088  7  -4
+Error in HandleMove Singleton: 48088  8  -1
+Error in HandleMove Singleton: 48088  8  4
+Error in HandleMove: DVER1 48328  7  1
+Error in HandleMove: DVER1 48343  10  -1
+Error in HandleMove: DVER1 48364  7  1
+Error in HandleMove Singleton: 48373  7  4
+Error in HandleMove Singleton: 48373  8  4
+Error in HandleMove Singleton: 48374  7  4
+Error in HandleMove Singleton: 48374  7  -4
+Error in HandleMove Singleton: 48374  8  4
+Error in HandleMove Singleton: 48375  7  4
+Error in HandleMove Singleton: 48375  8  -1
+Error in HandleMove Singleton: 48375  8  4
+Error in HandleMove Singleton: 48376  7  4
+Error in HandleMove Singleton: 48376  8  -1
+Error in HandleMove Singleton: 48376  8  4
+Error in HandleMove Singleton: 48501  4  4
+Error in HandleMove Singleton: 48502  4  4
+Error in HandleMove Singleton: 48503  4  4
+Error in HandleMove Singleton: 48504  4  4
+Error in HandleMove Singleton: 48504  4  -4
+Error in HandleMove Singleton: 48505  4  4
+Error in HandleMove Singleton: 48505  4  -4
+Error in HandleMove Singleton: 48506  4  4
+Error in HandleMove Singleton: 48506  4  -4
+Error in HandleMove Singleton: 48507  3  -4
+Error in HandleMove Singleton: 48507  4  4
+Error in HandleMove Singleton: 48508  3  -4
+Error in HandleMove Singleton: 48508  4  4
+Error in HandleMove Singleton: 48509  3  -4
+Error in HandleMove Singleton: 48509  4  4
+Error in HandleMove Singleton: 48510  3  -4
+Error in HandleMove Singleton: 48510  4  4
+Error in HandleMove Singleton: 48511  3  -4
+Error in HandleMove Singleton: 48511  4  4
+Error in HandleMove Singleton: 48511  4  -4
+Error in HandleMove Singleton: 48512  3  -4
+Error in HandleMove Singleton: 48512  4  4
+Error in HandleMove Singleton: 48512  4  -4
+Error in HandleMove Singleton: 48513  3  -4
+Error in HandleMove Singleton: 48513  4  4
+Error in HandleMove Singleton: 48513  4  -4
+Error in HandleMove Singleton: 48514  3  -4
+Error in HandleMove Singleton: 48514  4  4
+Error in HandleMove Singleton: 48514  4  -4
+Error in HandleMove: DVER1 48564  6  -1
+Error in HandleMove: DVER1 48575  11  1
+Error in HandleMove: DVER1 48595  6  -1
+Error in HandleMove Singleton: 48760  3  1
+Error in HandleMove Singleton: 48760  4  4
+Error in HandleMove Singleton: 48761  3  1
+Error in HandleMove Singleton: 48761  4  4
+Error in HandleMove Singleton: 48762  3  1
+Error in HandleMove Singleton: 48762  3  -4
+Error in HandleMove Singleton: 48762  4  4
+Error in HandleMove Singleton: 48763  3  1
+Error in HandleMove Singleton: 48763  3  -4
+Error in HandleMove Singleton: 48763  4  4
+Error in HandleMove Singleton: 48764  3  1
+Error in HandleMove Singleton: 48764  4  4
+Error in HandleMove Singleton: 48765  3  1
+Error in HandleMove Singleton: 48765  4  4
+Error in HandleMove Singleton: 48766  3  1
+Error in HandleMove Singleton: 48766  4  4
+Error in HandleMove Singleton: 48766  4  -4
+Error in HandleMove: DVER1 48947  11  1
+Error in HandleMove: DVER1 48967  10  -1
+Error in HandleMove Singleton: 49047  8  4
+Error in HandleMove Singleton: 49048  7  -4
+Error in HandleMove Singleton: 49048  8  4
+Error in HandleMove: DVER1 49161  5  -1
+Error in HandleMove: DVER1 49194  5  -1
+Error in HandleMove: DVER1 49256  7  1
+Error in HandleMove: DVER1 49271  5  -1
+Error in HandleMove: DVER1 49275  5  -1
+Error in HandleMove Singleton: 49281  7  4
+Error in HandleMove Singleton: 49281  8  4
+Error in HandleMove Singleton: 49282  7  4
+Error in HandleMove Singleton: 49282  8  4
+Error in HandleMove Singleton: 49355  4  4
+Error in HandleMove Singleton: 49355  4  -4
+Error in HandleMove Singleton: 49356  3  -4
+Error in HandleMove Singleton: 49356  4  4
+Error in HandleMove Singleton: 49356  4  -4
+Error in HandleMove Singleton: 49357  3  -4
+Error in HandleMove Singleton: 49357  4  4
+Error in HandleMove Singleton: 49357  4  -4
+Error in HandleMove Singleton: 49358  4  -1
+Error in HandleMove Singleton: 49358  4  4
+Error in HandleMove Singleton: 49359  4  -1
+Error in HandleMove Singleton: 49359  4  4
+Error in HandleMove Singleton: 49360  4  -1
+Error in HandleMove Singleton: 49360  4  4
+Error in HandleMove Singleton: 49360  4  -4
+Error in HandleMove: DVER1 49396  6  -1
+Error in HandleMove Singleton: 49471  3  1
+Error in HandleMove Singleton: 49471  4  -1
+Error in HandleMove Singleton: 49471  4  4
+Error in HandleMove Singleton: 51272  15  4
+Error in HandleMove Singleton: 51272  15  -4
+Error in HandleMove Singleton: 51272  16  4
+Error in HandleMove Singleton: 51279  11  1
+Error in HandleMove Singleton: 51279  11  -4
+Error in HandleMove Singleton: 51279  12  -4
+Error in HandleMove Singleton: 51293  11  1
+Error in HandleMove Singleton: 51293  12  -4
+Error in HandleMove Singleton: 51332  15  4
+Error in HandleMove Singleton: 51332  15  -4
+Error in HandleMove Singleton: 51348  11  1
+Error in HandleMove Singleton: 51348  12  4
+Error in HandleMove Singleton: 51348  12  -4
+Error in HandleMove Singleton: 51452  15  -4
+Error in HandleMove Singleton: 51452  16  4
+Error in HandleMove Singleton: 51468  11  1
+Error in HandleMove Singleton: 51468  11  4
+Error in HandleMove Singleton: 51468  12  -4
+Error in HandleMove Singleton: 51532  15  -4
+Error in HandleMove Singleton: 51570  7  4
+Error in HandleMove Singleton: 51570  8  4
+Error in HandleMove Singleton: 51571  7  4
+Error in HandleMove Singleton: 51571  7  -4
+Error in HandleMove Singleton: 51571  8  4
+Error in HandleMove Singleton: 51697  4  -4
+Error in HandleMove Singleton: 51698  4  -4
+Error in HandleMove Singleton: 51699  3  -4
+Error in HandleMove Singleton: 51700  3  -4
+Error in HandleMove Singleton: 51701  3  -4
+Error in HandleMove Singleton: 51701  4  -4
+Error in HandleMove Singleton: 51702  3  -4
+Error in HandleMove Singleton: 51702  4  -4
+Error in HandleMove Singleton: 51703  4  -1
+Error in HandleMove Singleton: 51704  4  -1
+Error in HandleMove Singleton: 51704  4  -4
+Error in HandleMove Singleton: 51707  15  4
+Error in HandleMove Singleton: 51707  15  -4
+Error in HandleMove Singleton: 51707  16  4
+Error in HandleMove Singleton: 51714  11  -4
+Error in HandleMove Singleton: 51714  12  -4
+Error in HandleMove Singleton: 51723  11  1
+Error in HandleMove Singleton: 51723  12  -4
+Error in HandleMove: DVER1 51742  6  -1
+Error in HandleMove Singleton: 51753  12  -4
+Error in HandleMove: DVER1 51771  6  -1
+Error in HandleMove Singleton: 51797  15  4
+Error in HandleMove Singleton: 51797  15  -4
+Error in HandleMove Singleton: 51809  12  4
+Error in HandleMove Singleton: 51809  12  -4
+Error in HandleMove: DVER1 51835  6  -1
+Error in HandleMove: DVER1 51839  6  -1
+Error in HandleMove Singleton: 51917  15  -4
+Error in HandleMove Singleton: 51917  16  4
+Error in HandleMove Singleton: 51929  11  4
+Error in HandleMove Singleton: 51929  12  -4
+Error in HandleMove Singleton: 51995  15  -4
+Error in HandleMove Singleton: 52012  7  4
+Error in HandleMove Singleton: 52012  8  4
+Error in HandleMove Singleton: 52013  7  4
+Error in HandleMove Singleton: 52013  7  -4
+Error in HandleMove Singleton: 52013  8  4
+Error in HandleMove Singleton: 52144  3  1
+Error in HandleMove Singleton: 52145  3  1
+Error in HandleMove Singleton: 52145  4  -4
+Error in HandleMove Singleton: 52146  3  1
+Error in HandleMove Singleton: 52146  4  -4
+Error in HandleMove Singleton: 52147  3  1
+Error in HandleMove Singleton: 52147  3  -4
+Error in HandleMove Singleton: 52148  3  1
+Error in HandleMove Singleton: 52148  3  -4
+Error in HandleMove Singleton: 52149  3  1
+Error in HandleMove Singleton: 52149  3  -4
+Error in HandleMove Singleton: 52149  4  -4
+Error in HandleMove Singleton: 52150  3  1
+Error in HandleMove Singleton: 52150  3  -4
+Error in HandleMove Singleton: 52150  4  -4
+Error in HandleMove Singleton: 52151  3  1
+Error in HandleMove Singleton: 52152  3  1
+Error in HandleMove Singleton: 52152  4  -4
+Error in HandleMove Singleton: 52153  3  1
+Error in HandleMove Singleton: 52153  4  -1
+Error in HandleMove Singleton: 52154  3  1
+Error in HandleMove Singleton: 52154  4  -1
+Error in HandleMove Singleton: 52154  4  -4
+Error in HandleMove Singleton: 52382  15  4
+Error in HandleMove Singleton: 52382  15  -4
+Error in HandleMove Singleton: 52382  16  4
+Error in HandleMove Singleton: 52389  11  -4
+Error in HandleMove Singleton: 52389  12  4
+Error in HandleMove Singleton: 52389  12  -4
+Error in HandleMove Singleton: 52397  15  4
+Error in HandleMove Singleton: 52397  15  -4
+Error in HandleMove Singleton: 52413  11  1
+Error in HandleMove Singleton: 52413  12  4
+Error in HandleMove Singleton: 52413  12  -4
+Error in HandleMove: DVER1 52449  6  -1
+Error in HandleMove Singleton: 52457  15  4
+Error in HandleMove Singleton: 52457  15  -4
+Error in HandleMove Singleton: 52473  12  4
+Error in HandleMove Singleton: 52473  12  -4
+Error in HandleMove: DVER1 52523  6  -1
+Error in HandleMove: DVER1 52529  6  -1
+Error in HandleMove: DVER1 52539  5  1
+Error in HandleMove: DVER1 52561  5  1
+Error in HandleMove: DVER1 52562  5  1
+Error in HandleMove Singleton: 52577  15  -4
+Error in HandleMove Singleton: 52577  16  4
+Error in HandleMove Singleton: 52587  15  4
+Error in HandleMove Singleton: 52587  15  -4
+Error in HandleMove Singleton: 52599  11  4
+Error in HandleMove Singleton: 52599  12  4
+Error in HandleMove Singleton: 52599  12  -4
+Error in HandleMove Singleton: 52622  7  4
+Error in HandleMove Singleton: 52622  8  -4
+Error in HandleMove Singleton: 52623  7  4
+Error in HandleMove Singleton: 52623  7  -4
+Error in HandleMove Singleton: 52624  7  4
+Error in HandleMove Singleton: 52624  7  -4
+Error in HandleMove Singleton: 52624  8  -4
+Error in HandleMove Singleton: 52627  15  -4
+Error in HandleMove Singleton: 52665  7  1
+Error in HandleMove Singleton: 52665  7  4
+Error in HandleMove Singleton: 52666  7  1
+Error in HandleMove Singleton: 52666  7  4
+Error in HandleMove Singleton: 52666  7  -4
+Error in HandleMove Singleton: 52697  15  -4
+Error in HandleMove Singleton: 52735  7  4
+Error in HandleMove Singleton: 52735  8  -1
+Error in HandleMove Singleton: 52736  7  4
+Error in HandleMove Singleton: 52736  7  -4
+Error in HandleMove Singleton: 52736  8  -1
+Error in HandleMove: DVER1 52752  5  1
+Error in HandleMove: DVER1 52765  5  1
+Error in HandleMove: DVER1 52766  5  1
+Error in HandleMove: DVER1 52779  5  1
+Error in HandleMove Singleton: 52892  15  -4
+Error in HandleMove Singleton: 52892  16  4
+Error in HandleMove Singleton: 52907  15  4
+Error in HandleMove Singleton: 52907  15  -4
+Error in HandleMove Singleton: 52923  11  4
+Error in HandleMove Singleton: 52923  12  4
+Error in HandleMove Singleton: 52923  12  -4
+Error in HandleMove Singleton: 52962  8  -1
+Error in HandleMove Singleton: 52962  8  -4
+Error in HandleMove Singleton: 52963  7  -4
+Error in HandleMove Singleton: 52963  8  -1
+Error in HandleMove Singleton: 52964  7  -4
+Error in HandleMove Singleton: 52964  8  -1
+Error in HandleMove Singleton: 52964  8  -4
+Error in HandleMove Singleton: 52967  15  -4
+Error in HandleMove Singleton: 53033  7  1
+Error in HandleMove Singleton: 53033  8  -1
+Error in HandleMove Singleton: 53034  7  1
+Error in HandleMove Singleton: 53034  7  -4
+Error in HandleMove Singleton: 53034  8  -1
+Error in HandleMove Singleton: 53072  15  4
+Error in HandleMove Singleton: 53072  15  -4
+Error in HandleMove Singleton: 53072  16  4
+Error in HandleMove Singleton: 53079  11  1
+Error in HandleMove Singleton: 53079  11  -4
+Error in HandleMove Singleton: 53079  12  -4
+Error in HandleMove Singleton: 53087  15  4
+Error in HandleMove Singleton: 53087  15  -4
+Error in HandleMove Singleton: 53087  16  4
+Error in HandleMove Singleton: 53094  11  -4
+Error in HandleMove Singleton: 53094  12  4
+Error in HandleMove Singleton: 53094  12  -4
+Error in HandleMove Singleton: 53097  15  -4
+Error in HandleMove Singleton: 53097  16  4
+Error in HandleMove Singleton: 53117  15  -4
+Error in HandleMove Singleton: 53117  16  4
+Error in HandleMove Singleton: 53127  15  -4
+Error in HandleMove Singleton: 53127  16  4
+Error in HandleMove Singleton: 53143  11  1
+Error in HandleMove Singleton: 53143  11  4
+Error in HandleMove Singleton: 53143  12  -4
+Error in HandleMove Singleton: 53155  15  4
+Error in HandleMove Singleton: 53155  15  -4
+Error in HandleMove Singleton: 53161  15  -4
+Error in HandleMove Singleton: 53173  11  4
+Error in HandleMove Singleton: 53173  12  4
+Error in HandleMove Singleton: 53173  12  -4
+Error in HandleMove Singleton: 53230  7  4
+Error in HandleMove Singleton: 53230  8  -4
+Error in HandleMove Singleton: 53231  7  4
+Error in HandleMove Singleton: 53231  7  -4
+Error in HandleMove Singleton: 53232  7  4
+Error in HandleMove Singleton: 53232  7  -4
+Error in HandleMove Singleton: 53232  8  -4
+Error in HandleMove Singleton: 53233  7  4
+Error in HandleMove Singleton: 53233  8  -1
+Error in HandleMove Singleton: 53234  7  4
+Error in HandleMove Singleton: 53234  8  -1
+Error in HandleMove Singleton: 53234  8  -4
+Error in HandleMove Singleton: 53297  15  4
+Error in HandleMove Singleton: 53297  15  -4
+Error in HandleMove Singleton: 53297  16  4
+Error in HandleMove Singleton: 53304  11  -4
+Error in HandleMove Singleton: 53304  12  -4
+Error in HandleMove Singleton: 53313  11  1
+Error in HandleMove Singleton: 53313  12  -4
+Error in HandleMove Singleton: 53325  15  4
+Error in HandleMove Singleton: 53325  15  -4
+Error in HandleMove Singleton: 53331  15  -4
+Error in HandleMove Singleton: 53343  12  4
+Error in HandleMove Singleton: 53343  12  -4
+Error in HandleMove: DVER1 53374  6  -1
+Error in HandleMove Singleton: 53431  15  -4
+Error in HandleMove Singleton: 53431  16  4
+Error in HandleMove Singleton: 53443  11  4
+Error in HandleMove Singleton: 53443  12  -4
+Error in HandleMove Singleton: 53461  15  -4
+Error in HandleMove Singleton: 53489  7  1
+Error in HandleMove Singleton: 53489  7  4
+Error in HandleMove Singleton: 53490  7  1
+Error in HandleMove Singleton: 53490  7  4
+Error in HandleMove Singleton: 53490  7  -4
+Error in HandleMove Singleton: 53491  7  1
+Error in HandleMove Singleton: 53491  7  4
+Error in HandleMove Singleton: 53491  8  -1
+Error in HandleMove Singleton: 53777  15  -4
+Error in HandleMove Singleton: 53777  16  4
+Error in HandleMove Singleton: 53787  15  4
+Error in HandleMove Singleton: 53787  15  -4
+Error in HandleMove Singleton: 53799  11  4
+Error in HandleMove Singleton: 53799  12  4
+Error in HandleMove Singleton: 53799  12  -4
+Error in HandleMove Singleton: 53822  8  -4
+Error in HandleMove Singleton: 53823  7  -4
+Error in HandleMove Singleton: 53824  7  -4
+Error in HandleMove Singleton: 53824  8  -4
+Error in HandleMove Singleton: 53827  15  -4
+Error in HandleMove Singleton: 53865  7  1
+Error in HandleMove Singleton: 53866  7  1
+Error in HandleMove Singleton: 53866  7  -4
+Error in HandleMove Singleton: 53897  15  -4
+Error in HandleMove Singleton: 53935  8  -1
+Error in HandleMove Singleton: 53936  7  -4
+Error in HandleMove Singleton: 53936  8  -1
+Error in HandleMove: DVER1 53952  5  1
+Error in HandleMove: DVER1 53965  5  1
+Error in HandleMove: DVER1 53966  5  1
+Error in HandleMove: DVER1 53979  5  1
+Error in HandleMove Singleton: 53987  15  -4
+Error in HandleMove Singleton: 53987  16  4
+Error in HandleMove Singleton: 54003  11  1
+Error in HandleMove Singleton: 54003  12  -4
+Error in HandleMove Singleton: 54015  15  4
+Error in HandleMove Singleton: 54015  15  -4
+Error in HandleMove Singleton: 54021  15  -4
+Error in HandleMove Singleton: 54033  12  4
+Error in HandleMove Singleton: 54033  12  -4
+Error in HandleMove: DVER1 54074  5  1
+Error in HandleMove Singleton: 54097  15  -4
+Error in HandleMove Singleton: 54111  7  4
+Error in HandleMove Singleton: 54112  7  4
+Error in HandleMove Singleton: 54112  8  -4
+Error in HandleMove Singleton: 54121  15  -4
+Error in HandleMove Singleton: 54149  7  4
+Error in HandleMove Singleton: 54150  7  4
+Error in HandleMove Singleton: 54150  7  -4
+Error in HandleMove Singleton: 54151  7  4
+Error in HandleMove Singleton: 54151  8  -1
+Error in HandleMove: DVER1 54176  5  1
+Error in HandleMove Singleton: 54281  15  -4
+Error in HandleMove Singleton: 54305  12  -4
+Error in HandleMove: DVER1 54316  6  -1
+Error in HandleMove: DVER1 54348  5  1
+Error in HandleMove Singleton: 54382  7  1
+Error in HandleMove Singleton: 54382  7  4
+Error in HandleMove Singleton: 54992  15  4
+Error in HandleMove Singleton: 54992  15  -4
+Error in HandleMove Singleton: 54992  16  4
+Error in HandleMove Singleton: 54999  11  -4
+Error in HandleMove Singleton: 54999  12  -4
+Error in HandleMove Singleton: 55008  11  1
+Error in HandleMove Singleton: 55008  12  -4
+Error in HandleMove: DVER1 55027  6  -1
+Error in HandleMove Singleton: 55038  12  -4
+Error in HandleMove: DVER1 55056  6  -1
+Error in HandleMove Singleton: 55082  15  4
+Error in HandleMove Singleton: 55082  15  -4
+Error in HandleMove Singleton: 55094  12  4
+Error in HandleMove Singleton: 55094  12  -4
+Error in HandleMove: DVER1 55120  6  -1
+Error in HandleMove: DVER1 55124  6  -1
+Error in HandleMove Singleton: 55202  15  -4
+Error in HandleMove Singleton: 55202  16  4
+Error in HandleMove Singleton: 55214  11  4
+Error in HandleMove Singleton: 55214  12  -4
+Error in HandleMove Singleton: 55280  15  -4
+Error in HandleMove Singleton: 55297  7  4
+Error in HandleMove Singleton: 55297  8  4
+Error in HandleMove Singleton: 55298  7  4
+Error in HandleMove Singleton: 55298  7  -4
+Error in HandleMove Singleton: 55298  8  4
+Error in HandleMove Singleton: 55429  4  4
+Error in HandleMove Singleton: 55430  4  4
+Error in HandleMove Singleton: 55430  4  -4
+Error in HandleMove Singleton: 55431  4  4
+Error in HandleMove Singleton: 55431  4  -4
+Error in HandleMove Singleton: 55432  3  -4
+Error in HandleMove Singleton: 55432  4  4
+Error in HandleMove Singleton: 55433  3  -4
+Error in HandleMove Singleton: 55433  4  4
+Error in HandleMove Singleton: 55434  3  -4
+Error in HandleMove Singleton: 55434  4  4
+Error in HandleMove Singleton: 55434  4  -4
+Error in HandleMove Singleton: 55435  3  -4
+Error in HandleMove Singleton: 55435  4  4
+Error in HandleMove Singleton: 55435  4  -4
+Error in HandleMove Singleton: 55436  4  4
+Error in HandleMove Singleton: 55437  4  4
+Error in HandleMove Singleton: 55437  4  -4
+Error in HandleMove Singleton: 55438  4  -1
+Error in HandleMove Singleton: 55438  4  4
+Error in HandleMove Singleton: 55439  4  -1
+Error in HandleMove Singleton: 55439  4  4
+Error in HandleMove Singleton: 55439  4  -4
+Error in HandleMove Singleton: 55442  15  -4
+Error in HandleMove Singleton: 55442  16  4
+Error in HandleMove Singleton: 55458  11  4
+Error in HandleMove Singleton: 55458  12  -4
+Error in HandleMove Singleton: 55522  15  -4
+Error in HandleMove Singleton: 55560  8  -1
+Error in HandleMove Singleton: 55560  8  4
+Error in HandleMove Singleton: 55561  7  -4
+Error in HandleMove Singleton: 55561  8  -1
+Error in HandleMove Singleton: 55561  8  4
+Error in HandleMove Singleton: 55612  15  4
+Error in HandleMove Singleton: 55612  15  -4
+Error in HandleMove Singleton: 55612  16  4
+Error in HandleMove Singleton: 55619  11  -4
+Error in HandleMove Singleton: 55619  12  -4
+Error in HandleMove Singleton: 55622  15  -4
+Error in HandleMove Singleton: 55622  16  4
+Error in HandleMove Singleton: 55638  11  1
+Error in HandleMove Singleton: 55638  12  -4
+Error in HandleMove Singleton: 55650  15  4
+Error in HandleMove Singleton: 55650  15  -4
+Error in HandleMove Singleton: 55656  15  -4
+Error in HandleMove Singleton: 55668  12  4
+Error in HandleMove Singleton: 55668  12  -4
+Error in HandleMove Singleton: 55732  15  -4
+Error in HandleMove Singleton: 55732  16  4
+Error in HandleMove Singleton: 55744  11  4
+Error in HandleMove Singleton: 55744  12  -4
+Error in HandleMove Singleton: 55774  15  -4
+Error in HandleMove Singleton: 55802  7  4
+Error in HandleMove Singleton: 55802  8  4
+Error in HandleMove Singleton: 55803  7  4
+Error in HandleMove Singleton: 55803  7  -4
+Error in HandleMove Singleton: 55803  8  4
+Error in HandleMove Singleton: 55804  7  4
+Error in HandleMove Singleton: 55804  8  -1
+Error in HandleMove Singleton: 55804  8  4
+Error in HandleMove Singleton: 55907  4  4
+Error in HandleMove Singleton: 55908  4  4
+Error in HandleMove Singleton: 55909  4  4
+Error in HandleMove Singleton: 55910  4  4
+Error in HandleMove Singleton: 55910  4  -4
+Error in HandleMove Singleton: 55911  4  4
+Error in HandleMove Singleton: 55911  4  -4
+Error in HandleMove Singleton: 55912  3  -4
+Error in HandleMove Singleton: 55912  4  4
+Error in HandleMove Singleton: 55913  3  -4
+Error in HandleMove Singleton: 55913  4  4
+Error in HandleMove Singleton: 55914  3  -4
+Error in HandleMove Singleton: 55914  4  4
+Error in HandleMove Singleton: 55915  3  -4
+Error in HandleMove Singleton: 55915  4  4
+Error in HandleMove Singleton: 55916  3  -4
+Error in HandleMove Singleton: 55916  4  4
+Error in HandleMove Singleton: 55917  3  -4
+Error in HandleMove Singleton: 55917  4  4
+Error in HandleMove Singleton: 55917  4  -4
+Error in HandleMove Singleton: 55918  3  -4
+Error in HandleMove Singleton: 55918  4  4
+Error in HandleMove Singleton: 55918  4  -4
+Error in HandleMove Singleton: 55919  3  -4
+Error in HandleMove Singleton: 55919  4  4
+Error in HandleMove Singleton: 55919  4  -4
+Error in HandleMove Singleton: 55928  12  -4
+Error in HandleMove Singleton: 55958  12  -4
+Error in HandleMove: DVER1 55969  6  -1
+Error in HandleMove Singleton: 56093  3  1
+Error in HandleMove Singleton: 56093  4  4
+Error in HandleMove Singleton: 56094  3  1
+Error in HandleMove Singleton: 56094  4  4
+Error in HandleMove Singleton: 56095  3  1
+Error in HandleMove Singleton: 56095  3  -4
+Error in HandleMove Singleton: 56095  4  4
+Error in HandleMove Singleton: 56096  3  1
+Error in HandleMove Singleton: 56096  3  -4
+Error in HandleMove Singleton: 56096  4  4
+Error in HandleMove Singleton: 56097  3  1
+Error in HandleMove Singleton: 56097  4  4
+Error in HandleMove Singleton: 56098  3  1
+Error in HandleMove Singleton: 56098  4  4
+Error in HandleMove Singleton: 56099  3  1
+Error in HandleMove Singleton: 56099  4  4
+Error in HandleMove Singleton: 56099  4  -4
+Error in HandleMove Singleton: 56222  15  -4
+Error in HandleMove Singleton: 56222  16  4
+Error in HandleMove Singleton: 56234  11  4
+Error in HandleMove Singleton: 56234  12  -4
+Error in HandleMove Singleton: 56300  15  -4
+Error in HandleMove Singleton: 56317  8  4
+Error in HandleMove Singleton: 56318  7  -4
+Error in HandleMove Singleton: 56318  8  4
+Error in HandleMove Singleton: 56390  15  -4
+Error in HandleMove Singleton: 56390  16  4
+Error in HandleMove Singleton: 56402  12  -4
+Error in HandleMove Singleton: 56426  15  -4
+Error in HandleMove Singleton: 56518  7  4
+Error in HandleMove Singleton: 56518  8  4
+Error in HandleMove Singleton: 56569  3  -4
+Error in HandleMove Singleton: 56569  4  4
+Error in HandleMove Singleton: 56570  3  -4
+Error in HandleMove Singleton: 56570  4  4
+Error in HandleMove Singleton: 56570  4  -4
+Error in HandleMove Singleton: 56571  4  -1
+Error in HandleMove Singleton: 56571  4  4
+Error in HandleMove Singleton: 56572  4  -1
+Error in HandleMove Singleton: 56572  4  4
+Error in HandleMove Singleton: 56573  4  -1
+Error in HandleMove Singleton: 56573  4  4
+Error in HandleMove Singleton: 56573  4  -4
+Error in HandleMove Singleton: 56642  3  1
+Error in HandleMove Singleton: 56642  4  -1
+Error in HandleMove Singleton: 56642  4  4
+Error in HandleMove Singleton: 58074  11  1
+Error in HandleMove Singleton: 58074  12  -1
+Error in HandleMove Singleton: 58074  12  -4
+Error in HandleMove Singleton: 58085  11  1
+Error in HandleMove Singleton: 58085  12  -4
+Error in HandleMove Singleton: 58095  11  1
+Error in HandleMove Singleton: 58095  12  -4
+Error in HandleMove: DVER1 58103  9  1
+Error in HandleMove Singleton: 58140  11  1
+Error in HandleMove Singleton: 58140  12  4
+Error in HandleMove Singleton: 58140  12  -4
+Error in HandleMove: DVER1 58150  8  -1
+Error in HandleMove Singleton: 58245  11  1
+Error in HandleMove Singleton: 58245  11  4
+Error in HandleMove Singleton: 58245  12  -4
+Error in HandleMove: DVER1 58273  9  1
+Error in HandleMove: DVER1 58325  8  -1
+Error in HandleMove Singleton: 58339  7  4
+Error in HandleMove Singleton: 58339  7  -4
+Error in HandleMove Singleton: 58339  8  4
+Error in HandleMove Singleton: 58477  4  -4
+Error in HandleMove Singleton: 58478  4  -4
+Error in HandleMove Singleton: 58479  3  -4
+Error in HandleMove Singleton: 58480  3  -4
+Error in HandleMove Singleton: 58480  4  -4
+Error in HandleMove Singleton: 58481  4  -1
+Error in HandleMove Singleton: 58482  4  -1
+Error in HandleMove Singleton: 58483  4  -1
+Error in HandleMove Singleton: 58483  4  -4
+Error in HandleMove Singleton: 58484  4  -1
+Error in HandleMove Singleton: 58484  4  -4
+Error in HandleMove Singleton: 58494  12  -1
+Error in HandleMove Singleton: 58494  12  -4
+Error in HandleMove Singleton: 58500  11  1
+Error in HandleMove Singleton: 58500  12  -4
+Error in HandleMove Singleton: 58520  12  -4
+Error in HandleMove Singleton: 58526  12  -4
+Error in HandleMove: DVER1 58528  9  1
+Error in HandleMove Singleton: 58576  12  4
+Error in HandleMove Singleton: 58576  12  -4
+Error in HandleMove: DVER1 58580  8  -1
+Error in HandleMove Singleton: 58666  11  4
+Error in HandleMove Singleton: 58666  12  -4
+Error in HandleMove: DVER1 58697  9  1
+Error in HandleMove: DVER1 58741  8  -1
+Error in HandleMove Singleton: 58747  7  4
+Error in HandleMove Singleton: 58747  7  -4
+Error in HandleMove Singleton: 58747  8  4
+Error in HandleMove Singleton: 58884  3  1
+Error in HandleMove Singleton: 58885  3  1
+Error in HandleMove Singleton: 58885  4  -4
+Error in HandleMove Singleton: 58886  3  1
+Error in HandleMove Singleton: 58886  4  -4
+Error in HandleMove Singleton: 58887  3  1
+Error in HandleMove Singleton: 58887  3  -4
+Error in HandleMove Singleton: 58888  3  1
+Error in HandleMove Singleton: 58888  3  -4
+Error in HandleMove Singleton: 58888  4  -4
+Error in HandleMove Singleton: 58889  3  1
+Error in HandleMove Singleton: 58890  3  1
+Error in HandleMove Singleton: 58890  4  -4
+Error in HandleMove Singleton: 58891  3  1
+Error in HandleMove Singleton: 58891  4  -1
+Error in HandleMove Singleton: 58892  3  1
+Error in HandleMove Singleton: 58892  4  -1
+Error in HandleMove Singleton: 58893  3  1
+Error in HandleMove Singleton: 58893  4  -1
+Error in HandleMove Singleton: 58893  4  -4
+Error in HandleMove Singleton: 58894  3  1
+Error in HandleMove Singleton: 58894  4  -1
+Error in HandleMove Singleton: 58894  4  -4
+Error in HandleMove Singleton: 59109  12  -1
+Error in HandleMove Singleton: 59109  12  4
+Error in HandleMove Singleton: 59109  12  -4
+Error in HandleMove Singleton: 59130  11  1
+Error in HandleMove Singleton: 59130  12  4
+Error in HandleMove Singleton: 59130  12  -4
+Error in HandleMove: DVER1 59140  8  -1
+Error in HandleMove Singleton: 59175  12  4
+Error in HandleMove Singleton: 59175  12  -4
+Error in HandleMove Singleton: 59181  12  4
+Error in HandleMove Singleton: 59181  12  -4
+Error in HandleMove: DVER1 59244  5  1
+Error in HandleMove: DVER1 59267  5  1
+Error in HandleMove Singleton: 59301  11  4
+Error in HandleMove Singleton: 59301  12  4
+Error in HandleMove Singleton: 59301  12  -4
+Error in HandleMove: DVER1 59305  8  -1
+Error in HandleMove Singleton: 59318  7  4
+Error in HandleMove Singleton: 59318  7  -4
+Error in HandleMove Singleton: 59319  7  4
+Error in HandleMove Singleton: 59319  7  -4
+Error in HandleMove Singleton: 59319  8  -4
+Error in HandleMove: DVER1 59335  8  -1
+Error in HandleMove Singleton: 59349  7  1
+Error in HandleMove Singleton: 59349  7  4
+Error in HandleMove Singleton: 59349  7  -4
+Error in HandleMove Singleton: 59416  7  4
+Error in HandleMove Singleton: 59416  7  -4
+Error in HandleMove Singleton: 59417  7  4
+Error in HandleMove Singleton: 59417  7  -4
+Error in HandleMove Singleton: 59417  8  -1
+Error in HandleMove: DVER1 59445  5  1
+Error in HandleMove: DVER1 59463  5  1
+Error in HandleMove: DVER1 59479  5  1
+Error in HandleMove Singleton: 59625  11  4
+Error in HandleMove Singleton: 59625  12  4
+Error in HandleMove Singleton: 59625  12  -4
+Error in HandleMove Singleton: 59631  11  4
+Error in HandleMove Singleton: 59631  12  4
+Error in HandleMove Singleton: 59631  12  -4
+Error in HandleMove Singleton: 59667  7  -4
+Error in HandleMove Singleton: 59667  8  -4
+Error in HandleMove Singleton: 59668  7  -4
+Error in HandleMove Singleton: 59668  8  -1
+Error in HandleMove Singleton: 59669  7  -4
+Error in HandleMove Singleton: 59669  8  -1
+Error in HandleMove Singleton: 59669  8  -4
+Error in HandleMove Singleton: 59748  7  1
+Error in HandleMove Singleton: 59748  7  -4
+Error in HandleMove Singleton: 59749  7  1
+Error in HandleMove Singleton: 59749  7  -4
+Error in HandleMove Singleton: 59749  8  -1
+Error in HandleMove: DVER1 59758  6  1
+Error in HandleMove: DVER1 59773  6  1
+Error in HandleMove: DVER1 59780  6  1
+Error in HandleMove Singleton: 59799  11  1
+Error in HandleMove Singleton: 59799  12  -1
+Error in HandleMove Singleton: 59799  12  -4
+Error in HandleMove Singleton: 59814  12  -1
+Error in HandleMove Singleton: 59814  12  4
+Error in HandleMove Singleton: 59814  12  -4
+Error in HandleMove Singleton: 59826  11  1
+Error in HandleMove Singleton: 59826  12  -1
+Error in HandleMove Singleton: 59826  12  4
+Error in HandleMove Singleton: 59910  11  1
+Error in HandleMove Singleton: 59910  11  4
+Error in HandleMove Singleton: 59910  12  -4
+Error in HandleMove Singleton: 59940  11  4
+Error in HandleMove Singleton: 59940  12  4
+Error in HandleMove Singleton: 59940  12  -4
+Error in HandleMove Singleton: 59944  11  1
+Error in HandleMove Singleton: 59944  11  4
+Error in HandleMove Singleton: 59944  12  4
+Error in HandleMove Singleton: 60009  7  4
+Error in HandleMove Singleton: 60009  7  -4
+Error in HandleMove Singleton: 60010  7  4
+Error in HandleMove Singleton: 60010  7  -4
+Error in HandleMove Singleton: 60010  8  -4
+Error in HandleMove Singleton: 60011  7  4
+Error in HandleMove Singleton: 60011  8  -4
+Error in HandleMove Singleton: 60012  7  4
+Error in HandleMove Singleton: 60012  7  -4
+Error in HandleMove Singleton: 60012  8  -4
+Error in HandleMove Singleton: 60013  7  4
+Error in HandleMove Singleton: 60013  8  -1
+Error in HandleMove Singleton: 60014  7  4
+Error in HandleMove Singleton: 60014  8  -1
+Error in HandleMove Singleton: 60014  8  -4
+Error in HandleMove Singleton: 60099  12  -1
+Error in HandleMove Singleton: 60099  12  -4
+Error in HandleMove Singleton: 60105  12  -1
+Error in HandleMove Singleton: 60105  12  4
+Error in HandleMove Singleton: 60125  11  1
+Error in HandleMove Singleton: 60125  12  -4
+Error in HandleMove Singleton: 60155  12  4
+Error in HandleMove Singleton: 60155  12  -4
+Error in HandleMove Singleton: 60159  11  1
+Error in HandleMove Singleton: 60159  12  4
+Error in HandleMove: DVER1 60217  6  1
+Error in HandleMove Singleton: 60277  11  4
+Error in HandleMove Singleton: 60277  12  -4
+Error in HandleMove Singleton: 60281  11  4
+Error in HandleMove Singleton: 60281  12  4
+Error in HandleMove Singleton: 60295  7  4
+Error in HandleMove Singleton: 60295  7  -4
+Error in HandleMove Singleton: 60295  8  -4
+Error in HandleMove Singleton: 60338  7  1
+Error in HandleMove Singleton: 60338  7  4
+Error in HandleMove Singleton: 60338  7  -4
+Error in HandleMove Singleton: 60339  7  1
+Error in HandleMove Singleton: 60339  7  4
+Error in HandleMove Singleton: 60340  7  1
+Error in HandleMove Singleton: 60340  7  4
+Error in HandleMove Singleton: 60340  8  -1
+Error in HandleMove: DVER1 60358  6  1
+Error in HandleMove: DVER1 60369  6  1
+Error in HandleMove Singleton: 60711  11  4
+Error in HandleMove Singleton: 60711  12  4
+Error in HandleMove Singleton: 60711  12  -4
+Error in HandleMove: DVER1 60715  8  -1
+Error in HandleMove Singleton: 60728  7  -4
+Error in HandleMove Singleton: 60729  7  -4
+Error in HandleMove Singleton: 60729  8  -4
+Error in HandleMove: DVER1 60745  8  -1
+Error in HandleMove Singleton: 60759  7  1
+Error in HandleMove Singleton: 60759  7  -4
+Error in HandleMove Singleton: 60826  7  -4
+Error in HandleMove Singleton: 60827  7  -4
+Error in HandleMove Singleton: 60827  8  -1
+Error in HandleMove: DVER1 60855  5  1
+Error in HandleMove: DVER1 60873  5  1
+Error in HandleMove: DVER1 60889  5  1
+Error in HandleMove Singleton: 60911  11  1
+Error in HandleMove Singleton: 60911  12  -1
+Error in HandleMove Singleton: 60911  12  4
+Error in HandleMove Singleton: 60935  11  1
+Error in HandleMove Singleton: 60935  12  -4
+Error in HandleMove Singleton: 60965  12  4
+Error in HandleMove Singleton: 60965  12  -4
+Error in HandleMove Singleton: 60969  11  1
+Error in HandleMove Singleton: 60969  12  4
+Error in HandleMove: DVER1 61014  5  1
+Error in HandleMove: DVER1 61015  5  1
+Error in HandleMove: DVER1 61063  8  -1
+Error in HandleMove Singleton: 61074  7  4
+Error in HandleMove Singleton: 61075  7  4
+Error in HandleMove Singleton: 61075  8  -4
+Error in HandleMove Singleton: 61118  7  4
+Error in HandleMove Singleton: 61118  7  -4
+Error in HandleMove Singleton: 61119  7  4
+Error in HandleMove Singleton: 61120  7  4
+Error in HandleMove Singleton: 61120  8  -1
+Error in HandleMove: DVER1 61132  5  1
+Error in HandleMove: DVER1 61151  5  1
+Error in HandleMove Singleton: 61279  12  -1
+Error in HandleMove Singleton: 61279  12  4
+Error in HandleMove: DVER1 61297  8  -1
+Error in HandleMove Singleton: 61315  12  -4
+Error in HandleMove Singleton: 61319  12  4
+Error in HandleMove: DVER1 61354  5  1
+Error in HandleMove: DVER1 61367  5  1
+Error in HandleMove Singleton: 61411  7  1
+Error in HandleMove Singleton: 61411  7  4
+Error in HandleMove: DVER1 61433  5  1
+Error in HandleMove Singleton: 62199  12  -1
+Error in HandleMove Singleton: 62199  12  -4
+Error in HandleMove Singleton: 62205  11  1
+Error in HandleMove Singleton: 62205  12  -4
+Error in HandleMove Singleton: 62225  12  -4
+Error in HandleMove Singleton: 62231  12  -4
+Error in HandleMove: DVER1 62233  9  1
+Error in HandleMove Singleton: 62281  12  4
+Error in HandleMove Singleton: 62281  12  -4
+Error in HandleMove: DVER1 62285  8  -1
+Error in HandleMove Singleton: 62371  11  4
+Error in HandleMove Singleton: 62371  12  -4
+Error in HandleMove: DVER1 62402  9  1
+Error in HandleMove: DVER1 62446  8  -1
+Error in HandleMove Singleton: 62452  7  4
+Error in HandleMove Singleton: 62452  7  -4
+Error in HandleMove Singleton: 62452  8  4
+Error in HandleMove Singleton: 62589  4  4
+Error in HandleMove Singleton: 62590  4  4
+Error in HandleMove Singleton: 62590  4  -4
+Error in HandleMove Singleton: 62591  4  4
+Error in HandleMove Singleton: 62591  4  -4
+Error in HandleMove Singleton: 62592  3  -4
+Error in HandleMove Singleton: 62592  4  4
+Error in HandleMove Singleton: 62593  3  -4
+Error in HandleMove Singleton: 62593  4  4
+Error in HandleMove Singleton: 62593  4  -4
+Error in HandleMove Singleton: 62594  4  4
+Error in HandleMove Singleton: 62595  4  4
+Error in HandleMove Singleton: 62595  4  -4
+Error in HandleMove Singleton: 62596  4  -1
+Error in HandleMove Singleton: 62596  4  4
+Error in HandleMove Singleton: 62597  4  -1
+Error in HandleMove Singleton: 62597  4  4
+Error in HandleMove Singleton: 62598  4  -1
+Error in HandleMove Singleton: 62598  4  4
+Error in HandleMove Singleton: 62598  4  -4
+Error in HandleMove Singleton: 62599  4  -1
+Error in HandleMove Singleton: 62599  4  4
+Error in HandleMove Singleton: 62599  4  -4
+Error in HandleMove Singleton: 62615  11  4
+Error in HandleMove Singleton: 62615  12  -4
+Error in HandleMove Singleton: 62621  11  4
+Error in HandleMove Singleton: 62621  12  -4
+Error in HandleMove: DVER1 62623  9  1
+Error in HandleMove: DVER1 62653  9  1
+Error in HandleMove: DVER1 62673  6  1
+Error in HandleMove: DVER1 62684  6  1
+Error in HandleMove Singleton: 62736  7  -4
+Error in HandleMove Singleton: 62736  8  4
+Error in HandleMove Singleton: 62737  7  -4
+Error in HandleMove Singleton: 62737  8  -1
+Error in HandleMove Singleton: 62737  8  4
+Error in HandleMove: DVER1 62752  6  1
+Error in HandleMove: DVER1 62757  6  1
+Error in HandleMove: DVER1 62775  4  -1
+Error in HandleMove: DVER1 62788  4  -1
+Error in HandleMove: DVER1 62804  4  -1
+Error in HandleMove Singleton: 62819  12  -1
+Error in HandleMove Singleton: 62819  12  -4
+Error in HandleMove Singleton: 62831  11  1
+Error in HandleMove Singleton: 62831  12  -1
+Error in HandleMove Singleton: 62855  11  1
+Error in HandleMove Singleton: 62855  12  -4
+Error in HandleMove Singleton: 62885  12  4
+Error in HandleMove Singleton: 62885  12  -4
+Error in HandleMove Singleton: 62889  11  1
+Error in HandleMove Singleton: 62889  12  4
+Error in HandleMove: DVER1 62956  4  -1
+Error in HandleMove: DVER1 62957  4  -1
+Error in HandleMove Singleton: 62983  11  4
+Error in HandleMove Singleton: 62983  12  -4
+Error in HandleMove Singleton: 62987  11  1
+Error in HandleMove Singleton: 62987  11  4
+Error in HandleMove: DVER1 62993  9  1
+Error in HandleMove Singleton: 63056  7  4
+Error in HandleMove Singleton: 63056  7  -4
+Error in HandleMove Singleton: 63056  8  4
+Error in HandleMove Singleton: 63057  7  4
+Error in HandleMove Singleton: 63057  8  4
+Error in HandleMove Singleton: 63058  7  4
+Error in HandleMove Singleton: 63058  8  -1
+Error in HandleMove Singleton: 63058  8  4
+Error in HandleMove: DVER1 63079  4  -1
+Error in HandleMove: DVER1 63094  4  -1
+Error in HandleMove Singleton: 63185  4  4
+Error in HandleMove Singleton: 63186  4  4
+Error in HandleMove Singleton: 63187  4  4
+Error in HandleMove Singleton: 63188  4  4
+Error in HandleMove Singleton: 63189  4  4
+Error in HandleMove Singleton: 63189  4  -4
+Error in HandleMove Singleton: 63190  4  4
+Error in HandleMove Singleton: 63190  4  -4
+Error in HandleMove Singleton: 63191  4  4
+Error in HandleMove Singleton: 63191  4  -4
+Error in HandleMove Singleton: 63192  3  -4
+Error in HandleMove Singleton: 63192  4  4
+Error in HandleMove Singleton: 63193  3  -4
+Error in HandleMove Singleton: 63193  4  4
+Error in HandleMove Singleton: 63194  3  -4
+Error in HandleMove Singleton: 63194  4  4
+Error in HandleMove Singleton: 63195  3  -4
+Error in HandleMove Singleton: 63195  4  4
+Error in HandleMove Singleton: 63196  3  -4
+Error in HandleMove Singleton: 63196  4  4
+Error in HandleMove Singleton: 63197  3  -4
+Error in HandleMove Singleton: 63197  4  4
+Error in HandleMove Singleton: 63197  4  -4
+Error in HandleMove Singleton: 63198  3  -4
+Error in HandleMove Singleton: 63198  4  4
+Error in HandleMove Singleton: 63198  4  -4
+Error in HandleMove Singleton: 63199  3  -4
+Error in HandleMove Singleton: 63199  4  4
+Error in HandleMove Singleton: 63199  4  -4
+Error in HandleMove Singleton: 63205  12  -1
+Error in HandleMove Singleton: 63217  12  -4
+Error in HandleMove Singleton: 63221  11  1
+Error in HandleMove: DVER1 63227  9  1
+Error in HandleMove: DVER1 63241  6  1
+Error in HandleMove Singleton: 63253  12  -4
+Error in HandleMove Singleton: 63257  12  4
+Error in HandleMove: DVER1 63275  6  1
+Error in HandleMove: DVER1 63295  4  -1
+Error in HandleMove: DVER1 63310  4  -1
+Error in HandleMove Singleton: 63332  11  4
+Error in HandleMove: DVER1 63346  6  1
+Error in HandleMove: DVER1 63361  6  1
+Error in HandleMove: DVER1 63370  4  -1
+Error in HandleMove Singleton: 63436  3  1
+Error in HandleMove Singleton: 63436  4  4
+Error in HandleMove Singleton: 63437  3  1
+Error in HandleMove Singleton: 63437  4  4
+Error in HandleMove Singleton: 63438  3  1
+Error in HandleMove Singleton: 63438  4  4
+Error in HandleMove Singleton: 63439  3  1
+Error in HandleMove Singleton: 63439  4  4
+Error in HandleMove Singleton: 63439  4  -4
+Error in HandleMove Singleton: 63440  3  1
+Error in HandleMove Singleton: 63440  3  -4
+Error in HandleMove Singleton: 63440  4  4
+Error in HandleMove Singleton: 63441  3  1
+Error in HandleMove Singleton: 63441  3  -4
+Error in HandleMove Singleton: 63441  4  4
+Error in HandleMove Singleton: 63442  3  1
+Error in HandleMove Singleton: 63442  4  4
+Error in HandleMove Singleton: 63443  3  1
+Error in HandleMove Singleton: 63443  4  4
+Error in HandleMove Singleton: 63444  3  1
+Error in HandleMove Singleton: 63444  4  4
+Error in HandleMove Singleton: 63445  3  1
+Error in HandleMove Singleton: 63445  4  4
+Error in HandleMove Singleton: 63445  4  -4
+Error in HandleMove Singleton: 63621  11  4
+Error in HandleMove Singleton: 63621  12  -4
+Error in HandleMove: DVER1 63652  9  1
+Error in HandleMove: DVER1 63696  8  -1
+Error in HandleMove Singleton: 63702  7  -4
+Error in HandleMove Singleton: 63702  8  4
+Error in HandleMove Singleton: 63789  11  1
+Error in HandleMove Singleton: 63789  12  -1
+Error in HandleMove Singleton: 63801  12  -4
+Error in HandleMove Singleton: 63805  11  1
+Error in HandleMove: DVER1 63811  9  1
+Error in HandleMove: DVER1 63843  8  -1
+Error in HandleMove Singleton: 63948  7  4
+Error in HandleMove Singleton: 63948  8  4
+Error in HandleMove Singleton: 64023  4  4
+Error in HandleMove Singleton: 64024  3  -4
+Error in HandleMove Singleton: 64024  4  4
+Error in HandleMove Singleton: 64025  3  -4
+Error in HandleMove Singleton: 64025  4  4
+Error in HandleMove Singleton: 64025  4  -4
+Error in HandleMove Singleton: 64026  4  -1
+Error in HandleMove Singleton: 64026  4  4
+Error in HandleMove Singleton: 64027  4  -1
+Error in HandleMove Singleton: 64027  4  4
+Error in HandleMove Singleton: 64028  4  -1
+Error in HandleMove Singleton: 64028  4  4
+Error in HandleMove Singleton: 64029  4  -1
+Error in HandleMove Singleton: 64029  4  4
+Error in HandleMove Singleton: 64029  4  -4
+Error in HandleMove Singleton: 64053  12  -1
+Error in HandleMove Singleton: 64129  3  1
+Error in HandleMove Singleton: 64129  4  4
+Error in HandleMove Singleton: 64130  3  1
+Error in HandleMove Singleton: 64130  4  -1
+Error in HandleMove Singleton: 64130  4  4
+Error in HandleMove Singleton: 64131  3  1
+Error in HandleMove Singleton: 64131  4  -1
+Error in HandleMove Singleton: 64131  4  4
+time taken to build graph = 811
+Size of Graph = 65880
+Original Vertex
+
+3322
+3222
+4211
+4200
+3200
+Weight = -1208905740
+63877 63879 63842 63839 
+Prev Vertex = -1210220544
+Adj list: 
+
+3322
+4222
+3211
+4200
+3200
+Weight = -1208905740
+65517 63843 63879 63876 
+Prev Vertex = -1210220544
+
+3322
+4222
+4211
+3200
+3200
+Weight = -1208905740
+63831 65519 65547 63877 63843 
+Prev Vertex = -1210220544
+
+3322
+3222
+4211
+3200
+4200
+Weight = -1208905740
+63876 63839 63843 
+Prev Vertex = -1210220544
+
+3322
+3222
+3211
+4200
+4200
+Weight = -1208905740
+63838 63842 63843 
+Prev Vertex = -1210220544
+Length of shortest path = 80
+
+53071:
+2222
+2222
+1133
+3004
+3004
+Weight = 81
+59791 53076 53078 
+Prev Vertex = 59791
+
+59791:
+2222
+2222
+1133
+3400
+3400
+Weight = 80
+59793 59795 53071 59792 59790 
+Prev Vertex = 59792
+
+59792:
+2222
+2222
+1133
+3400
+4300
+Weight = 80
+59794 59790 59791 59795 
+Prev Vertex = 59795
+
+59795:
+2222
+2222
+1133
+4400
+3300
+Weight = 79
+59863 59792 59794 59793 59791 
+Prev Vertex = 64978
+
+64978:
+4222
+2222
+2433
+1100
+3300
+Weight = 79
+59863 64975 65805 
+Prev Vertex = 59863
+
+59863:
+2222
+2222
+4433
+1100
+3300
+Weight = 78
+64978 59795 59860 59843 61808 
+Prev Vertex = 59860
+
+59860:
+2222
+2222
+4343
+1100
+3300
+Weight = 78
+59843 64975 59863 59858 60503 
+Prev Vertex = 59843
+
+59843:
+2222
+2222
+3443
+1100
+3300
+Weight = 77
+59860 59863 61805 59841 59831 60501 
+Prev Vertex = 59841
+
+59841:
+2222
+2222
+3434
+1100
+3300
+Weight = 77
+59858 59831 61803 59843 60030 
+Prev Vertex = 59831
+
+59831:
+2222
+2222
+3344
+1100
+3300
+Weight = 76
+59841 59843 60499 40500 60028 
+Prev Vertex = 40500
+
+40500:
+2222
+2222
+3300
+1100
+3344
+Weight = 75
+40501 40502 59831 
+Prev Vertex = 40501
+
+40501:
+2222
+2222
+3300
+1100
+3434
+Weight = 75
+40503 40500 40502 
+Prev Vertex = 40502
+
+40502:
+2222
+2222
+3300
+1100
+3443
+Weight = 74
+40504 40505 40501 40500 
+Prev Vertex = 40504
+
+40504:
+2222
+2222
+3300
+1100
+4343
+Weight = 74
+40502 40505 40503 
+Prev Vertex = 40505
+
+40505:
+2222
+2222
+3300
+1100
+4433
+Weight = 73
+40521 40504 40502 
+Prev Vertex = 40521
+
+40521:
+2222
+2222
+3300
+4400
+1133
+Weight = 72
+40550 40553 40505 40537 40534 
+Prev Vertex = 40537
+
+40537:
+2222
+2222
+3400
+4300
+1133
+Weight = 72
+40553 41623 40521 40534 40557 
+Prev Vertex = 40553
+
+40553:
+2222
+2222
+4300
+4300
+1133
+Weight = 71
+40537 40557 42983 43036 40550 40521 
+Prev Vertex = 42983
+
+42983:
+4222
+2222
+2300
+4300
+1133
+Weight = 71
+40553 42980 43036 
+Prev Vertex = 43036
+
+43036:
+4222
+4222
+2300
+2300
+1133
+Weight = 70
+41676 42983 40553 
+Prev Vertex = 41676
+
+41676:
+2422
+2422
+2300
+2300
+1133
+Weight = 69
+43036 41001 41647 41213 
+Prev Vertex = 41647
+
+41647:
+2422
+2322
+2400
+2300
+1133
+Weight = 69
+41213 41676 41644 
+Prev Vertex = 41213
+
+41213:
+2322
+2422
+2400
+2300
+1133
+Weight = 68
+41647 41676 41210 41157 
+Prev Vertex = 41184
+
+41184:
+2322
+2322
+4200
+4200
+1133
+Weight = 68
+41157 43252 43319 
+Prev Vertex = 41157
+
+41157:
+2322
+2322
+2400
+2400
+1133
+Weight = 67
+41184 37610 41210 41213 
+Prev Vertex = 37610
+
+37610:
+2322
+2322
+2004
+2004
+1133
+Weight = 66
+41157 37791 37822 37604 37598 
+Prev Vertex = 37791
+
+37791:
+2324
+2322
+2002
+2004
+1133
+Weight = 66
+37610 37822 37785 
+Prev Vertex = 37822
+
+37822:
+2324
+2324
+2002
+2002
+1133
+Weight = 65
+37979 37791 37610 
+Prev Vertex = 37979
+
+37979:
+2342
+2342
+2002
+2002
+1133
+Weight = 64
+38182 38222 37822 37987 37909 
+Prev Vertex = 37987
+
+37987:
+2342
+2432
+2002
+2002
+1133
+Weight = 63
+38190 37909 37979 38222 
+Prev Vertex = 38190
+
+38190:
+2432
+2432
+2002
+2002
+1133
+Weight = 62
+39652 37987 38222 38182 37909 
+Prev Vertex = 39652
+
+39652:
+4232
+4232
+2002
+2002
+1133
+Weight = 61
+38190 39606 37185 
+Prev Vertex = 39606
+
+39606:
+4232
+2232
+2002
+4002
+1133
+Weight = 61
+37185 39652 
+Prev Vertex = 37185
+
+37185:
+2232
+2232
+4002
+4002
+1133
+Weight = 60
+33829 39606 39652 
+Prev Vertex = 33829
+
+33829:
+2232
+2232
+0042
+0042
+1133
+Weight = 59
+37185 33802 33867 33879 33824 33809 
+Prev Vertex = 33809
+
+33809:
+2232
+2232
+0032
+0042
+1143
+Weight = 58
+33824 33829 33812 33808 33805 
+Prev Vertex = 33805
+
+33805:
+2232
+2232
+0032
+0032
+1144
+Weight = 58
+33806 33807 33808 33809 33819 
+Prev Vertex = 33808
+
+33808:
+2232
+2232
+0032
+0042
+1134
+Weight = 57
+33823 33805 33809 33821 
+Prev Vertex = 33821
+
+33821:
+2232
+2232
+0034
+0042
+1132
+Weight = 56
+33836 34122 33808 33839 33819 
+Prev Vertex = 34122
+
+34122:
+2234
+2232
+0032
+0042
+1132
+Weight = 55
+34309 33821 34125 34120 
+Prev Vertex = 34309
+
+34309:
+2243
+2232
+0032
+0042
+1132
+Weight = 54
+34122 34024 34312 34307 
+Prev Vertex = 34024
+
+34024:
+2233
+2242
+0032
+0042
+1132
+Weight = 53
+34309 33985 34027 34022 
+Prev Vertex = 33985
+
+33985:
+2233
+2232
+0042
+0042
+1132
+Weight = 52
+37283 34024 34027 33983 33979 
+Prev Vertex = 37283
+
+37283:
+2233
+2232
+4002
+4002
+1132
+Weight = 51
+33985 39672 39693 
+Prev Vertex = 39672
+
+39672:
+4233
+2232
+2002
+4002
+1132
+Weight = 51
+37283 39693 
+Prev Vertex = 39693
+
+39693:
+4233
+4232
+2002
+2002
+1132
+Weight = 50
+38210 39672 37283 
+Prev Vertex = 38210
+
+38210:
+2433
+2432
+2002
+2002
+1132
+Weight = 49
+39693 38007 38232 38207 37929 
+Prev Vertex = 38207
+
+38207:
+2433
+2342
+2002
+2002
+1132
+Weight = 49
+38004 37929 38210 38232 
+Prev Vertex = 37929
+
+37929:
+2333
+2442
+2002
+2002
+1132
+Weight = 48
+38207 38210 27493 38007 38004 
+Prev Vertex = 27493
+
+27493:
+2333
+2002
+2002
+2442
+1132
+Weight = 47
+37929 27491 27487 
+Prev Vertex = 27491
+
+27491:
+2333
+2002
+2002
+2432
+1142
+Weight = 47
+27487 27492 27493 
+Prev Vertex = 27487
+
+27487:
+2333
+2002
+2002
+2342
+1142
+Weight = 46
+27491 27493 27486 27488 
+Prev Vertex = 27486
+
+27486:
+2333
+2002
+2002
+2324
+1124
+Weight = 45
+27487 27519 27522 
+Prev Vertex = 30976
+
+30976:
+2333
+2400
+2400
+2322
+1122
+Weight = 45
+27522 31291 31303 30975 30958 
+Prev Vertex = 27522
+
+27522:
+2333
+2004
+2004
+2322
+1122
+Weight = 44
+30976 27566 27571 27519 27486 
+Prev Vertex = 27566
+
+27566:
+2334
+2003
+2004
+2322
+1122
+Weight = 44
+27702 27522 27571 27563 
+Prev Vertex = 27571
+
+27571:
+2334
+2004
+2003
+2322
+1122
+Weight = 43
+27707 27723 27566 27522 
+Prev Vertex = 27707
+
+27707:
+2343
+2004
+2003
+2322
+1122
+Weight = 43
+27964 27571 27723 27702 
+Prev Vertex = 27723
+
+27723:
+2344
+2003
+2003
+2322
+1122
+Weight = 42
+27980 28018 27707 27571 
+Prev Vertex = 27980
+
+27980:
+2434
+2003
+2003
+2322
+1122
+Weight = 42
+27723 28018 27964 
+Prev Vertex = 28018
+
+28018:
+2443
+2003
+2003
+2322
+1122
+Weight = 41
+9924 27980 27723 
+Prev Vertex = 9924
+
+9924:
+2003
+2003
+2443
+2322
+1122
+Weight = 40
+28018 9887 9920 9921 9888 9909 
+Prev Vertex = 9888
+
+9888:
+2003
+2003
+2344
+2322
+1122
+Weight = 39
+9921 9924 9876 10264 10261 9885 
+Prev Vertex = 9918
+
+9918:
+2003
+2003
+2432
+2322
+1124
+Weight = 39
+9885 9881 9921 
+Prev Vertex = 9885
+
+9885:
+2003
+2003
+2342
+2322
+1124
+Weight = 38
+9918 9862 9888 
+Prev Vertex = 9862
+
+9862:
+2003
+2003
+2322
+2322
+1144
+Weight = 37
+9863 9864 9885 9876 
+Prev Vertex = 10096
+
+10096:
+2003
+2003
+4322
+2322
+2411
+Weight = 37
+10010 14218 9864 10095 10098 
+Prev Vertex = 9864
+
+9864:
+2003
+2003
+2322
+2322
+4411
+Weight = 36
+10096 9863 9862 9870 9868 
+Prev Vertex = 9870
+
+9870:
+2003
+2003
+2322
+2422
+4311
+Weight = 36
+9903 9864 9868 10098 
+Prev Vertex = 9868
+
+9868:
+2003
+2003
+2322
+2422
+3411
+Weight = 35
+9901 9906 9870 9864 9867 
+Prev Vertex = 9843
+
+9843:
+2003
+2003
+2242
+2242
+3311
+Weight = 35
+9906 9816 
+Prev Vertex = 9906
+
+9906:
+2003
+2003
+2422
+2422
+3311
+Weight = 34
+10059 9843 9901 9868 
+Prev Vertex = 10059
+
+10059:
+2003
+2003
+4222
+4222
+3311
+Weight = 33
+9906 14181 14480 10056 9963 
+Prev Vertex = 14181
+
+14181:
+4003
+2003
+2222
+4222
+3311
+Weight = 33
+10059 14480 14178 
+Prev Vertex = 14480
+
+14480:
+4003
+4003
+2222
+2222
+3311
+Weight = 32
+7678 14181 10059 
+Prev Vertex = 7678
+
+7678:
+0043
+0043
+2222
+2222
+3311
+Weight = 31
+14480 6610 7800 7622 6122 7410 3063 
+Prev Vertex = 3126
+
+3126:
+0023
+0023
+2422
+2422
+3311
+Weight = 31
+3279 3063 3121 3088 
+Prev Vertex = 3063
+
+3063:
+0023
+0023
+2242
+2242
+3311
+Weight = 30
+3126 3036 7410 7678 
+Prev Vertex = 3036
+
+3036:
+0023
+0023
+2224
+2224
+3311
+Weight = 29
+3063 3421 3424 
+Prev Vertex = 3421
+
+3421:
+0023
+0024
+2223
+2224
+3311
+Weight = 29
+3969 3036 3424 
+Prev Vertex = 3424
+
+3424:
+0023
+0024
+2224
+2223
+3311
+Weight = 28
+3972 4194 3421 3036 
+Prev Vertex = 3972
+
+3972:
+0024
+0023
+2224
+2223
+3311
+Weight = 28
+3424 4194 3969 
+Prev Vertex = 4194
+
+4194:
+0024
+0024
+2223
+2223
+3311
+Weight = 27
+7154 3972 3424 
+Prev Vertex = 7154
+
+7154:
+0042
+0042
+2223
+2223
+3311
+Weight = 26
+13984 4194 6685 1360 
+Prev Vertex = 13984
+
+13984:
+4002
+4002
+2223
+2223
+3311
+Weight = 25
+7154 13486 8976 
+Prev Vertex = 13486
+
+13486:
+4002
+2002
+2223
+4223
+3311
+Weight = 25
+8976 13984 13480 
+Prev Vertex = 8976
+
+8976:
+2002
+2002
+4223
+4223
+3311
+Weight = 24
+8331 13486 13984 8970 8519 
+Prev Vertex = 8331
+
+8331:
+2002
+2002
+2423
+2423
+3311
+Weight = 23
+8976 8140 8323 8187 
+Prev Vertex = 8140
+
+8140:
+2002
+2002
+2243
+2243
+3311
+Weight = 22
+8331 8124 8144 8137 8108 
+Prev Vertex = 8137
+
+8137:
+2002
+2002
+2243
+2234
+3311
+Weight = 22
+8121 8108 8140 8144 
+Prev Vertex = 8108
+
+8108:
+2002
+2002
+2233
+2244
+3311
+Weight = 21
+8137 8140 8085 8124 8121 
+Prev Vertex = 8085
+
+8085:
+2002
+2002
+2233
+2211
+3344
+Weight = 20
+8086 8087 8108 
+Prev Vertex = 8355
+
+8355:
+2002
+2002
+2433
+2211
+3243
+Weight = 20
+8285 8087 8354 
+Prev Vertex = 8087
+
+8087:
+2002
+2002
+2233
+2211
+3443
+Weight = 19
+8089 8090 8355 8086 8085 
+Prev Vertex = 8089
+
+8089:
+2002
+2002
+2233
+2211
+4343
+Weight = 19
+8087 8993 8090 8088 
+Prev Vertex = 8090
+
+8090:
+2002
+2002
+2233
+2211
+4433
+Weight = 18
+8994 8089 8087 8356 
+Prev Vertex = 8356
+
+8356:
+2002
+2002
+2433
+2211
+4233
+Weight = 17
+8286 8090 9161 
+Prev Vertex = 13671
+
+13671:
+4002
+2002
+2433
+2211
+2233
+Weight = 17
+9161 13643 13504 
+Prev Vertex = 9161
+
+9161:
+2002
+2002
+4433
+2211
+2233
+Weight = 16
+13671 8356 9133 8901 8994 
+Prev Vertex = 9133
+
+9133:
+2002
+2002
+4343
+2211
+2233
+Weight = 16
+8901 13643 8286 9161 9121 
+Prev Vertex = 8901
+
+8901:
+2002
+2002
+3443
+2211
+2233
+Weight = 15
+9133 9161 28000 8603 8889 8789 
+Prev Vertex = 8889
+
+8889:
+2002
+2002
+3434
+2211
+2233
+Weight = 15
+9121 8789 8573 8901 10634 
+Prev Vertex = 8789
+
+8789:
+2002
+2002
+3344
+2211
+2233
+Weight = 14
+8889 8901 8630 10622 
+Prev Vertex = 8630
+
+8630:
+2002
+2002
+3311
+2244
+2233
+Weight = 13
+8789 8627 8629 8628 8626 
+Prev Vertex = 8627
+
+8627:
+2002
+2002
+3311
+2234
+2243
+Weight = 13
+8629 8625 8626 8630 
+Prev Vertex = 8629
+
+8629:
+2002
+2002
+3311
+2243
+2243
+Weight = 12
+8638 8627 8630 8628 8625 
+Prev Vertex = 8653
+
+8653:
+2002
+2002
+3311
+4223
+4223
+Weight = 12
+8638 9038 9046 
+Prev Vertex = 8638
+
+8638:
+2002
+2002
+3311
+2423
+2423
+Weight = 11
+8653 8629 8798 8803 
+Prev Vertex = 8461
+
+8461:
+2002
+2002
+3114
+2423
+2323
+Weight = 11
+8803 10540 8429 8456 
+Prev Vertex = 8803
+
+8803:
+2002
+2002
+3411
+2423
+2323
+Weight = 10
+9035 9138 8461 8798 8638 
+Prev Vertex = 13648
+
+13648:
+4002
+2002
+2411
+2323
+2323
+Weight = 10
+9138 13455 13545 
+Prev Vertex = 9138
+
+9138:
+2002
+2002
+4411
+2323
+2323
+Weight = 9
+13648 8312 8945 8005 9035 8803 
+Prev Vertex = 8945
+
+8945:
+2002
+2002
+4114
+2323
+2323
+Weight = 9
+8005 13455 8062 9138 10639 8926 
+Prev Vertex = 8005
+
+8005:
+2002
+2002
+1144
+2323
+2323
+Weight = 8
+8945 9138 7861 10445 7986 7947 
+Prev Vertex = 7862
+
+7862:
+2002
+2002
+1124
+2323
+2433
+Weight = 8
+10407 7835 7861 7864 
+Prev Vertex = 7861
+
+7861:
+2002
+2002
+1124
+2323
+2343
+Weight = 7
+10406 7834 7862 7860 8005 
+Prev Vertex = 7860
+
+7860:
+2002
+2002
+1124
+2323
+2334
+Weight = 6
+10405 7833 7861 7863 
+Prev Vertex = 10408
+
+10408:
+2004
+2002
+1122
+2324
+2333
+Weight = 6
+7863 10953 10405 
+Prev Vertex = 7863
+
+7863:
+2002
+2002
+1124
+2324
+2333
+Weight = 5
+7968 10408 10953 7860 7833 
+Prev Vertex = 7968
+
+7968:
+2002
+2002
+1142
+2342
+2333
+Weight = 4
+8908 7863 7969 7884 7966 7879 
+Prev Vertex = 7879
+
+7879:
+2002
+2002
+1132
+2342
+2343
+Weight = 4
+7882 7884 7966 7968 7880 7877 7878 7875 
+Prev Vertex = 7966
+
+7966:
+2002
+2002
+1142
+2332
+2343
+Weight = 3
+8906 7879 7967 7965 7968 
+Prev Vertex = 8906
+
+8906:
+2002
+2002
+4112
+2332
+2343
+Weight = 2
+7966 13416 8014 8907 8905 8908 
+Prev Vertex = 8014
+
+8014:
+2002
+2002
+2112
+2332
+4343
+Weight = 1
+8012 8906 8015 8013 8019 
+Prev Vertex = 8012
