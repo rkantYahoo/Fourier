@@ -87,6 +87,43 @@ LHS &=& 2\sum_{x\in\mathbb{F}_2^n}(f(x) - f_I(x))^2 \\
 	 &=&  f\cdot f + f\cdot f - 2f\cdot f_I 
 \end{eqnarray*}
 \end{proof}
+
+\newpage
+\section{Stability and Noise Sensitivity}
+
+\begin{center}
+\begin{tabular}{| C | C |}
+\hline
+\multicolumn{2}{|C|}{\bf Noise} \\
+\hline
+{\bf \rho -correlated} & {\bf \delta -flipped} \\
+\hline
+\rho-correlated & (\frac{1}{2} - \frac{1}{2}\rho) -flipped \\
+\hline
+(1 - 2\delta) -correlated & \delta -flipped \\
+\hline
+y_i = \begin{cases} x_i & :(\frac{1}{2} + \frac{1}{2}\rho) \\ -x_i & :(\frac{1}{2} - \frac{1}{2}\rho) \end{cases}  &
+y_i = \begin{cases} x_i & :(1 -\delta) \\ -x_i & :\delta \end{cases} \\
+\hline
+E[x_i] = E[y_i] = 0 & E[x_i] = E[y_i] = 0 \\
+\text{and} & \text{and} \\
+E[x_iy_i] = \rho & E[x_iy_i] = 1 - 2\delta \\
+\hline
+\end{tabular}
+\end{center} 
+
+\begin{eqnarray*}
+{\bf Stab}_{\rho}[f]  & =  & \mathop{\mathbb{E}}_{\rho(x,y)}[f(x)f(y)] \\
+& = & \Pr_{\rho(x,y)}[f(x) = f(y)] - \Pr_{\rho(x,y)}[f(x) \neq f(y)] \\
+& = & \sum_{S\subseteq [n]}\hat{f}^2_S\rho^{|S|} \\
+& & \\
+& & \\
+{\bf NS}_{\delta} & = & \Pr[f(x) \neq f(y)] \\
+& = & \frac{1}{2} - \frac{1}{2}{\bf Stab}_{1 - 2\delta}[f]
+\end{eqnarray*}
+
+
+\newpage*
 \newpage
 \section{Low Degrees}
 \begin{problem}
